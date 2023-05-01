@@ -1,4 +1,6 @@
-# bridge-project
+# bridge-project (GBD - Generative Bridge Design)
+
+## Paper (Project Title): Applications of Neural Networks for Civil Design and Resource Management
 
 ## Description
 

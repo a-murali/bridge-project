@@ -1,0 +1,1974 @@
+,Name,Year,Location,Country,Status,Type,city,state,state_names,avg_temp_f,avg_temp_c
+0,Abernethy Bridge,1970,Oregon City (OR),USA,in use,composite,Oregon City,OR,Oregon,54.7,12.6
+1,Allegheny Station Viaduct,2012,Pittsburgh (PA),USA,in use,composite,Pittsburgh,PA,Pennsylvania,51.4,10.8
+2,Antioch Bridge,1978,- Antioch (CA),USA,in use,composite,Antioch,CA,California,60.7,15.9
+3,Bagley Street Pedestrian Bridge,2010,Detroit (MI),USA,in use,composite,Detroit,MI,Michigan,50.3,10.2
+4,Bear Creek Bridge,2011,Ouray County (CO),USA,in use,composite,Ouray County,CO,Colorado,44.3,6.8
+5,Bill Emerson Memorial Bridge,2003,Cape Girardeau (MO),USA,in use,composite,Cape Girardeau,MO,Missouri,56.9,13.8
+6,Blackwell Interchange Bridge,1967,Conway County (AR),USA,in use,composite,Conway County,AR,Arkansas,60.5,15.8
+7,BP Pedestrian Bridge,2004,Chicago (IL),USA,in use,composite,Chicago,IL,Illinois,49.9,9.9
+8,Cal Park Hill Pathway Bridge,2016,Larkspur (CA),USA,in use,composite,Larkspur,CA,California,59.4,15.2
+9,Captain John Bissell Memorial Bridge,1957,Windsor (CT),USA,in use,composite,Windsor,CT,Connecticut,49.0,9.4
+10,Chaska Bridge,2007,Chaska (MN),USA,in use,composite,Chaska,MN,Minnesota,45.4,7.4
+11,Chihuly Bridge of Glass,2002,Tacoma (WA),USA,in use,composite,Tacoma,WA,Washington,53.5,11.9
+12,Delta Ponds Pedestrian Bridge,2010,Eugene (OR),USA,in use,composite,Eugene,OR,Oregon,52.5,11.4
+13,Dexter Coffin Jr. Bridge,1959,- Windsor Locks (CT),USA,in use,composite,Windsor Locks,CT,Connecticut,48.0,8.9
+14,Dublin Link,2020,Dublin (OH),USA,in use,composite,Dublin,OH,Ohio,52.1,11.2
+15,East Fork White River Bridge,2002,Columbus (IN),USA,in use,composite,Columbus,IN,Indiana,53.5,11.9
+16,East Huntington Bridge,1985,Huntington (WV),USA,in use,composite,Huntington,WV,West Virginia,55.3,12.9
+17,Father Louis Hennepin Bridge,1990,Minneapolis (MN),USA,in use,composite,Minneapolis,MN,Minnesota,46.3,7.9
+18,Fisher's Bridge,1996,Mount Pleasant (MI),USA,in use,composite,Mount Pleasant,MI,Michigan,47.4,8.6
+19,Fort Duquene Bridge North Approach Viaducts,1970,Pittsburgh (PA),USA,in use,composite,Pittsburgh,PA,Pennsylvania,51.4,10.8
+20,Governor Mario M. Cuomo Bridge,2018,- Nyack (NY),USA,in use,composite,Nyack,NY,New York,45.4,7.4
+21,High Road Bridge,2008,Lockport Township (IL),USA,in use,composite,Lockport Township,IL,Illinois,50.3,10.2
+22,Huron Parkway Bridge,1968,Ann Arbor (MI),USA,in use,composite,Ann Arbor,MI,Michigan,48.8,9.3
+23,I-94 Saint Croix River Bridge,1995,Hudson (WI),USA,in use,composite,Hudson,WI,Wisconsin,43.1,6.2
+24,I-95 Androscoggin River Bridge,1955,Lewiston (ME),USA,in use,composite,Lewiston,ME,Maine,45.4,7.4
+25,Igor I. Sikorsky Memorial Bridge,2003,Stratford (CT),USA,in use,composite,Stratford,CT,Connecticut,52.0,11.1
+26,Interstate 95 Brandywine Creek Bridge,1968,Wilmington (DE),USA,in use,composite,Wilmington,DE,Delaware,54.4,12.4
+27,James D. Pfluger Pedestrian Bridge,2001,Austin (TX),USA,in use,composite,Austin,TX,Texas,68.5,20.3
+28,John Greenleaf Whittier Bridge,2018,- Amesbury (MA),USA,in use,composite,Amesbury,MA,Massachusetts,47.9,8.8
+29,John V. Tunney Bridge,2015,Los Angeles (CA),USA,in use,composite,Los Angeles,CA,California,64.9,18.3
+30,Joshua Chamberlain Bridge,1959,Bangor (ME),USA,in use,composite,Bangor,ME,Maine,44.3,6.8
+31,Kellog Central Business District Viaduct,1996,Wichita (KS),USA,in use,composite,Wichita,KS,Kansas,57.0,13.9
+32,Leonard P. Zakim Bunker Hill Memorial Bridge,2003,Boston (MA),USA,in use,composite,Boston,MA,Massachusetts,51.3,10.7
+33,Leverett Circle Connector Bridge,1999,Boston (MA),USA,in use,composite,Boston,MA,Massachusetts,51.3,10.7
+34,Liberty Bridge,2004,Greenville (SC),USA,in use,composite,Greenville,SC,South Carolina,60.3,15.7
+35,Lloyd Spriggle Memorial Bridge,1960,Red Wing (MN),USA,in use,composite,Red Wing,MN,Minnesota,37.3,2.9
+36,Mifflinville Bridge,1992,Mifflinville (PA),USA,in use,composite,Mifflinville,PA,Pennsylvania,48.8,9.3
+37,Moses Wheeler Bridge,1958,- Milford (CT),USA,demolished,composite,Milford,CT,Connecticut,44.5,6.9
+38,Moses Wheeler Bridge,2016,- Milford (CT),USA,in use,composite,Milford,CT,Connecticut,44.5,6.9
+39,Mud Fork River Bridge,1996,Logan (WV),USA,in use,composite,Logan,WV,West Virginia,51.8,11.0
+40,New Hope-Lambertville Route 202 Toll Bridge,1971,Lambertville (NJ),USA,in use,composite,Lambertville,NJ,New Jersey,53.0,11.7
+41,O'Connell Bridge,1971,Sitka (AK),USA,in use,composite,Sitka,AK,Alaska,43.0,6.1
+42,Old Chaska Bridge,1960,Chaska (MN),USA,demolished,composite,Chaska,MN,Minnesota,45.4,7.4
+43,Patton Bridge,1950,Auburn (WA),USA,in use,composite,Auburn,WA,Washington,48.3,9.1
+44,Pioneer Memorial Bridge,1967,Sacramento (CA),USA,in use,composite,Sacramento,CA,California,61.0,16.1
+45,Portland Street Overpass,1944,Saint Johnsbury (VT),USA,in use,composite,Saint Johnsbury,VT,Vermont,42.0,5.6
+46,Regional Transportation District Footbridge,2010,Broomfield (CO),USA,in use,composite,Broomfield,CO,Colorado,52.4,11.3
+47,Roscoe State Aid Bridge,1935,Roscoe (NE),USA,out of service,composite,Roscoe,NE,Nebraska,48.8,9.3
+48,Sacramento River Bridge (I-5),1970,- Sacramento County (CA),USA,in use,composite,Sacramento County,CA,California,61.0,16.1
+49,San Diego-Coronado Bay Bridge,1969,San Diego (CA),USA,in use,composite,San Diego,CA,California,63.6,17.6
+50,San Martin Drive Bridge,2005,Baltimore (MD),USA,in use,composite,Baltimore,MD,Maryland,55.1,12.8
+51,Spencer Bridge,2006,Klamath County (OR),USA,in use,composite,Klamath County,OR,Oregon,48.4,9.1
+52,Thompson's Bridge,1935,Wilmington (DE),USA,in use,composite,Wilmington,DE,Delaware,54.4,12.4
+53,Trenton-Morrisville Route 1 Toll Bridge,1952,Trenton (NJ),USA,in use,composite,Trenton,NJ,New Jersey,54.0,12.2
+54,United States Naval Academy Bridge,1995,Annapolis (MD),USA,in use,composite,Annapolis,MD,Maryland,56.5,13.6
+55,Vermillion-Newcastle Bridge,2001,Vermillion (SD),USA,in use,composite,Vermillion,SD,South Dakota,48.0,8.9
+56,Veterans Memorial Bridge,1990,Weirton (WV),USA,in use,composite,Weirton,WV,West Virginia,52.8,11.6
+57,Veterans Memorial Bridge,1997,Beverly (MA),USA,in use,composite,Beverly,MA,Massachusetts,47.9,8.8
+58,Veterans Memorial Bridge,1981,Ottawa (IL),USA,in use,composite,Ottawa,IL,Illinois,50.7,10.4
+59,Whites Hill Sidehill Viaduct,2002,Marin County (CA),USA,in use,composite,Marin County,CA,California,59.4,15.2
+60,William H. Harsha Bridge,2000,Maysville (KY),USA,in use,composite,Maysville,KY,Kentucky,55.6,13.1
+61,Forrest & Maxie Preston Memorial Suspension Bridge,1999,River (KY),USA,in use,composite,River,KY,Kentucky,55.6,13.1
+62,Pine Barrens Bridge,2002,Wharton State Forest (NJ),USA,in use,composite,Wharton State Forest,NJ,New Jersey,50.6,10.3
+63,15th Street Overpass (York Subway),1938,York (NE),USA,in use,concrete,York,NE,Nebraska,50.4,10.2
+64,17th Street Causeway Bridge,2002,Fort Lauderdale (FL),USA,in use,concrete,Fort Lauderdale,FL,Florida,76.1,24.5
+65,21st Street Bridge,1932,Tulsa (OK),USA,demolished,concrete,Tulsa,OK,Oklahoma,60.8,16.0
+66,26th Street Los Angeles River Bridge,1926,Vernon (CA),USA,in use,concrete,Vernon,CA,California,59.4,15.2
+67,Acosta Bridge,1994,Jacksonville (FL),USA,in use,concrete,Jacksonville,FL,Florida,68.6,20.3
+68,Adams Avenue Bridge,1970,San Diego (CA),USA,in use,concrete,San Diego,CA,California,63.6,17.6
+69,Adkisson Bridge,1925,Wasco County (OR),USA,in use,concrete,Wasco County,OR,Oregon,50.6,10.3
+70,Alameda Street Bridge,2001,Los Angeles (CA),USA,in use,concrete,Los Angeles,CA,California,64.9,18.3
+71,Alexander Avenue Bridge,1925,Larkspur (CA),USA,in use,concrete,Larkspur,CA,California,59.4,15.2
+72,Allegheny River Turnpike Bridge,2010,Harmar (PA),USA,in use,concrete,Harmar,PA,Pennsylvania,48.8,9.3
+73,Alsea Bay Bridge,1991,Waldport (OR),USA,in use,concrete,Waldport,OR,Oregon,51.5,10.8
+74,Alsea Bay Bridge,1936,Waldport (OR),USA,demolished,concrete,Waldport,OR,Oregon,51.5,10.8
+75,Alvord Lake Bridge,1889,San Francisco (CA),USA,in use,concrete,San Francisco,CA,California,57.3,14.1
+76,American Legion Memorial Bridge,1930,Traverse City (MI),USA,in use,concrete,Traverse City,MI,Michigan,45.4,7.4
+77,Andrew J. Sullivan Memorial Bridge,1928,Williamsburg (KY),USA,in use,concrete,Williamsburg,KY,Kentucky,55.9,13.3
+78,Angeles Crest Highway La Canada Canyon Bridge,1930,Los Angeles County (CA),USA,in use,concrete,Los Angeles County,CA,California,59.4,15.2
+79,Angels Creek Bridge,1909,Murphys (CA),USA,in use,concrete,Murphys,CA,California,49.4,9.7
+80,Ann W. Richards Congress Avenue Bridge,1910,Austin (TX),USA,in use,concrete,Austin,TX,Texas,68.5,20.3
+81,Anoka-Champlin Bridge,1929,Anoka (MN),USA,in use,concrete,Anoka,MN,Minnesota,46.0,7.8
+82,Arlington Memorial Bridge,1932,Washington,USA,in use,concrete,Washingto,WA,Washington,48.3,9.1
+83,Arroyo Quemado Bridge,1916,Santa Barbara (CA),USA,in use,concrete,Santa Barbara,CA,California,57.7,14.3
+84,Arsenal Street Bridge,1925,- Watertown (MA),USA,in use,concrete,Watertown,MA,Massachusetts,47.9,8.8
+85,Arthur J. DiTommaso Memorial Bridge,2003,Fitchburg (MA),USA,in use,concrete,Fitchburg,MA,Massachusetts,47.9,8.8
+86,Asaga Strait Bridge,1979,Ofu Island (AS),USA,in use,concrete,Ofu Island,AS,American Samoa,81.2,27.3
+87,Ash Avenue Bridge,1913,Tempe (AZ),USA,demolished,concrete,Tempe,AZ,Arizona,68.8,20.4
+88,Ashtabula Viaduct,1928,Ashtabula (OH),USA,demolished,concrete,Ashtabula,OH,Ohio,49.2,9.6
+89,Atlantic Boulevard Bridge,1931,Vernon (CA),USA,in use,concrete,Vernon,CA,California,59.4,15.2
+90,Avenue 26 Bridge,1939,Los Angeles (CA),USA,in use,concrete,Los Angeles,CA,California,64.9,18.3
+91,Avenue 60 Bridge,1909,Los Angeles (CA),USA,in use,concrete,Los Angeles,CA,California,64.9,18.3
+92,Avis Overhead Bridge,1929,Hinton (WV),USA,out of service,concrete,Hinton,WV,West Virginia,53.5,11.9
+93,Bailey Island Bridge,1928,Harpswell (ME),USA,in use,concrete,Harpswell,ME,Maine,41.0,5.0
+94,Barton Creek Boulevard Bridge,1987,Austin (TX),USA,in use,concrete,Austin,TX,Texas,68.5,20.3
+95,Barton Springs Bridge,1926,Austin (TX),USA,in use,concrete,Austin,TX,Texas,68.5,20.3
+96,Bay Saint Louis Bridge,2007,Hancock County (MS),USA,in use,concrete,Hancock County,MS,Mississippi,63.4,17.4
+97,Bayview Bridge,1986,Quincy (IL),USA,in use,concrete,Quincy,IL,Illinois,52.7,11.5
+98,Belle Isle Pedestrian Bridge,1991,Richmond (VA),USA,in use,concrete,Richmond,VA,Virginia,58.9,14.9
+99,Belleview Bridge,1915,Belleair (FL),USA,in use,concrete,Belleair,FL,Florida,70.7,21.5
+100,Belton Bridge,1920,Flathead County (MT),USA,out of service,concrete,Flathead County,MT,Montana,42.7,5.9
+101,Benicia Martinez Bridge,2007,Martinez (CA),USA,in use,concrete,Martinez,CA,California,59.2,15.1
+102,Bennington Bridge,1928,Ottawa County (KS),USA,demolished,concrete,Ottawa County,KS,Kansas,55.0,12.8
+103,Benson Street Bridge,1910,Hamilton County (OH),USA,in use,concrete,Hamilton County,OH,Ohio,39.3,4.1
+104,Berkeley I-80 Pedestrian Overcrossing,2002,Berkeley (CA),USA,in use,concrete,Berkeley,CA,California,57.1,13.9
+105,Betts Bridge,2006,Salmon Creek (WA),USA,in use,concrete,Salmon Creek,WA,Washington,48.3,9.1
+106,Big Blue River Bridge,1918,Grafton (NE),USA,in use,concrete,Grafton,NE,Nebraska,48.8,9.3
+107,Big Chickies Bridge,1916,Lancaster Junction (PA),USA,demolished,concrete,Lancaster Junction,PA,Pennsylvania,52.2,11.2
+108,Big Conestoga Creek Bridge No. 12,1917,Brownstown (PA),USA,in use,concrete,Brownstown,PA,Pennsylvania,50.0,10.0
+109,Big Creek Bridge,1937,Lucia (CA),USA,in use,concrete,Lucia,CA,California,59.4,15.2
+110,Big Creek Bridge,1931,Lane County (OR),USA,in use,concrete,Lane County,OR,Oregon,48.4,9.1
+111,Big Soldier Creek Bridge,1922,Grove (KS),USA,in use,concrete,Grove,KS,Kansas,54.3,12.4
+112,Bixby Creek Bridge,1933,Carmel-by-the-Sea (CA),USA,in use,concrete,Carmel-by-the-Sea,CA,California,59.4,15.2
+113,BNSF 6th Street Viaduct,1907,Vancouver (WA),USA,in use,concrete,Vancouver,WA,Washington,52.4,11.3
+114,Boatlanding Bridge,1911,Jamestown (NY),USA,demolished,concrete,Jamestown,NY,New York,48.0,8.9
+115,Bob Michel Bridge,1993,Peoria (IL),USA,in use,concrete,Peoria,IL,Illinois,51.9,11.1
+116,Brecksville-Northfield High Level Bridge,1931,Brecksville (OH),USA,in use,concrete,Brecksville,OH,Ohio,50.7,10.4
+117,Bridge of Flowers,1908,Shelburne Falls (MA),USA,in use,concrete,Shelburne Falls,MA,Massachusetts,46.1,7.8
+118,Bridge of the Hidalgos,1920,Santa Fe (NM),USA,in use,concrete,Santa Fe,NM,New Mexico,51.3,10.7
+119,Bridge Street Bridge,1904,Grand Rapids (MI),USA,demolished,concrete,Grand Rapids,MI,Michigan,49.1,9.5
+120,Bridge Street Bridge,1910,Winnemucca (NV),USA,in use,concrete,Winnemucca,NV,Nevada,49.2,9.6
+121,Broad Avenue Memorial Bridge,2013,Albany (GA),USA,in use,concrete,Albany,GA,Georgia,66.9,19.4
+122,Broad Avenue Memorial Bridge,1920,Albany (GA),USA,demolished,concrete,Albany,GA,Georgia,66.9,19.4
+123,Broad Street Bridge,1918,Mason (TX),USA,in use,concrete,Mason,TX,Texas,64.6,18.1
+124,Broadway Bridge,2001,Daytona Beach (FL),USA,in use,concrete,Daytona Beach,FL,Florida,70.9,21.6
+125,Brookridge Drive Bridge,1934,Atlanta (GA),USA,in use,concrete,Atlanta,GA,Georgia,62.6,17.0
+126,Brush Creek Bridge,2000,Port Orford (OR),USA,in use,concrete,Port Orford,OR,Oregon,53.0,11.7
+127,Buck Run Creek Bridge,1925,Garland (KS),USA,in use,concrete,Garland,KS,Kansas,54.3,12.4
+128,Buckeye Creek Bridge,1925,Yolo County (CA),USA,in use,concrete,Yolo County,CA,California,53.0,11.7
+129,Bucks Bar Road Bridge,1940,El Dorado County (CA),USA,in use,concrete,El Dorado County,CA,California,59.4,15.2
+130,Bunton Branch Bridge,1915,Kyle (TX),USA,in use,concrete,Kyle,TX,Texas,64.8,18.2
+131,Butte Creek Bridge,1940,Glenn County (CA),USA,in use,concrete,Glenn County,CA,California,59.4,15.2
+132,Cabrillo Bridge,1915,San Diego (CA),USA,in use,concrete,San Diego,CA,California,63.6,17.6
+133,Cache Creek Bridge I,1930,Yolo County (CA),USA,in use,concrete,Yolo County,CA,California,53.0,11.7
+134,Caguanas River Bridge,1991,Utuado (US-PR),USA,in use,concrete,Utuado,US-PR,Puerto Rico,75.4,24.1
+135,Campbell's Bridge,1907,Milford Square (PA),USA,demolished,concrete,Milford Square,PA,Pennsylvania,48.8,9.3
+136,Canyon Bridge,1895,Teton County (WY),USA,demolished,concrete,Teton County,WY,Wyoming,42.0,5.6
+137,Canyon Bridge,1915,Park County (WY),USA,in use,concrete,Park County,WY,Wyoming,42.0,5.6
+138,Canyon Diablo Bridge,1915,Winona (AZ),USA,in use,concrete,Winona,AZ,Arizona,60.3,15.7
+139,Cape Creek Bridge,1932,Lane County (OR),USA,in use,concrete,Lane County,OR,Oregon,48.4,9.1
+140,Capitol Boulevard Bridge,1936,Tumwater (WA),USA,in use,concrete,Tumwater,WA,Washington,48.0,8.9
+141,Cappelen Memorial Bridge,1923,Minneapolis (MN),USA,in use,concrete,Minneapolis,MN,Minnesota,46.3,7.9
+142,Carns State Aid Bridge,1913,Bassett (NE),USA,in use,concrete,Bassett,NE,Nebraska,48.8,9.3
+143,Caveman Bridge,1931,Grants Pass (OR),USA,in use,concrete,Grants Pass,OR,Oregon,54.2,12.3
+144,Cedar Avenue Bridge,1929,Minneapolis (MN),USA,in use,concrete,Minneapolis,MN,Minnesota,46.3,7.9
+145,Cedar Creek Bridge,1927,Elgin (KS),USA,completed,concrete,Elgin,KS,Kansas,55.5,13.1
+146,Cedar Creek Bridge,1928,Valley Falls (KS),USA,in use,concrete,Valley Falls,KS,Kansas,54.3,12.4
+147,Cedarvale Bridge,1930,Cedarvale (KS),USA,in use,concrete,Cedarvale,KS,Kansas,54.3,12.4
+148,Center Road Bridge,1925,Conneaut (OH),USA,in use,concrete,Conneaut,OH,Ohio,50.7,10.4
+149,Center Street Bridge,1913,Castro Valley (CA),USA,in use,concrete,Castro Valley,CA,California,59.4,15.2
+150,Cesar Chavez Avenue Bridge,1926,Los Angeles (CA),USA,in use,concrete,Los Angeles,CA,California,64.9,18.3
+151,Chasm Bridge,1937,Neahkahnie Beach (OR),USA,in use,concrete,Neahkahnie Beach,OR,Oregon,48.4,9.1
+152,Cheesequake Creek Bridge,1943,Sayreville (NJ),USA,in use,concrete,Sayreville,NJ,New Jersey,52.7,11.5
+153,Chehalis River Bridge,1931,Pe Ell (WA),USA,in use,concrete,Pe Ell,WA,Washington,48.3,9.1
+154,Chelan River Bridge,1922,Chelan County (WA),USA,out of service,concrete,Chelan County,WA,Washington,49.9,9.9
+155,Chetco River Bridge,1972,Brookings (OR),USA,in use,concrete,Brookings,OR,Oregon,48.4,9.1
+156,Chittenden Bridge,1903,Park County (WY),USA,demolished,concrete,Park County,WY,Wyoming,42.0,5.6
+157,Chittenden Memorial Bridge,1962,Park County (WY),USA,in use,concrete,Park County,WY,Wyoming,42.0,5.6
+158,Clarence L. Hussey Memorial Bridge,1925,North Kingstown (RI),USA,in use,concrete,North Kingstown,RI,Rhode Island,50.1,10.1
+159,Clearwater Memorial Causeway,2005,Clearwater (FL),USA,in use,concrete,Clearwater,FL,Florida,72.6,22.6
+160,Cleft-Ridge Span,1872,New York (NY),USA,in use,concrete,New York,NY,New York,55.5,13.1
+161,Clifton Avenue Bridge,2002,Baltimore (MD),USA,in use,concrete,Baltimore,MD,Maryland,55.1,12.8
+162,Cline Avenue Bridge,2020,East Chicago (IN),USA,in use,concrete,East Chicago,IN,Indiana,51.7,10.9
+163,Cochrane-Africatown USA Bridge,1991,Mobile (AL),USA,in use,concrete,Mobile,AL,Alabama,67.2,19.6
+164,Coffeyville Bridge,1926,Coffeyville (KS),USA,in use,concrete,Coffeyville,KS,Kansas,58.1,14.5
+165,Colfax Avenue Viaduct,1984,Denver (CO),USA,in use,concrete,Denver,CO,Colorado,50.2,10.1
+166,Colorado River Bridge (US 191),2010,Moab (UT),USA,in use,concrete,Moab,UT,Utah,52.0,11.1
+167,Colorado Street Bridge,1913,Pasadena (CA),USA,in use,concrete,Pasadena,CA,California,63.9,17.7
+168,Commerce Street Bridge,1915,San Antonio (TX),USA,in use,concrete,San Antonio,TX,Texas,69.1,20.6
+169,Commercial Street Bridge,1905,Trinidad (CO),USA,demolished,concrete,Trinidad,CO,Colorado,51.9,11.1
+170,Como Park Footbridge,1904,Saint Paul (MN),USA,in use,concrete,Saint Paul,MN,Minnesota,47.1,8.4
+171,Conde B. McCullough Memorial Bridge,1936,North Bend (OR),USA,in use,concrete,North Bend,OR,Oregon,52.0,11.1
+172,Conroe Bridge,1925,Geary County (KS),USA,in use,concrete,Geary County,KS,Kansas,54.3,12.4
+173,Cotter Bridge,1930,Cotter (AR),USA,in use,concrete,Cotter,AR,Arkansas,60.4,15.8
+174,Cowen Park Bridge,1936,Seattle (WA),USA,in use,concrete,Seattle,WA,Washington,52.6,11.4
+175,Cowlitz River Bridge,1968,Mossyrock (WA),USA,in use,concrete,Mossyrock,WA,Washington,48.3,9.1
+176,Creamery Bridge,1930,Osawatomie (KS),USA,in use,concrete,Osawatomie,KS,Kansas,56.1,13.4
+177,Crooked River Bridge,2000,Jefferson County (OR),USA,in use,concrete,Jefferson County,OR,Oregon,48.4,9.1
+178,Cross Bay Veterans Memorial Bridge,1970,New York (NY),USA,in use,concrete,New York,NY,New York,55.5,13.1
+179,Cross Canyon Bridge,1992,Portland (OR),USA,in use,concrete,Portland,OR,Oregon,54.5,12.5
+180,Crown Point Viaduct,1914,Multnomah County (OR),USA,in use,concrete,Multnomah County,OR,Oregon,48.4,9.1
+181,Crystal Springs Road Bridge,1901,San Mateo (CA),USA,in use,concrete,San Mateo,CA,California,57.3,14.1
+182,CSX Grand River Bridge,1908,Painesville (OH),USA,in use,concrete,Painesville,OH,Ohio,50.7,10.4
+183,Cummins Creek Bridge,1931,Lane County (OR),USA,in use,concrete,Lane County,OR,Oregon,48.4,9.1
+184,Cypress Street Viaduct,1957,Oakland (CA),USA,collapsed,concrete,Oakland,CA,California,59.4,15.2
+185,Dallas-Oak Cliff Viaduct,1912,Dallas (TX),USA,in use,concrete,Dallas,TX,Texas,66.3,19.1
+186,Dames Point Bridge,1989,Jacksonville (FL),USA,in use,concrete,Jacksonville,FL,Florida,68.6,20.3
+187,Dauphin Island Bridge,1982,Mobile (AL),USA,in use,concrete,Mobile,AL,Alabama,67.2,19.6
+188,Deadwood Creek Bridge,1937,Pierce County (WA),USA,demolished,concrete,Pierce County,WA,Washington,48.3,9.1
+189,Deering Bridge,1916,Sutton (NE),USA,in use,concrete,Sutton,NE,Nebraska,48.8,9.3
+190,Delaware River Viaduct,1911,Portland (PA),USA,out of service,concrete,Portland,PA,Pennsylvania,48.8,9.3
+191,Dell Avenue Carroll Canal Bridge,1907,Los Angeles (CA),USA,in use,concrete,Los Angeles,CA,California,64.9,18.3
+192,Dell Avenue Howland Canal Bridge,1907,Los Angeles (CA),USA,in use,concrete,Los Angeles,CA,California,64.9,18.3
+193,Dell Avenue Linnie Canal Bridge,1907,Los Angeles (CA),USA,in use,concrete,Los Angeles,CA,California,64.9,18.3
+194,Dell Avenue Sherman Canal Bridge,1907,Los Angeles (CA),USA,in use,concrete,Los Angeles,CA,California,64.9,18.3
+195,Depoe Bay Bridge,1927,Lincoln County (OR),USA,in use,concrete,Lincoln County,OR,Oregon,48.4,9.1
+196,Depot Street Bridge,2006,Rogue River (OR),USA,in use,concrete,Rogue River,OR,Oregon,48.4,9.1
+197,Derby-Shelton Bridge,1918,Derby (CT),USA,in use,concrete,Derby,CT,Connecticut,49.0,9.4
+198,Des Plaines River Valley Bridge,2007,Bolingbrook (IL),USA,in use,concrete,Bolingbrook,IL,Illinois,51.8,11.0
+199,Dewlen-Spohnhauer Bridge,1926,Independence (KS),USA,in use,concrete,Independence,KS,Kansas,57.7,14.3
+200,Discovery Bridge,1992,Columbus (OH),USA,in use,concrete,Columbus,OH,Ohio,53.4,11.9
+201,Dodge Street Overpass,1934,Omaha (NE),USA,in use,concrete,Omaha,NE,Nebraska,51.1,10.6
+202,Dry Canyon Creek Bridge,1921,Wasco County (OR),USA,in use,concrete,Wasco County,OR,Oregon,50.6,10.3
+203,Dry Slough Bridge,1913,Yolo County (CA),USA,in use,concrete,Yolo County,CA,California,53.0,11.7
+204,Duckabush River Bridge,1934,Brinnon (WA),USA,in use,concrete,Brinnon,WA,Washington,48.3,9.1
+205,Dumbarton Bridge,1982,Menlo Park (CA),USA,in use,concrete,Menlo Park,CA,California,59.4,15.2
+206,Dundee Road Bridge,1932,Wheeling (IL),USA,in use,concrete,Wheeling,IL,Illinois,49.6,9.8
+207,East 12th Street Bridge,1931,Austin (TX),USA,in use,concrete,Austin,TX,Texas,68.5,20.3
+208,East 21st Street Bridge,1997,Tacoma (WA),USA,in use,concrete,Tacoma,WA,Washington,53.5,11.9
+209,East 34th Street Bridge,1937,Tacoma (WA),USA,in use,concrete,Tacoma,WA,Washington,53.5,11.9
+210,East Branch Hudson River Bridge,1916,Fort Edward (NY),USA,in use,concrete,Fort Edward,NY,New York,45.4,7.4
+211,East Huntington Bridge,1985,Huntington (WV),USA,in use,concrete,Huntington,WV,West Virginia,55.3,12.9
+212,East Michigan Avenue Bridge,1923,Galesburg (MI),USA,demolished,concrete,Galesburg,MI,Michigan,44.4,6.9
+213,East Park Dam,1910,Colusa County (CA),USA,in use,concrete,Colusa County,CA,California,61.3,16.3
+214,East Verdi Bridge,1938,Verdi (NV),USA,in use,concrete,Verdi,NV,Nevada,49.9,9.9
+215,Eastern Valley Road Bridge,1930,Tuscaloosa County (AL),USA,in use,concrete,Tuscaloosa County,AL,Alabama,64.0,17.8
+216,Eastgate Mall Bridge,1971,San Diego (CA),USA,in use,concrete,San Diego,CA,California,63.6,17.6
+217,Eastwood Park Bridge,1927,Minot (ND),USA,in use,concrete,Minot,ND,North Dakota,42.1,5.6
+218,Ed Hendler Bridge,1978,Pasco (WA),USA,in use,concrete,Pasco,WA,Washington,53.2,11.8
+219,Eden Park Bridge,1895,Cincinnati (OH),USA,in use,concrete,Cincinnati,OH,Ohio,54.6,12.6
+220,Elberon Avenue Bridge,1936,Los Angeles (CA),USA,in use,concrete,Los Angeles,CA,California,64.9,18.3
+221,Eliot Bridge,1950,- Boston (MA),USA,in use,concrete,Boston,MA,Massachusetts,51.3,10.7
+222,Elkahatchee Creek Bridge,1931,Tallapoosa County (AL),USA,in use,concrete,Tallapoosa County,AL,Alabama,62.8,17.1
+223,Elwha River Bridge,2009,Clallam County (WA),USA,in use,concrete,Clallam County,WA,Washington,48.3,9.1
+224,Ernest F. Lyons Bridge,2007,Stuart (FL),USA,in use,concrete,Stuart,FL,Florida,70.7,21.5
+225,Evans Crary Sr. Bridge,2001,Stuart (FL),USA,in use,concrete,Stuart,FL,Florida,70.7,21.5
+226,Fairmount Avenue Bridge,2003,Jamestown (NY),USA,in use,concrete,Jamestown,NY,New York,48.0,8.9
+227,Fern Bridge,1911,Ferndale (CA),USA,in use,concrete,Ferndale,CA,California,46.0,7.8
+228,Fern Canyon Bridge,1931,Los Angeles County (CA),USA,in use,concrete,Los Angeles County,CA,California,59.4,15.2
+229,Fern Dell Drive Bridge,1923,Los Angeles (CA),USA,in use,concrete,Los Angeles,CA,California,64.9,18.3
+230,Fiddletown Road Bridge,1930,Fiddletown (CA),USA,in use,concrete,Fiddletown,CA,California,46.0,7.8
+231,Fifth Street Bridge,2008,Atlanta (GA),USA,in use,concrete,Atlanta,GA,Georgia,62.6,17.0
+232,First Avenue Bridge,1920,Cedar Rapids (IA),USA,in use,concrete,Cedar Rapids,IA,Iowa,48.2,9.0
+233,First Street Bridge (Napa River),1915,Napa (CA),USA,demolished,concrete,Napa,CA,California,56.7,13.7
+234,First Street Los Angeles River Bridge,1929,Los Angeles (CA),USA,in use,concrete,Los Angeles,CA,California,64.9,18.3
+235,Fisherman Inlet Bridge,1965,Northampton County (VA),USA,in use,concrete,Northampton County,VA,Virginia,55.1,12.8
+236,FIU-Sweetwater Pedestrian Bridge,2018,Miami (FL),USA,collapsed,concrete,Miami,FL,Florida,77.2,25.1
+237,Foothill Boulevard Pacoima Wash Bridge,1923,Los Angeles (CA),USA,in use,concrete,Los Angeles,CA,California,64.9,18.3
+238,Fort Morgan Bridge,1923,Fort Morgan (CO),USA,in use,concrete,Fort Morgan,CO,Colorado,48.8,9.3
+239,Fourth Street Bridge,1930,Los Angeles (CA),USA,in use,concrete,Los Angeles,CA,California,64.9,18.3
+240,Fourth Street Bridge,1928,Los Angeles (CA),USA,in use,concrete,Los Angeles,CA,California,64.9,18.3
+241,Francis Scott Key Bridge,1923,Washington,USA,in use,concrete,Washingto,WA,Washington,48.3,9.1
+242,Franklin Avenue Bridge,1925,Los Angeles (CA),USA,in use,concrete,Los Angeles,CA,California,64.9,18.3
+243,Fred G. Redmon Bridge,1971,Yakima County (WA),USA,in use,concrete,Yakima County,WA,Washington,49.7,9.8
+244,Fred Hartman Bridge,1995,Baytown (TX),USA,in use,concrete,Baytown,TX,Texas,67.7,19.8
+245,Freeman's Crossing Bridge,1921,North San Juan (CA),USA,demolished,concrete,North San Juan,CA,California,62.3,16.8
+246,Fremont Avenue Bridge,1911,Los Altos (CA),USA,in use,concrete,Los Altos,CA,California,59.4,15.2
+247,Fulton Bridge,1927,Fulton (KS),USA,in use,concrete,Fulton,KS,Kansas,54.3,12.4
+248,Fulton Road Bridge,1932,Cleveland (OH),USA,demolished,concrete,Cleveland,OH,Ohio,51.4,10.8
+249,Fulton Road Bridge,2010,Cleveland (OH),USA,in use,concrete,Cleveland,OH,Ohio,51.4,10.8
+250,Galena Creek Bridge,2012,Nevada (NV),USA,in use,concrete,Nevada,NV,Nevada,49.9,9.9
+251,Galena Y-Bridge,1926,Galena (MO),USA,in use,concrete,Galena,MO,Missouri,56.1,13.4
+252,Galveston Causeway Bridge,1912,Galveston (TX),USA,in use,concrete,Galveston,TX,Texas,71.3,21.8
+253,Galveston Causeway Bridges,2008,Galveston (TX),USA,in use,concrete,Galveston,TX,Texas,71.3,21.8
+254,Garcon Point Bridge,1999,Santa Rosa County (FL),USA,in use,concrete,Santa Rosa County,FL,Florida,70.7,21.5
+255,Gates Bridge,1993,Gates (OR),USA,in use,concrete,Gates,OR,Oregon,51.2,10.7
+256,George S. Eccles 2002 Legacy Bridge,2001,Salt Lake City (UT),USA,in use,concrete,Salt Lake City,UT,Utah,52.8,11.6
+257,George Westinghouse Memorial Bridge,1932,North Versailles (PA),USA,in use,concrete,North Versailles,PA,Pennsylvania,48.8,9.3
+258,Georgia Street Bridge,1914,San Diego (CA),USA,in use,concrete,San Diego,CA,California,63.6,17.6
+259,Georgia-Carolina Memorial Bridge,1927,Elbert County (GA),USA,demolished,concrete,Elbert County,GA,Georgia,63.5,17.5
+260,Gerald Desmond Bridge,2020,Los Angeles (CA),USA,in use,concrete,Los Angeles,CA,California,64.9,18.3
+261,Glendale Boulevard Bridge,1929,Los Angeles (CA),USA,in use,concrete,Los Angeles,CA,California,64.9,18.3
+262,Gold Hill Bridge,1927,Jackson County (OR),USA,in use,concrete,Jackson County,OR,Oregon,48.4,9.1
+263,Golden Avenue Bridge,1934,Placentia (CA),USA,in use,concrete,Placentia,CA,California,67.1,19.5
+264,Goldsborough Creek Bridge,1923,Shelton (WA),USA,in use,concrete,Shelton,WA,Washington,51.0,10.6
+265,Granville Road Bridge,1914,Westfield (MA),USA,in use,concrete,Westfield,MA,Massachusetts,48.4,9.1
+266,Great Bridge,1934,Exeter (NH),USA,in use,concrete,Exeter,NH,New Hampshire,43.8,6.6
+267,Greene Street Bridge,1956,Spokane (WA),USA,in use,concrete,Spokane,WA,Washington,48.2,9.0
+268,Gull Street Bridge,1911,Kalamazoo (MI),USA,in use,concrete,Kalamazoo,MI,Michigan,49.3,9.6
+269,Hamilton Creek Bridge,1911,Yolo County (CA),USA,in use,concrete,Yolo County,CA,California,53.0,11.7
+270,Hampden County Memorial Bridge,1922,Springfield (MA),USA,in use,concrete,Springfield,MA,Massachusetts,49.0,9.4
+271,Hanging Lake Viaduct,1993,Glenwood Canyon (CO),USA,in use,concrete,Glenwood Canyon,CO,Colorado,45.1,7.3
+272,Hangtown Creek Bridge,1940,Placerville (CA),USA,in use,concrete,Placerville,CA,California,55.0,12.8
+273,Harlan D. Miller Memorial Bridge,1926,Shasta County (CA),USA,in use,concrete,Shasta County,CA,California,60.8,16.0
+274,Harrison Avenue Bridge,1922,Scranton (PA),USA,demolished,concrete,Scranton,PA,Pennsylvania,49.5,9.7
+275,Hathaway Bridge,2003,Panama City (FL),USA,in use,concrete,Panama City,FL,Florida,69.0,20.6
+276,Hato Rey Viaduct,2004,San Juan (US-PR),USA,in use,concrete,San Juan,US-PR,Puerto Rico,80.2,26.8
+277,Hayden Arch Bridge,1925,Cody (WY),USA,in use,concrete,Cody,WY,Wyoming,45.0,7.2
+278,Hayes Drive Bridge,1902,Chicago (IL),USA,in use,concrete,Chicago,IL,Illinois,49.9,9.9
+279,Haynes Inlet Slough Bridge,2004,North Bend (OR),USA,in use,concrete,North Bend,OR,Oregon,52.0,11.1
+280,Hegenberger Road Overcrossing,1996,Oakland (CA),USA,in use,concrete,Oakland,CA,California,59.4,15.2
+281,Heisson Bridge,1925,Heisson (WA),USA,in use,concrete,Heisson,WA,Washington,48.3,9.1
+282,Henderson Street Bridge,1930,Fort Worth (TX),USA,in use,concrete,Fort Worth,TX,Texas,64.7,18.2
+283,Henley Street Bridge,1931,Knoxville (TN),USA,in use,concrete,Knoxville,TN,Tennessee,59.1,15.1
+284,Henry County Veterans Bridge,2005,Henry County (OH),USA,in use,concrete,Henry County,OH,Ohio,50.7,10.4
+285,High Level Bridge,1915,Akron (OH),USA,demolished,concrete,Akron,OH,Ohio,49.9,9.9
+286,Highlands-Sea Bright Bridge,2011,Highlands (NJ),USA,in use,concrete,Highlands,NJ,New Jersey,54.2,12.3
+287,Highway 25 Bridge,1988,Big Lake (MN),USA,in use,concrete,Big Lake,MN,Minnesota,41.2,5.1
+288,Holly Drive Bridge,1952,Los Angeles (CA),USA,in use,concrete,Los Angeles,CA,California,64.9,18.3
+289,Hood Canal Bridge,1961,- Kitsap County (WA),USA,in use,concrete,Kitsap County,WA,Washington,48.3,9.1
+290,Horsethief Canyon Bridge,1931,Klickitat County (WA),USA,in use,concrete,Klickitat County,WA,Washington,48.3,9.1
+291,Houston Ship Channel Bridge,2024,Houston (TX),USA,under construction,concrete,Houston,TX,Texas,69.9,21.1
+292,Hunting Creek Bridge,1932,Alexandria (VA),USA,in use,concrete,Alexandria,VA,Virginia,57.9,14.4
+293,Hurricane Creek Bridge,1927,Tuscaloosa County (AL),USA,demolished,concrete,Tuscaloosa County,AL,Alabama,64.0,17.8
+294,Hyperion Avenue Bridge,1929,Los Angeles (CA),USA,in use,concrete,Los Angeles,CA,California,64.9,18.3
+295,I-10 Purple Heart Memorial Bridge,2019,Beaumont (TX),USA,under construction,concrete,Beaumont,TX,Texas,68.3,20.2
+296,I-35W Saint Anthony Falls Bridge,2008,Minneapolis (MN),USA,in use,concrete,Minneapolis,MN,Minnesota,46.3,7.9
+297,I-39 Kishwaukee River Bridges,1980,Rockford (IL),USA,in use,concrete,Rockford,IL,Illinois,49.3,9.6
+298,I-526 Wando River Bridge,1989,Charleston County (SC),USA,in use,concrete,Charleston County,SC,South Carolina,65.9,18.8
+299,I-64 Kanawha River Bridge,2010,South Charleston (WV),USA,in use,concrete,South Charleston,WV,West Virginia,56.6,13.7
+300,I-80 Cuyahoga River Bridge,2003,Boston Township (OH),USA,in use,concrete,Boston Township,OH,Ohio,50.7,10.4
+301,Intercity Bridge,1927,- Saint Paul (MN),USA,in use,concrete,Saint Paul,MN,Minnesota,47.1,8.4
+302,Interlachen Bridge,1900,Minneapolis (MN),USA,in use,concrete,Minneapolis,MN,Minnesota,46.3,7.9
+303,Interstate 182 Bridge,1984,- Richland (WA),USA,in use,concrete,Richland,WA,Washington,53.2,11.8
+304,Isleton Bridge,1923,Isleton (CA),USA,in use,concrete,Isleton,CA,California,58.6,14.8
+305,Jacob Conser Bridge,1933,- Marion County (OR),USA,in use,concrete,Marion County,OR,Oregon,48.4,9.1
+306,Jamestown Verrazzano Bridge,1992,Jamestown (RI),USA,in use,concrete,Jamestown,RI,Rhode Island,50.1,10.1
+307,John A. Latsch Wagon Bridge,1916,Winona (MN),USA,in use,concrete,Winona,MN,Minnesota,46.9,8.3
+308,John A. Lesner Bridge,2018,Virginia Beach (VA),USA,in use,concrete,Virginia Beach,VA,Virginia,59.9,15.5
+309,John Mack Bridge,1931,Wichita (KS),USA,in use,concrete,Wichita,KS,Kansas,57.0,13.9
+310,John Seigenthaler Pedestrian Bridge,1909,Nashville (TN),USA,in use,concrete,Nashville,TN,Tennessee,59.5,15.3
+311,Johnson Creek Bridge,1920,Orleans County (NY),USA,in use,concrete,Orleans County,NY,New York,45.4,7.4
+312,Johnson Road Bridge,1912,Atlanta (GA),USA,in use,concrete,Atlanta,GA,Georgia,62.6,17.0
+313,Jones Bridge,1914,San Antonio (TX),USA,in use,concrete,San Antonio,TX,Texas,69.1,20.6
+314,Jordan McCall Bridge,2007,Princeton (NJ),USA,in use,concrete,Princeton,NJ,New Jersey,48.2,9.0
+315,Juneau-Douglas Bridge,1980,Juneau (AK),USA,in use,concrete,Juneau,AK,Alaska,42.1,5.6
+316,Keller Drive Bridge,1944,Chicago (IL),USA,in use,concrete,Chicago,IL,Illinois,49.9,9.9
+317,Kemper Road Bridge,1937,Hamilton County (OH),USA,in use,concrete,Hamilton County,OH,Ohio,39.3,4.1
+318,Keno Bridge,1930,Klamath County (OR),USA,destroyed,concrete,Klamath County,OR,Oregon,48.4,9.1
+319,Klamath River Bridge,1931,Siskiyou County (CA),USA,in use,concrete,Siskiyou County,CA,California,59.4,15.2
+320,Klickitat River Bridge,1933,Lyle (WA),USA,in use,concrete,Lyle,WA,Washington,46.2,7.9
+321,Klickitat River Railroad Bridge,1908,Lyle (WA),USA,in use,concrete,Lyle,WA,Washington,46.2,7.9
+322,La Center Bridge,1923,La Center (WA),USA,demolished,concrete,La Center,WA,Washington,48.3,9.1
+323,Lacey V. Murrow Floating Bridge,1940,Seattle (WA),USA,in use,concrete,Seattle,WA,Washington,52.6,11.4
+324,Lake City Bridge,1914,Lake City (IA),USA,in use,concrete,Lake City,IA,Iowa,48.5,9.2
+325,Lake Hodges Bridge,2009,Escondido (CA),USA,in use,concrete,Escondido,CA,California,62.0,16.7
+326,Lake Natoma Crossing,1999,Folsom (CA),USA,in use,concrete,Folsom,CA,California,61.0,16.1
+327,Lake Pontchartrain Causeway,1956,Metairie (LA),USA,in use,concrete,Metairie,LA,Louisiana,63.4,17.4
+328,Lake Redding Bridge,1996,Redding (CA),USA,in use,concrete,Redding,CA,California,62.3,16.8
+329,Lake Street Bridge,1931,River Forest (IL),USA,in use,concrete,River Forest,IL,Illinois,51.8,11.0
+330,Lake Street Bridge,1992,Minneapolis (MN),USA,in use,concrete,Minneapolis,MN,Minnesota,46.3,7.9
+331,Lamar Boulevard Bridge,1942,Austin (TX),USA,in use,concrete,Austin,TX,Texas,68.5,20.3
+332,Lane Avenue Bridge,2004,Columbus (OH),USA,in use,concrete,Columbus,OH,Ohio,53.4,11.9
+333,Larimer Avenue Bridge,1912,Pittsburgh (PA),USA,in use,concrete,Pittsburgh,PA,Pennsylvania,51.4,10.8
+334,Latah Creek Bridge,1913,Spokane (WA),USA,in use,concrete,Spokane,WA,Washington,48.2,9.0
+335,Lebam Road Bridge,1917,Lebam (WA),USA,in use,concrete,Lebam,WA,Washington,48.3,9.1
+336,Leimert Boulevard Bridge,1926,Oakland (CA),USA,in use,concrete,Oakland,CA,California,59.4,15.2
+337,Leonard P. Zakim Bunker Hill Memorial Bridge,2003,Boston (MA),USA,in use,concrete,Boston,MA,Massachusetts,51.3,10.7
+338,Lexington Avenue Overpass,1904,Saint Paul (MN),USA,in use,concrete,Saint Paul,MN,Minnesota,47.1,8.4
+339,Lilac Road Bridge,1978,Escondido (CA),USA,in use,concrete,Escondido,CA,California,62.0,16.7
+340,Lincoln Highway Bridge,1915,Tama (IA),USA,in use,concrete,Tama,IA,Iowa,48.1,8.9
+341,Lindbergh Viaduct,1927,Reading (PA),USA,in use,concrete,Reading,PA,Pennsylvania,50.9,10.5
+342,Link River Bridge,1931,Klamath Falls (OR),USA,in use,concrete,Klamath Falls,OR,Oregon,46.4,8.0
+343,Linn Cove Viaduct,1987,Grandfather Mountain (NC),USA,in use,concrete,Grandfather Mountain,NC,North Carolina,46.3,7.9
+344,Little Sugar Creek Bridge,1913,Mound City (KS),USA,in use,concrete,Mound City,KS,Kansas,55.8,13.2
+345,Little Washougal River Bridge,1949,Clark County (WA),USA,in use,concrete,Clark County,WA,Washington,48.3,9.1
+346,Locust Street Bridge,1914,Waterloo (NY),USA,in use,concrete,Waterloo,NY,New York,43.9,6.6
+347,London Bridge,1971,Lake Havasu City (AZ),USA,in use,concrete,Lake Havasu City,AZ,Arizona,70.0,21.1
+348,Long Lake Dam Bridge,1949,Lincoln County (WA),USA,in use,concrete,Lincoln County,WA,Washington,48.3,9.1
+349,Lower Blackburn Grade Bridge,1925,Bridgeville (CA),USA,out of service,concrete,Bridgeville,CA,California,52.6,11.4
+350,Lower Custer Way Bridge,1915,Tumwater (WA),USA,in use,concrete,Tumwater,WA,Washington,48.0,8.9
+351,Lower Screwtail Bridge,1998,Sunflower (AZ),USA,in use,concrete,Sunflower,AZ,Arizona,60.3,15.7
+352,Mac Arthur Boulevard Bridge,1909,San Leandro (CA),USA,in use,concrete,San Leandro,CA,California,59.4,15.2
+353,Madison Bridge,1926,Madison (KS),USA,in use,concrete,Madison,KS,Kansas,55.2,12.9
+354,Madison Street Bridge,1948,Chicago (IL),USA,demolished,concrete,Chicago,IL,Illinois,49.9,9.9
+355,Main Street Bridge,1931,Peshastin (WA),USA,in use,concrete,Peshastin,WA,Washington,48.3,9.1
+356,Main Street Bridge,1937,Columbus (OH),USA,demolished,concrete,Columbus,OH,Ohio,53.4,11.9
+357,Main Street Bridge,1914,Houston (TX),USA,in use,concrete,Houston,TX,Texas,69.9,21.1
+358,Main Street Bridge,1927,Danville (VA),USA,demolished,concrete,Danville,VA,Virginia,58.5,14.7
+359,Maple Avenue Bridge,2007,Redmond (OR),USA,in use,concrete,Redmond,OR,Oregon,48.0,8.9
+360,Maple Creek Road Bridge,1928,Humboldt County (CA),USA,in use,concrete,Humboldt County,CA,California,59.4,15.2
+361,Market Street Bridge,1928,Harrisburg (PA),USA,in use,concrete,Harrisburg,PA,Pennsylvania,53.2,11.8
+362,Market Street Bridge,1929,Wilkes-Barre (PA),USA,in use,concrete,Wilkes-Barre,PA,Pennsylvania,49.2,9.6
+363,Maroon Creek Bridge,2008,Aspen (CO),USA,in use,concrete,Aspen,CO,Colorado,40.8,4.9
+364,Marshall Bridge,1950,Marshall (WA),USA,in use,concrete,Marshall,WA,Washington,48.3,9.1
+365,MARTA Rapid Transit Bridge I,1983,Atlanta (GA),USA,in use,concrete,Atlanta,GA,Georgia,62.6,17.0
+366,MARTA Rapid Transit Bridge II,1983,Atlanta (GA),USA,in use,concrete,Atlanta,GA,Georgia,62.6,17.0
+367,Martin Olav Sabo Bridge,2007,Minneapolis (MN),USA,in use,concrete,Minneapolis,MN,Minnesota,46.3,7.9
+368,Martin's Creek Viaduct,1914,Kingsley (PA),USA,in use,concrete,Kingsley,PA,Pennsylvania,48.8,9.3
+369,MAX Main Street Bridge,1997,Hillsboro (OR),USA,in use,concrete,Hillsboro,OR,Oregon,52.4,11.3
+370,Maxwell Bridge,2005,Napa (CA),USA,in use,concrete,Napa,CA,California,56.7,13.7
+371,McArthur Bridge,1923,Detroit (MI),USA,in use,concrete,Detroit,MI,Michigan,50.3,10.2
+372,McCauley Bridge,1916,Auburn (KS),USA,in use,concrete,Auburn,KS,Kansas,36.4,2.4
+373,McKee Street Bridge,1932,Houston (TX),USA,in use,concrete,Houston,TX,Texas,69.9,21.1
+374,McMillin Bridge,1934,McMillin (WA),USA,to be demolished,concrete,McMillin,WA,Washington,48.3,9.1
+375,Mendota Bridge,1926,Mendota (MN),USA,in use,concrete,Mendota,MN,Minnesota,41.2,5.1
+376,Mike O'Callaghan-Pat Tillman Memorial Bridge,2010,Boulder City (NV),USA,in use,concrete,Boulder City,NV,Nevada,67.2,19.6
+377,Mill Avenue Bridge,1931,Tempe (AZ),USA,in use,concrete,Tempe,AZ,Arizona,68.8,20.4
+378,Mill Creek Bridge,1927,Fort Scott (KS),USA,in use,concrete,Fort Scott,KS,Kansas,57.0,13.9
+379,Mills Street Bridge,1912,Kalamazoo (MI),USA,demolished,concrete,Kalamazoo,MI,Michigan,49.3,9.6
+380,Milwaukee Street Bridge,1913,Janesville (WI),USA,in use,concrete,Janesville,WI,Wisconsin,46.0,7.8
+381,Mitchell State Aid Bridge,1919,Mitchell (NE),USA,in use,concrete,Mitchell,NE,Nebraska,47.7,8.7
+382,Moffett Creek Bridge,1915,Bonneville (OR),USA,in use,concrete,Bonneville,OR,Oregon,48.4,9.1
+383,Mogollon Rim Viaduct,1990,Gila County (AZ),USA,in use,concrete,Gila County,AZ,Arizona,60.3,15.7
+384,Mohawk River Bridge,1933,Albany County (NY),USA,in use,concrete,Albany County,NY,New York,49.4,9.7
+385,Monroe Street Bridge,1911,Spokane (WA),USA,in use,concrete,Spokane,WA,Washington,48.2,9.0
+386,Morris Goodkind Bridge,1929,New Brunswick (NJ),USA,in use,concrete,New Brunswick,NJ,New Jersey,52.8,11.6
+387,Mosel Avenue Bridge,1924,Kalamazoo (MI),USA,demolished,concrete,Kalamazoo,MI,Michigan,49.3,9.6
+388,Mosier Creek Bridge,1920,Wasco County (OR),USA,in use,concrete,Wasco County,OR,Oregon,50.6,10.3
+389,Moss Rainbow Arch Bridge,1926,Clearwater (FL),USA,in use,concrete,Clearwater,FL,Florida,72.6,22.6
+390,Mottville Camelback Bridge,1922,Mottville Township (MI),USA,in use,concrete,Mottville Township,MI,Michigan,44.4,6.9
+391,Mount Cuba Road Bridge,1922,Ashland (DE),USA,in use,concrete,Ashland,DE,Delaware,55.3,12.9
+392,Mulberry Street Bridge,1909,Harrisburg (PA),USA,in use,concrete,Harrisburg,PA,Pennsylvania,53.2,11.8
+393,Myrtle Creek Bridge,1922,Douglas County (OR),USA,in use,concrete,Douglas County,OR,Oregon,48.4,9.1
+394,Napa River Rail Bridge,2011,Napa (CA),USA,in use,concrete,Napa,CA,California,56.7,13.7
+395,Napoleon Bridge,1929,Henry County (OH),USA,demolished,concrete,Henry County,OH,Ohio,50.7,10.4
+396,Natchez Trace Parkway Bridge,1994,Franklin (TN),USA,in use,concrete,Franklin,TN,Tennessee,58.6,14.8
+397,Nebraska City Bridge,1986,Nebraska City (NE),USA,in use,concrete,Nebraska City,NE,Nebraska,52.6,11.4
+398,New Harvard Street Bridge,1965,Washington,USA,in use,concrete,Washingto,WA,Washington,48.3,9.1
+399,New Heisson Bridge,1999,Heisson (WA),USA,in use,concrete,Heisson,WA,Washington,48.3,9.1
+400,North Beacon Street Bridge,1917,- Watertown (MA),USA,in use,concrete,Watertown,MA,Massachusetts,47.9,8.8
+401,North Broadway Bridge,1909,Los Angeles (CA),USA,in use,concrete,Los Angeles,CA,California,64.9,18.3
+402,North Halawa Valley Viaduct,1995,Oahu Island (HI),USA,in use,concrete,Oahu Island,HI,Hawaii,70.0,21.1
+403,North Hamma Hamma River Bridge,1924,Eldon (WA),USA,in use,concrete,Eldon,WA,Washington,48.3,9.1
+404,North Main Street Bridge,1910,Los Angeles (CA),USA,in use,concrete,Los Angeles,CA,California,64.9,18.3
+405,North National Avenue Bridge,1933,Fort Scott (KS),USA,in use,concrete,Fort Scott,KS,Kansas,57.0,13.9
+406,Nymore Bridge,1916,Bemidji (MN),USA,in use,concrete,Bemidji,MN,Minnesota,38.7,3.7
+407,Oak Run Road Bridge,1958,Shasta County (CA),USA,in use,concrete,Shasta County,CA,California,60.8,16.0
+408,Oakes Street Bridge,1930,San Angelo (TX),USA,in use,concrete,San Angelo,TX,Texas,65.4,18.6
+409,Ocean City Causeway Visitors Center Bridge,2013,Ocean City (NJ),USA,in use,concrete,Ocean City,NJ,New Jersey,52.7,11.5
+410,Ogden Avenue Bridge,1933,Chicago (IL),USA,in use,concrete,Chicago,IL,Illinois,49.9,9.9
+411,Old Bradford Road Bridge,1930,Jefferson County (AL),USA,in use,concrete,Jefferson County,AL,Alabama,62.8,17.1
+412,Old Harvard Street Bridge,1901,Washington,USA,in use,concrete,Washingto,WA,Washington,48.3,9.1
+413,Old Monitor Road Bridge,1930,Chelan County (WA),USA,in use,concrete,Chelan County,WA,Washington,49.9,9.9
+414,Olympia-Yashiro Friendship Bridge,2003,Olympia (WA),USA,in use,concrete,Olympia,WA,Washington,51.1,10.6
+415,Oswego Creek Bridge,1930,Multnomah County (OR),USA,in use,concrete,Multnomah County,OR,Oregon,48.4,9.1
+416,Oswego Creek Bridge,1920,Lake Oswego (OR),USA,in use,concrete,Lake Oswego,OR,Oregon,48.4,9.1
+417,Otay River Bridge,2007,- Chula Vista (CA),USA,in use,concrete,Chula Vista,CA,California,61.0,16.1
+418,Ozark Bridge,1930,Ozark (AR),USA,in use,concrete,Ozark,AR,Arkansas,59.0,15.0
+419,Pacet Channel Viaduct,1912,Marathon (FL),USA,out of service,concrete,Marathon,FL,Florida,78.5,25.8
+420,Pacific Avenue Overcrossing,2001,Everett (WA),USA,in use,concrete,Everett,WA,Washington,50.6,10.3
+421,Padre Canyon Bridge,1914,Winona (AZ),USA,in use,concrete,Winona,AZ,Arizona,60.3,15.7
+422,Park Drive Bridge,1916,Atlanta (GA),USA,in use,concrete,Atlanta,GA,Georgia,62.6,17.0
+423,Parrotts Ferry Bridge,1978,Vallecito (CA),USA,in use,concrete,Vallecito,CA,California,59.4,15.2
+424,Pascagoula River High Bridge,2003,Pascagoula (MS),USA,in use,concrete,Pascagoula,MS,Mississippi,68.0,20.0
+425,Patton Bridge,1950,Auburn (WA),USA,in use,concrete,Auburn,WA,Washington,48.3,9.1
+426,Paul Bryant Bridge,2004,Tuscaloosa (AL),USA,in use,concrete,Tuscaloosa,AL,Alabama,64.0,17.8
+427,Pawnee Creek Bridge,1929,Hiattville (KS),USA,in use,concrete,Hiattville,KS,Kansas,54.3,12.4
+428,Pearl Harbor Memorial Bridge,2016,New Haven (CT),USA,in use,concrete,New Haven,CT,Connecticut,53.6,12.0
+429,Pearl Street Bridge,1922,Grand Rapids (MI),USA,in use,concrete,Grand Rapids,MI,Michigan,49.1,9.5
+430,Pebble Creek Bridge,1936,Park County (WY),USA,in use,concrete,Park County,WY,Wyoming,42.0,5.6
+431,Pecos River Flume,1903,Carlsbad (NM),USA,in use,concrete,Carlsbad,NM,New Mexico,63.0,17.2
+432,Pekin Bridge,1982,Pekin (IL),USA,in use,concrete,Pekin,IL,Illinois,51.3,10.7
+433,Pennsylvania Avenue Bridge,1916,Washington,USA,in use,concrete,Washingto,WA,Washington,48.3,9.1
+434,Peter Courtney Minto Island Bridge,2017,Salem (OR),USA,in use,concrete,Salem,OR,Oregon,53.0,11.7
+435,Peter DeFazio Bicycle Bridge,1999,Eugene (OR),USA,in use,concrete,Eugene,OR,Oregon,52.5,11.4
+436,Pike Run Lincoln Highway Bridge,1927,Allen County (OH),USA,in use,concrete,Allen County,OH,Ohio,50.7,10.4
+437,Pilarcitos Creek River Bridge,1910,San Mateo County (CA),USA,in use,concrete,San Mateo County,CA,California,59.4,15.2
+438,Pine Valley Creek Bridge,1974,Pine Valley (CA),USA,in use,concrete,Pine Valley,CA,California,54.5,12.5
+439,Plymouth Avenue Bridge,1983,Minneapolis (MN),USA,in use,concrete,Minneapolis,MN,Minnesota,46.3,7.9
+440,Pontoon Slough Bridge,1956,Buffalo County (WI),USA,in use,concrete,Buffalo County,WI,Wisconsin,43.1,6.2
+441,Portal Bridge,1963,Pittsburgh (PA),USA,in use,concrete,Pittsburgh,PA,Pennsylvania,51.4,10.8
+442,Post Street Bridge,1917,Spokane (WA),USA,in use,concrete,Spokane,WA,Washington,48.2,9.0
+443,Prettyboy Dam,1932,Baltimore County (MD),USA,in use,concrete,Baltimore County,MD,Maryland,55.1,12.8
+444,Princeton Bridge,2002,Seattle (WA),USA,in use,concrete,Seattle,WA,Washington,52.6,11.4
+445,Pumpkin Hollow Bridge,1922,Three Rivers (CA),USA,in use,concrete,Three Rivers,CA,California,63.2,17.3
+446,Purdy Bridge,1936,Purdy (WA),USA,in use,concrete,Purdy,WA,Washington,48.3,9.1
+447,Putnam Street Bridge (Marietta),2000,Marietta (OH),USA,in use,concrete,Marietta,OH,Ohio,53.7,12.1
+448,Queen Avenue Bridge,1905,Minneapolis (MN),USA,in use,concrete,Minneapolis,MN,Minnesota,46.3,7.9
+449,Quintana Beach Bridge,2003,Freeport (TX),USA,in use,concrete,Freeport,TX,Texas,70.2,21.2
+450,Rainbow Arch Bridge,1917,Folsom (CA),USA,in use,concrete,Folsom,CA,California,61.0,16.1
+451,Raspberry Island Bridge,2001,Saint Paul (MN),USA,in use,concrete,Saint Paul,MN,Minnesota,47.1,8.4
+452,Raymond E. Baldwin Bridge,1993,- Old Lyme (CT),USA,in use,concrete,Old Lyme,CT,Connecticut,49.0,9.4
+453,Red Cliff Bridge,1940,Red Cliff (CO),USA,in use,concrete,Red Cliff,CO,Colorado,45.1,7.3
+454,Rich Street Bridge,2012,Columbus (OH),USA,in use,concrete,Columbus,OH,Ohio,53.4,11.9
+455,Richard Odabashian Bridge,1971,Wenatchee (WA),USA,in use,concrete,Wenatchee,WA,Washington,51.0,10.6
+456,Riverside Bridge,1920,Reno (NV),USA,demolished,concrete,Reno,NV,Nevada,53.8,12.1
+457,Robert Street Bridge,1926,Saint Paul (MN),USA,in use,concrete,Saint Paul,MN,Minnesota,47.1,8.4
+458,Rock Creek Road Bridge,1939,Placerville (CA),USA,in use,concrete,Placerville,CA,California,55.0,12.8
+459,Rock Point Bridge,1920,Jackson County (OR),USA,in use,concrete,Jackson County,OR,Oregon,48.4,9.1
+460,Rocky Creek Bridge,1927,Lincoln County (OR),USA,in use,concrete,Lincoln County,OR,Oregon,48.4,9.1
+461,Rogue River Bridge,1932,Gold Beach (OR),USA,completed,concrete,Gold Beach,OR,Oregon,48.4,9.1
+462,Rogue River Pedestrian Bridge,2000,Grants Pass (OR),USA,in use,concrete,Grants Pass,OR,Oregon,54.2,12.3
+463,Roosevelt Avenue Bridge,1934,San Antonio (TX),USA,in use,concrete,San Antonio,TX,Texas,69.1,20.6
+464,Roosevelt Bridge,1998,Stuart (FL),USA,in use,concrete,Stuart,FL,Florida,70.7,21.5
+465,Rosalia Railroad Bridge I,1915,Rosalia (WA),USA,in use,concrete,Rosalia,WA,Washington,48.3,9.1
+466,Rosalia Railroad Bridge II,1915,Rosalia (WA),USA,in use,concrete,Rosalia,WA,Washington,48.3,9.1
+467,Roswell Road Bridge,1928,Fulton County (GA),USA,in use,concrete,Fulton County,GA,Georgia,63.5,17.5
+468,Route 123 Occoquan River Bridge,2007,Occoquan (VA),USA,in use,concrete,Occoquan,VA,Virginia,55.1,12.8
+469,Route 206 Raritan River Bridge,1929,Somerville (NJ),USA,in use,concrete,Somerville,NJ,New Jersey,52.7,11.5
+470,Route 35 Victory Bridge,2005,- Sayreville (NJ),USA,in use,concrete,Sayreville,NJ,New Jersey,52.7,11.5
+471,Russian Gulch Bridge,1939,Mendocino County (CA),USA,in use,concrete,Mendocino County,CA,California,53.0,11.7
+472,Sacandaga Reservoir Bridge,1929,Saratoga County (NY),USA,demolished,concrete,Saratoga County,NY,New York,45.4,7.4
+473,Sagadahoc Bridge,2000,- Woolwich (ME),USA,in use,concrete,Woolwich,ME,Maine,41.0,5.0
+474,Sailboat Bridge,2000,Grove (OK),USA,in use,concrete,Grove,OK,Oklahoma,59.0,15.0
+475,Saint Croix Crossing,2017,- Houlton (WI),USA,in use,concrete,Houlton,WI,Wisconsin,43.1,6.2
+476,Saline River US 183 Bridge,1933,Ellis County (KS),USA,in use,concrete,Ellis County,KS,Kansas,53.8,12.1
+477,Salmon Creek Bridge,1923,Clark County (WA),USA,in use,concrete,Clark County,WA,Washington,48.3,9.1
+478,Salmon River Bridge,1930,Lincoln County (OR),USA,in use,concrete,Lincoln County,OR,Oregon,48.4,9.1
+479,Sam Houston Ship Channel Bridge,1982,Houston (TX),USA,in use,concrete,Houston,TX,Texas,69.9,21.1
+480,Samoa Channel Bridge,1971,Eureka (CA),USA,in use,concrete,Eureka,CA,California,53.0,11.7
+481,San Andreas Creek Bridge,1914,San Andreas (CA),USA,in use,concrete,San Andreas,CA,California,27.3,-2.6
+482,San Diego-Coronado Bay Bridge,1969,San Diego (CA),USA,in use,concrete,San Diego,CA,California,63.6,17.6
+483,San Jacinto Boulevard Bridge,1932,Austin (TX),USA,in use,concrete,Austin,TX,Texas,68.5,20.3
+484,San Leandro Creek Bridge,1901,San Leandro (CA),USA,in use,concrete,San Leandro,CA,California,59.4,15.2
+485,San Pablo Creek Bridge,1954,Rollingwood (CA),USA,in use,concrete,Rollingwood,CA,California,59.4,15.2
+486,SC 170 Broad River Bridge,2004,Beaufort County (NC),USA,in use,concrete,Beaufort County,NC,North Carolina,62.9,17.2
+487,SC 517 Intracoastal Waterway Bridge,1994,Isle of Palms (SC),USA,in use,concrete,Isle of Palms,SC,South Carolina,62.4,16.9
+488,Scott Avenue Bridge,1927,Wichita Falls (TX),USA,in use,concrete,Wichita Falls,TX,Texas,64.0,17.8
+489,Seabreeze Bridge,1998,Daytona Beach (FL),USA,in use,concrete,Daytona Beach,FL,Florida,70.9,21.6
+490,Second Elk Creek Crossing Bridge,1931,Douglas County (OR),USA,in use,concrete,Douglas County,OR,Oregon,48.4,9.1
+491,"Senator William V. Roth, Jr. Bridge",1995,Saint Georges (DE),USA,in use,concrete,Saint Georges,DE,Delaware,55.3,12.9
+492,Seufert Viaduct,1920,Wasco County (OR),USA,in use,concrete,Wasco County,OR,Oregon,50.6,10.3
+493,Seven Mile Bridge,1982,- Key West (FL),USA,in use,concrete,Key West,FL,Florida,77.8,25.4
+494,Shakopee Bridge,1993,Shakopee (MN),USA,in use,concrete,Shakopee,MN,Minnesota,41.2,5.1
+495,Shasta River Bridge I,1928,Siskiyou County (CA),USA,in use,concrete,Siskiyou County,CA,California,59.4,15.2
+496,Shepperd's Dell Bridge,1914,Latourell (OR),USA,in use,concrete,Latourell,OR,Oregon,48.4,9.1
+497,Sidney Lanier Bridge,2003,Brunswick (GA),USA,in use,concrete,Brunswick,GA,Georgia,67.0,19.4
+498,Sierra Boulevard Bridge,1929,Placer County (CA),USA,in use,concrete,Placer County,CA,California,59.4,15.2
+499,Sir Francis Drake Bridge,1926,Ross (CA),USA,in use,concrete,Ross,CA,California,59.4,15.2
+500,Siuslaw River Bridge,1936,Florence (OR),USA,in use,concrete,Florence,OR,Oregon,80.0,26.7
+501,Soapstone Creek Bridge,1928,Clatsop County (OR),USA,in use,concrete,Clatsop County,OR,Oregon,48.4,9.1
+502,Soda Butte Creek Bridge No. 1,1936,Park County (WY),USA,in use,concrete,Park County,WY,Wyoming,42.0,5.6
+503,Soden Grove Bridge,1923,Emporia (KS),USA,in use,concrete,Emporia,KS,Kansas,55.8,13.2
+504,Soledad Canyon Road Bridge,1938,Los Angeles County (CA),USA,in use,concrete,Los Angeles County,CA,California,59.4,15.2
+505,Sound Transit Link Viaduct,2008,Seattle (WA),USA,in use,concrete,Seattle,WA,Washington,52.6,11.4
+506,South Eighth Street Viaduct,1913,Allentown (PA),USA,in use,concrete,Allentown,PA,Pennsylvania,51.2,10.7
+507,South Fork Chehalis River Bridge,1925,Lewis County (WA),USA,in use,concrete,Lewis County,WA,Washington,48.3,9.1
+508,South Fork Eel River Bridge,2009,Leggett (CA),USA,in use,concrete,Leggett,CA,California,55.5,13.1
+509,South Hamma Hamma River Bridge,1924,Eldon (WA),USA,in use,concrete,Eldon,WA,Washington,48.3,9.1
+510,South Jackson Street Bridge,1918,Janesville (WI),USA,in use,concrete,Janesville,WI,Wisconsin,46.0,7.8
+511,South Saint Mary's Street Bridge,1915,San Antonio (TX),USA,in use,concrete,San Antonio,TX,Texas,69.1,20.6
+512,Southway Bridge,1982,- Lewiston (ID),USA,in use,concrete,Lewiston,ID,Idaho,53.8,12.1
+513,Sparkman Street Bridge,1915,Hartselle (AL),USA,in use,concrete,Hartselle,AL,Alabama,62.8,17.1
+514,Spokane Street Bridge,1991,Seattle (WA),USA,in use,concrete,Seattle,WA,Washington,52.6,11.4
+515,Spring Street Bridge,1915,Pullman (WA),USA,in use,concrete,Pullman,WA,Washington,47.5,8.6
+516,Spring Street Bridge,1916,Chippewa Falls (WI),USA,in use,concrete,Chippewa Falls,WI,Wisconsin,42.0,5.6
+517,State Street Bridge,1930,Harrisburg (PA),USA,in use,concrete,Harrisburg,PA,Pennsylvania,53.2,11.8
+518,Steinman Overcrossing,1914,Jackson County (OR),USA,in use,concrete,Jackson County,OR,Oregon,48.4,9.1
+519,Stevenson Bridge,1923,Solano County (CA),USA,in use,concrete,Solano County,CA,California,59.4,15.2
+520,Sugarloaf Mountain Bridge,2007,Boulder City (NV),USA,in use,concrete,Boulder City,NV,Nevada,67.2,19.6
+521,Sulphur Creek Bridge,1964,Plumas County (CA),USA,in use,concrete,Plumas County,CA,California,59.4,15.2
+522,Sunshine Skyway Bridge,1987,Saint Petersburg (FL),USA,in use,concrete,Saint Petersburg,FL,Florida,70.7,21.5
+523,Susquehanna River Bridge,2007,- Highspire (PA),USA,in use,concrete,Highspire,PA,Pennsylvania,51.0,10.6
+524,Sutherland State Aid Bridge,1915,Sutherland (NE),USA,in use,concrete,Sutherland,NE,Nebraska,48.8,9.3
+525,Talmadge Memorial Bridge,1991,Savannah (GA),USA,in use,concrete,Savannah,GA,Georgia,66.8,19.3
+526,Tekamah City Bridge,1934,Tekamah (NE),USA,in use,concrete,Tekamah,NE,Nebraska,50.0,10.0
+527,Ten Mile Creek Bridge,1931,Lane County (OR),USA,in use,concrete,Lane County,OR,Oregon,48.4,9.1
+528,Tenth Street Bridge,1920,Great Falls (MT),USA,in use,concrete,Great Falls,MT,Montana,44.6,7.0
+529,Teodoro Moscoso Bridge,1993,San Juan (US-PR),USA,in use,concrete,San Juan,US-PR,Puerto Rico,80.2,26.8
+530,The Bridge of Honor,2008,Mason (WV),USA,in use,concrete,Mason,WV,West Virginia,51.8,11.0
+531,Third Avenue Bridge,1918,Minneapolis (MN),USA,in use,concrete,Minneapolis,MN,Minnesota,46.3,7.9
+532,Tonovay Bridge,1928,Eureka (KS),USA,in use,concrete,Eureka,KS,Kansas,56.6,13.7
+533,Trinity River Bridge,1932,Fort Worth (TX),USA,in use,concrete,Fort Worth,TX,Texas,64.7,18.2
+534,Tucker Bridge,1932,Tucker (OR),USA,in use,concrete,Tucker,OR,Oregon,48.4,9.1
+535,Tule Canal Bridge,2003,Yolo County (CA),USA,in use,concrete,Yolo County,CA,California,53.0,11.7
+536,Tunkhannock Creek Viaduct,1915,Nicholson (PA),USA,in use,concrete,Nicholson,PA,Pennsylvania,48.8,9.3
+537,Umpqua River Bridge,1936,Reedsport (OR),USA,in use,concrete,Reedsport,OR,Oregon,52.2,11.2
+538,Union Pacific Railroad Bridge,1904,Riverside (CA),USA,in use,concrete,Riverside,CA,California,64.0,17.8
+539,Upper Perry Arch Bridge,1924,Union County (OR),USA,in use,concrete,Union County,OR,Oregon,46.0,7.8
+540,US-291 Colorado River Bridge,2014,Marble Falls (TX),USA,in use,concrete,Marble Falls,TX,Texas,64.8,18.2
+541,Valley City Eagle Bridges,1988,Valley City (IL),USA,in use,concrete,Valley City,IL,Illinois,51.8,11.0
+542,Vallombrosa Avenue Bridge,1949,Chico (CA),USA,in use,concrete,Chico,CA,California,61.0,16.1
+543,Van Duzen Bridge,1922,Carlotta (CA),USA,demolished,concrete,Carlotta,CA,California,59.4,15.2
+544,VanBuren Street Bridge,1903,Wilmington (DE),USA,in use,concrete,Wilmington,DE,Delaware,54.4,12.4
+545,Varina-Enon Bridge,1990,Chesterfield County (VA),USA,in use,concrete,Chesterfield County,VA,Virginia,55.1,12.8
+546,Veteran's Memorial Bridge,1930,Columbia (PA),USA,in use,concrete,Columbia,PA,Pennsylvania,48.8,9.3
+547,Veterans Memorial Bridge,1990,Bridge City (TX),USA,in use,concrete,Bridge City,TX,Texas,64.8,18.2
+548,Veterans Memorial Bridge,1931,Rochester (NY),USA,in use,concrete,Rochester,NY,New York,48.2,9.0
+549,Veterans Memorial Centennial Bridge,1991,Coeur d'Alene (ID),USA,in use,concrete,Coeur d'Alene,ID,Idaho,48.0,8.9
+550,Veterans' Glass City Skyway,2007,Toledo (OH),USA,in use,concrete,Toledo,OH,Ohio,50.3,10.2
+551,Viall Avenue Bridge,1946,Saratoga County (NY),USA,in use,concrete,Saratoga County,NY,New York,45.4,7.4
+552,Victoria Bridge,1928,Riverside (CA),USA,in use,concrete,Riverside,CA,California,64.0,17.8
+553,Vignes Street Bridge,1938,Los Angeles (CA),USA,in use,concrete,Los Angeles,CA,California,64.9,18.3
+554,Virginia Dare Memorial Bridge,2002,Manteo (NC),USA,in use,concrete,Manteo,NC,North Carolina,61.0,16.1
+555,Virginia Street Bridge,1905,Reno (NV),USA,in use,concrete,Reno,NV,Nevada,53.8,12.1
+556,Vista Avenue Viaduct,1926,Portland (OR),USA,in use,concrete,Portland,OR,Oregon,54.5,12.5
+557,Wabash River Bridge,1977,Covington (IN),USA,in use,concrete,Covington,IN,Indiana,51.7,10.9
+558,Wabasha Street Bridge,1998,Saint Paul (MN),USA,in use,concrete,Saint Paul,MN,Minnesota,47.1,8.4
+559,Wakota Bridge,2010,South Saint Paul (MN),USA,in use,concrete,South Saint Paul,MN,Minnesota,41.2,5.1
+560,Wakota Bridges,2006,Saint Paul (MN),USA,in use,concrete,Saint Paul,MN,Minnesota,47.1,8.4
+561,Walnut Lane Bridge,1908,Philadelphia (PA),USA,in use,concrete,Philadelphia,PA,Pennsylvania,55.9,13.3
+562,Walnut Lane Memorial Bridge,1951,Philadelphia (PA),USA,in use,concrete,Philadelphia,PA,Pennsylvania,55.9,13.3
+563,Washington Street Bridge,1908,Spokane (WA),USA,demolished,concrete,Spokane,WA,Washington,48.2,9.0
+564,Washougal River Bridge,1998,Clark County (WA),USA,in use,concrete,Clark County,WA,Washington,48.3,9.1
+565,Watertown Bridge,1907,Watertown (MA),USA,in use,concrete,Watertown,MA,Massachusetts,47.9,8.8
+566,Weaverland Bridge,1916,Terre Hill (PA),USA,in use,concrete,Terre Hill,PA,Pennsylvania,48.8,9.3
+567,Webbers Falls Interstate Bridge,1967,Webbers Falls (OK),USA,in use,concrete,Webbers Falls,OK,Oklahoma,60.8,16.0
+568,West Sixth Street Bridge,1920,The Dalles (OR),USA,in use,concrete,The Dalles,OR,Oregon,54.2,12.3
+569,West Trenton Railroad Bridge,1913,Ewing (NJ),USA,in use,concrete,Ewing,NJ,New Jersey,52.7,11.5
+570,West Verdi Bridge,1939,Verdi (NV),USA,in use,concrete,Verdi,NV,Nevada,49.9,9.9
+571,Western Avenue Bridge,1924,- Boston (MA),USA,in use,concrete,Boston,MA,Massachusetts,51.3,10.7
+572,Western Hills Viaduct,1932,Cincinnati (OH),USA,in use,concrete,Cincinnati,OH,Ohio,54.6,12.6
+573,Whilamut Passage Bridge,2013,Eugene (OR),USA,in use,concrete,Eugene,OR,Oregon,52.5,11.4
+574,Wil-Cox Bridge,1922,Davidson County (NC),USA,in use,concrete,Davidson County,NC,North Carolina,59.0,15.0
+575,Willey Road Bridge,1931,Crosby Township (OH),USA,in use,concrete,Crosby Township,OH,Ohio,50.7,10.4
+576,William Cannon Bridge,2001,Austin (TX),USA,in use,concrete,Austin,TX,Texas,68.5,20.3
+577,William Cullen Bryant Bridge,2012,Roslyn (NY),USA,in use,concrete,Roslyn,NY,New York,45.4,7.4
+578,William Duby Bridge,1925,Umatilla County (OR),USA,demolished,concrete,Umatilla County,OR,Oregon,54.1,12.3
+579,William Howard Taft Bridge,1907,Washington,USA,in use,concrete,Washingto,WA,Washington,48.3,9.1
+580,William Natcher Bridge,2002,Owensboro (KY),USA,in use,concrete,Owensboro,KY,Kentucky,57.0,13.9
+581,Wilson River Bridge,1931,Tillamook (OR),USA,in use,concrete,Tillamook,OR,Oregon,48.0,8.9
+582,Winchester Bridge,1924,Douglas County (OR),USA,in use,concrete,Douglas County,OR,Oregon,48.4,9.1
+583,Windward Viaducts,1993,Oahu Island (HI),USA,in use,concrete,Oahu Island,HI,Hawaii,70.0,21.1
+584,Wiscasset Bridge,1981,Wiscasset (ME),USA,in use,concrete,Wiscasset,ME,Maine,45.0,7.2
+585,Wisconsin Avenue Viaduct,1993,Milwaukee (WI),USA,in use,concrete,Milwaukee,WI,Wisconsin,48.4,9.1
+586,Wolcott Bridge,1910,Wolcott (CO),USA,in use,concrete,Wolcott,CO,Colorado,45.1,7.3
+587,Worsham Street Bridge,1928,Danville (VA),USA,demolished,concrete,Danville,VA,Virginia,58.5,14.7
+588,Wrightstown Fox River Bridge,2015,Wrightstown (WI),USA,in use,concrete,Wrightstown,WI,Wisconsin,43.1,6.2
+589,100th Street Bridge,1927,Chicago (IL),USA,in use,metal,Chicago,IL,Illinois,49.9,9.9
+590,104th Avenue Bridge,1964,Chicago (IL),USA,in use,metal,Chicago,IL,Illinois,49.9,9.9
+591,106th Street Bridge,1928,Chicago (IL),USA,in use,metal,Chicago,IL,Illinois,49.9,9.9
+592,112th Street Bridge,1996,Troy (NY),USA,in use,metal,Troy,NY,New York,48.6,9.2
+593,125th Street Subway Station (Broadway – Seventh Avenue Line),1904,New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+594,130th Street Bridge,1949,Chicago (IL),USA,in use,metal,Chicago,IL,Illinois,49.9,9.9
+595,145th Street Bridge,1905,New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+596,17th Street Causeway Bridge,2002,Fort Lauderdale (FL),USA,in use,metal,Fort Lauderdale,FL,Florida,76.1,24.5
+597,18th Street Bridge,1967,Chicago (IL),USA,in use,metal,Chicago,IL,Illinois,49.9,9.9
+598,26th Street Bridge,1936,East Saint Louis (IL),USA,in use,metal,East Saint Louis,IL,Illinois,55.0,12.8
+599,51st Street Bridge,1952,Tulsa (OK),USA,demolished,metal,Tulsa,OK,Oklahoma,60.8,16.0
+600,69th Street Bridge,1956,Houston (TX),USA,in use,metal,Houston,TX,Texas,69.9,21.1
+601,95th Street Bridge,1958,Chicago (IL),USA,in use,metal,Chicago,IL,Illinois,49.9,9.9
+602,A. A. Hadley Memorial Bridge,1925,Honeydew (CA),USA,in use,metal,Honeydew,CA,California,55.8,13.2
+603,A. Piatt Andrew Bridge,1950,Gloucester (MA),USA,in use,metal,Gloucester,MA,Massachusetts,47.9,8.8
+604,A. W. Willis. Jr. Bridge,1987,Memphis (TN),USA,in use,metal,Memphis,TN,Tennessee,62.3,16.8
+605,Abernethy Creek Bridge,1933,Clackamas County (OR),USA,in use,metal,Clackamas County,OR,Oregon,48.4,9.1
+606,Adams Road Bridge,1924,Umatilla County (OR),USA,in use,metal,Umatilla County,OR,Oregon,54.1,12.3
+607,Adelaide Avenue Pedestrian Bridge,1903,Providence (RI),USA,demolished,metal,Providence,RI,Rhode Island,50.9,10.5
+608,Aerial Lift Bridge,1905,Duluth (MN),USA,in use,metal,Duluth,MN,Minnesota,40.3,4.6
+609,Aiken Street Bridge,1883,Lowell (MA),USA,in use,metal,Lowell,MA,Massachusetts,49.0,9.4
+610,Albany Northern Railroad Bridge,1870,Albany (NY),USA,demolished,metal,Albany,NY,New York,49.4,9.7
+611,Albert Gallatin Memorial Bridge,2009,Point Marion (PA),USA,in use,metal,Point Marion,PA,Pennsylvania,51.4,10.8
+612,Albert Gallatin Memorial Bridge,1930,Point Marion (PA),USA,demolished,metal,Point Marion,PA,Pennsylvania,51.4,10.8
+613,Albright Bridge,1936,Fort Worth (TX),USA,to be demolished,metal,Fort Worth,TX,Texas,64.7,18.2
+614,Alcoa Road Bridge,1923,Massena (NY),USA,demolished,metal,Massena,NY,New York,44.0,6.7
+615,Alexander Hamilton Bridge,1963,New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+616,Alfred E. Driscoll Bridge,1954,Woodbridge (NJ),USA,in use,metal,Woodbridge,NJ,New Jersey,52.7,11.5
+617,Alfred E. Driscoll Bridge,1972,Woodbridge (NJ),USA,in use,metal,Woodbridge,NJ,New Jersey,52.7,11.5
+618,Alfred E. Driscoll Bridge,2006,Woodbridge (NJ),USA,in use,metal,Woodbridge,NJ,New Jersey,52.7,11.5
+619,Alfred H. Smith Memorial Bridge,1924,Castleton-on-Hudson (NY),USA,in use,metal,Castleton-on-Hudson,NY,New York,45.4,7.4
+620,Alfred Zampa Memorial Bridge,2003,Vallejo (CA),USA,in use,metal,Vallejo,CA,California,58.5,14.7
+621,Allegheny River Bridge,1956,Salamanca (NY),USA,in use,metal,Salamanca,NY,New York,45.3,7.4
+622,Allender Road Bridge,1909,Baltimore County (MD),USA,demolished,metal,Baltimore County,MD,Maryland,55.1,12.8
+623,Allentown Suspension Bridge,1814,Allentown (PA),USA,destroyed,metal,Allentown,PA,Pennsylvania,51.2,10.7
+624,Alsea Bay Bridge,1991,Waldport (OR),USA,in use,metal,Waldport,OR,Oregon,51.5,10.8
+625,Alton Railroad Overhead Bridge,1939,Grundy County (IL),USA,demolished,metal,Grundy County,IL,Illinois,51.8,11.0
+626,Altoona Haupt Truss Bridge,1854,Altoona (PA),USA,demolished,metal,Altoona,PA,Pennsylvania,47.1,8.4
+627,Ambassador Bridge,1929,Detroit (MI),USA,in use,metal,Detroit,MI,Michigan,50.3,10.2
+628,Ambridge-Aliquippa Bridge,1926,Ambridge (PA),USA,in use,metal,Ambridge,PA,Pennsylvania,48.8,9.3
+629,Amelia Earhart Bridge,2012,Atchison (KS),USA,in use,metal,Atchison,KS,Kansas,54.0,12.2
+630,Amelia Earhart Bridge,1939,Atchison (KS),USA,demolished,metal,Atchison,KS,Kansas,54.0,12.2
+631,American Legion Memorial Bridge,1962,Cabin John (MD),USA,in use,metal,Cabin John,MD,Maryland,54.2,12.3
+632,American Legion Memorial Bridge,1950,Sullivan County (TN),USA,in use,metal,Sullivan County,TN,Tennessee,57.6,14.2
+633,American Rapids Bridge,1959,Niagara Falls (NY),USA,in use,metal,Niagara Falls,NY,New York,47.7,8.7
+634,Amgen Helix Pedestrian Bridge,2004,Seattle (WA),USA,in use,metal,Seattle,WA,Washington,52.6,11.4
+635,Androscoggin Pedestrian Bridge,1936,Brunswick (ME),USA,in use,metal,Brunswick,ME,Maine,46.0,7.8
+636,Andy Warhol Bridge,1926,Pittsburgh (PA),USA,in use,metal,Pittsburgh,PA,Pennsylvania,51.4,10.8
+637,Anthony Wayne Bridge,1931,Toledo (OH),USA,in use,metal,Toledo,OH,Ohio,50.3,10.2
+638,Apache Bridge,1934,Seneca (AZ),USA,in use,metal,Seneca,AZ,Arizona,60.3,15.7
+639,Apache Bridge,1996,Seneca (AZ),USA,in use,metal,Seneca,AZ,Arizona,60.3,15.7
+640,Apalahoochee River Bridge,1911,Jennings (FL),USA,out of service,metal,Jennings,FL,Florida,70.7,21.5
+641,Applegate Bridge,1934,Jackson County (OR),USA,in use,metal,Jackson County,OR,Oregon,48.4,9.1
+642,Aqueduct Bridge,1888,Washington,USA,demolished,metal,Washingto,WA,Washington,48.3,9.1
+643,Archer Avenue Bridge,1934,Lemont (IL),USA,in use,metal,Lemont,IL,Illinois,51.8,11.0
+644,Arcola High Bridge,1909,Somerset (WI),USA,in use,metal,Somerset,WI,Wisconsin,43.1,6.2
+645,Arenas Bridge,1894,Cayey (US-PR),USA,out of service,metal,Cayey,US-PR,Puerto Rico,73.2,22.9
+646,Arland D. Williams Jr. Memorial Bridge,1950,Washington,USA,in use,metal,Washingto,WA,Washington,48.3,9.1
+647,Arlington Memorial Bridge,1932,Washington,USA,in use,metal,Washingto,WA,Washington,48.3,9.1
+648,"Armour, Swift, Burlington Bridge",1911,Kansas City (MO),USA,in use,metal,Kansas City,MO,Missouri,54.6,12.6
+649,Ashland Avenue Bridge,1933,Calumet Park (IL),USA,in use,metal,Calumet Park,IL,Illinois,51.8,11.0
+650,Ashland Avenue North Branch Bridge,1936,Chicago (IL),USA,in use,metal,Chicago,IL,Illinois,49.9,9.9
+651,Ashland Avenue South Branch Bridge,1938,Chicago (IL),USA,in use,metal,Chicago,IL,Illinois,49.9,9.9
+652,Ashland Mill Bridge,1886,Griswold (CT),USA,dismantled,metal,Griswold,CT,Connecticut,49.0,9.4
+653,Astoria-Megler Bridge,1966,Astoria (OR),USA,in use,metal,Astoria,OR,Oregon,51.3,10.7
+654,Atchafalaya River Pipeline Bridge,1951,- Melville (LA),USA,in use,metal,Melville,LA,Louisiana,66.4,19.1
+655,Atchison Rail Bridge,1901,Atchison (KS),USA,in use,metal,Atchison,KS,Kansas,54.0,12.2
+656,Atlantic Beach Bridge,1952,Atlantic Beach (NY),USA,in use,metal,Atlantic Beach,NY,New York,45.4,7.4
+657,Atwater Village Equestrian Bridge,2020,Los Angeles (CA),USA,in use,metal,Los Angeles,CA,California,64.9,18.3
+658,Auburn-Foresthill Bridge,1971,Auburn (CA),USA,in use,metal,Auburn,CA,California,60.3,15.7
+659,Auction Street Bridge,1982,Memphis (TN),USA,in use,metal,Memphis,TN,Tennessee,62.3,16.8
+660,Augustine Bridge,1883,Wilmington (DE),USA,in use,metal,Wilmington,DE,Delaware,54.4,12.4
+661,Aurora Avenue Bridge,1932,Seattle (WA),USA,in use,metal,Seattle,WA,Washington,52.6,11.4
+662,Austin Bridge,1872,Chanute (KS),USA,dismantled,metal,Chanute,KS,Kansas,56.7,13.7
+663,Austin Peay Bridge,1928,Gainesboro (TN),USA,demolished,metal,Gainesboro,TN,Tennessee,57.2,14.0
+664,B-Z Corner Bridge,1957,Klickitat County (WA),USA,in use,metal,Klickitat County,WA,Washington,48.3,9.1
+665,Bagby Bridge,1966,Mariposa County (CA),USA,in use,metal,Mariposa County,CA,California,61.0,16.1
+666,Baker Park Footbridge,1875,Frederick (MD),USA,in use,metal,Frederick,MD,Maryland,55.0,12.8
+667,Baker River Cable Stay Bridge,1998,Mount Baker-Snoqualmie National Forest (WA),USA,in use,metal,Mount Baker-Snoqualmie National Forest,WA,Washington,48.3,9.1
+668,Balch Gulch Bridge,1905,Portland (OR),USA,in use,metal,Portland,OR,Oregon,54.5,12.5
+669,Baltimore & Ohio / Chicago Terminal Railroad Bridge,1930,Chicago (IL),USA,out of service,metal,Chicago,IL,Illinois,49.9,9.9
+670,Baltimore and Ohio Railroad Bridge,1921,Pittsburgh (PA),USA,in use,metal,Pittsburgh,PA,Pennsylvania,51.4,10.8
+671,Bardwell's Ferry Bridge,1882,Conway (MA),USA,in use,metal,Conway,MA,Massachusetts,47.9,8.8
+672,Barner Hill Road Bridge,1991,Westmoreland County (PA),USA,in use,metal,Westmoreland County,PA,Pennsylvania,48.8,9.3
+673,Barnhart Island Bridge,1955,Massena (NY),USA,in use,metal,Massena,NY,New York,44.0,6.7
+674,Bartow Jones Bridge,1999,- Henderson (WV),USA,in use,metal,Henderson,WV,West Virginia,55.2,12.9
+675,Bastrop Railroad Bridge,1910,Bastrop (TX),USA,in use,metal,Bastrop,TX,Texas,64.8,18.2
+676,Bay Saint Louis Bridge,1953,Hancock County (MS),USA,destroyed,metal,Hancock County,MS,Mississippi,63.4,17.4
+677,Bayonne Bridge,1931,- New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+678,Bayville Bridge,1938,Bayville (NY),USA,in use,metal,Bayville,NY,New York,45.4,7.4
+679,Bear Mountain Bridge,1924,Peekskill (NY),USA,in use,metal,Peekskill,NY,New York,45.4,7.4
+680,Bell Bridge,1903,Cherry County (NE),USA,in use,metal,Cherry County,NE,Nebraska,48.8,9.3
+681,Bellaire Baltimore & Ohio Railroad Bridge,1868,Bellaire (OH),USA,in use,metal,Bellaire,OH,Ohio,50.7,10.4
+682,Bellaire Toll Bridge,1926,Bellaire (OH),USA,to be demolished,metal,Bellaire,OH,Ohio,50.7,10.4
+683,Bellefontaine Bridge,1893,West Alton (MO),USA,in use,metal,West Alton,MO,Missouri,55.1,12.8
+684,Belleville Turnpike Bridge,2002,Belleville (NJ),USA,in use,metal,Belleville,NJ,New Jersey,52.7,11.5
+685,Bellows Falls Arch Bridge,1905,Rockingham (VT),USA,demolished,metal,Rockingham,VT,Vermont,42.9,6.1
+686,Ben Williamson Memorial Bridge,1932,Ashland (KY),USA,in use,metal,Ashland,KY,Kentucky,55.0,12.8
+687,Benicia-Martinez Bridge,1962,Martinez (CA),USA,in use,metal,Martinez,CA,California,59.2,15.1
+688,Benjamin Franklin Bridge,1926,Philadelphia (PA),USA,in use,metal,Philadelphia,PA,Pennsylvania,55.9,13.3
+689,Benjamin G. Humphreys Bridge,1940,Greenville (MS),USA,demolished,metal,Greenville,MS,Mississippi,63.4,17.4
+690,Berry State Aid Bridge,1921,Cherry County (NE),USA,in use,metal,Cherry County,NE,Nebraska,48.8,9.3
+691,Bessemer and Lake Erie Railroad Bridge,1918,Harmar (PA),USA,in use,metal,Harmar,PA,Pennsylvania,48.8,9.3
+692,Betsy Ross Bridge,1976,- Pennsauken Township (NJ),USA,in use,metal,Pennsauken Township,NJ,New Jersey,52.7,11.5
+693,Beverly Bridge,1909,Grant County (WA),USA,in use,metal,Grant County,WA,Washington,48.3,9.1
+694,Bi-State Vietnam Gold Star Twin Bridges,1932,- Henderson (KY),USA,in use,metal,Henderson,KY,Kentucky,57.3,14.1
+695,Bi-State Vietnam Gold Star Twin Bridges,1965,Evansville (IN),USA,in use,metal,Evansville,IN,Indiana,56.4,13.6
+696,Bidwell Bar Bridge,1965,Oroville (CA),USA,in use,metal,Oroville,CA,California,61.9,16.6
+697,Big Four Railroad Bridge,1929,Louisville (KY),USA,out of service,metal,Louisville,KY,Kentucky,58.2,14.6
+698,Big Wills Creek Bridge,1933,Fort Payne (AL),USA,out of service,metal,Fort Payne,AL,Alabama,61.8,16.6
+699,Bill Olson Bridge,1913,Belle Fourche (SD),USA,in use,metal,Belle Fourche,SD,South Dakota,47.6,8.7
+700,Birmingham Bridge,1898,- Huntingdon County (PA),USA,in use,metal,Huntingdon County,PA,Pennsylvania,50.6,10.3
+701,Birmingham Bridge,1976,Pittsburgh (PA),USA,in use,metal,Pittsburgh,PA,Pennsylvania,51.4,10.8
+702,Bixby Bridge,1939,Bixby (OK),USA,in use,metal,Bixby,OK,Oklahoma,59.6,15.3
+703,Black Hawk Bridge,1931,Lansing (IA),USA,in use,metal,Lansing,IA,Iowa,47.4,8.6
+704,Black Rock Rail Bridge,1913,Salem (OR),USA,in use,metal,Salem,OR,Oregon,53.0,11.7
+705,Black's Fork CR 217 Bridge,1925,Uinta County (WY),USA,demolished,metal,Uinta County,WY,Wyoming,42.0,5.6
+706,Blackhand Gorge Bridge,1880,Licking County (OH),USA,in use,metal,Licking County,OH,Ohio,50.7,10.4
+707,Blackhoof Street Bridge,1864,New Bremen (OH),USA,in use,metal,New Bremen,OH,Ohio,50.7,10.4
+708,Blair Rail Bridge,1924,Blair (NE),USA,in use,metal,Blair,NE,Nebraska,50.1,10.1
+709,Blanchette Memorial Bridge,1958,- Saint Charles (MO),USA,demolished,metal,Saint Charles,MO,Missouri,54.5,12.5
+710,Blanchette Memorial Bridge,1978,- Saint Charles (MO),USA,in use,metal,Saint Charles,MO,Missouri,54.5,12.5
+711,Blennerhassett Bridge,2008,Parkersburg (WV),USA,in use,metal,Parkersburg,WV,West Virginia,54.8,12.7
+712,Bloomington Ferry Trail Bridge,1998,Bloomington (MN),USA,in use,metal,Bloomington,MN,Minnesota,41.2,5.1
+713,Blue Bridge,1954,Pasco (WA),USA,in use,metal,Pasco,WA,Washington,53.2,11.8
+714,Blue Bridge,1954,Cumberland (MD),USA,in use,metal,Cumberland,MD,Maryland,54.2,12.3
+715,Blue Heron Bridge,2005,Newton (MA),USA,in use,metal,Newton,MA,Massachusetts,47.9,8.8
+716,Blue Water Bridge,1938,- Port Huron (MI),USA,in use,metal,Port Huron,MI,Michigan,46.0,7.8
+717,Bluff Creek Bridge,1967,Humboldt County (CA),USA,in use,metal,Humboldt County,CA,California,59.4,15.2
+718,BNSF Bridge,1893,Minneapolis (MN),USA,in use,metal,Minneapolis,MN,Minnesota,46.3,7.9
+719,BNSF Bridge,1984,Prescott (WI),USA,in use,metal,Prescott,WI,Wisconsin,43.1,6.2
+720,Boardman's Lenticular Bridge,1888,New Milford (CT),USA,out of service,metal,New Milford,CT,Connecticut,46.2,7.9
+721,Bob Cummings Lincoln Trail Bridge,1966,Cannelton (IN),USA,in use,metal,Cannelton,IN,Indiana,56.6,13.7
+722,Bob Kerrey Pedestrian Bridge,2008,Omaha (NE),USA,in use,metal,Omaha,NE,Nebraska,51.1,10.6
+723,Bob Michel Bridge,1993,Peoria (IL),USA,in use,metal,Peoria,IL,Illinois,51.9,11.1
+724,Bollman Truss Bridge,1869,Savage (MD),USA,in use,metal,Savage,MD,Maryland,54.2,12.3
+725,Boone Bridge,1954,Wilsonville (OR),USA,in use,metal,Wilsonville,OR,Oregon,52.7,11.5
+726,Borman Bridge,1916,Cherry County (NE),USA,in use,metal,Cherry County,NE,Nebraska,48.8,9.3
+727,Boston & Maine Charles River Railroad Bridges,1931,Boston (MA),USA,in use,metal,Boston,MA,Massachusetts,51.3,10.7
+728,Botanical Center Bridge,2004,Des Moines (IA),USA,in use,metal,Des Moines,IA,Iowa,50.9,10.5
+729,Bourne Bridge,1934,Bourne (MA),USA,in use,metal,Bourne,MA,Massachusetts,47.9,8.8
+730,Bow Bridge,1862,New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+731,Brackenridge Park Bridge,1890,San Antonio (TX),USA,in use,metal,San Antonio,TX,Texas,69.1,20.6
+732,Brandywine Park Swinging Bridge,1909,Wilmington (DE),USA,in use,metal,Wilmington,DE,Delaware,54.4,12.4
+733,Brandywine River Bridge,1809,Wilmington (DE),USA,demolished,metal,Wilmington,DE,Delaware,54.4,12.4
+734,Brent Spence Bridge,1963,Cincinnati (OH),USA,in use,metal,Cincinnati,OH,Ohio,54.6,12.6
+735,Brewer Bridge,1899,Cherry County (NE),USA,in use,metal,Cherry County,NE,Nebraska,48.8,9.3
+736,Bridge of Lions,1927,Saint Augustine (FL),USA,in use,metal,Saint Augustine,FL,Florida,70.7,21.5
+737,Bridge of the Gods,1926,Cascade Locks (OR),USA,in use,metal,Cascade Locks,OR,Oregon,52.3,11.3
+738,Bridge Road Bridge,1911,Ventura County (CA),USA,in use,metal,Ventura County,CA,California,61.4,16.3
+739,Bridge Street Bridge,1913,Newark (NJ),USA,in use,metal,Newark,NJ,New Jersey,54.9,12.7
+740,Bridge Street Bridge,1908,Arroyo Grande (CA),USA,in use,metal,Arroyo Grande,CA,California,15.1,-9.4
+741,Bridge Street Bridge,1948,Trinity County (CA),USA,demolished,metal,Trinity County,CA,California,59.4,15.2
+742,Bridge Street Bridge,1965,Lane County (OR),USA,in use,metal,Lane County,OR,Oregon,48.4,9.1
+743,Bridgeview Bridge,1900,Franklin County (OH),USA,in use,metal,Franklin County,OH,Ohio,52.1,11.2
+744,Brilliant Branch Railroad Bridge,1904,Pittsburgh (PA),USA,out of service,metal,Pittsburgh,PA,Pennsylvania,51.4,10.8
+745,Broadway Avenue Bridge,1987,Minneapolis (MN),USA,in use,metal,Minneapolis,MN,Minnesota,46.3,7.9
+746,Broadway Bridge,1896,Denver (CO),USA,demolished,metal,Denver,CO,Colorado,50.2,10.1
+747,Broadway Bridge,1964,New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+748,Broadway Bridge,1913,Portland (OR),USA,in use,metal,Portland,OR,Oregon,54.5,12.5
+749,Bronx-Whitestone Bridge,1939,- New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+750,Brooklyn Bridge,1883,New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+751,Brown Street Bridge,1901,- West Lafayette (IN),USA,demolished,metal,West Lafayette,IN,Indiana,51.4,10.8
+752,Brownsville High Level Bridge,1960,Brownsville (PA),USA,in use,metal,Brownsville,PA,Pennsylvania,48.8,9.3
+753,Brownsville Suspension Bridge,1809,Brownsville (PA),USA,demolished,metal,Brownsville,PA,Pennsylvania,48.8,9.3
+754,Brownville Bridge,1939,Brownville (NE),USA,in use,metal,Brownville,NE,Nebraska,52.7,11.5
+755,Bryan Bridge,1932,Cherry County (NE),USA,in use,metal,Cherry County,NE,Nebraska,48.8,9.3
+756,Bryan Bridge,1932,Valentine (NE),USA,in use,metal,Valentine,NE,Nebraska,48.0,8.9
+757,Bryan's Crossing Bridge,1937,Warsaw (MO),USA,submerged,metal,Warsaw,MO,Missouri,55.0,12.8
+758,Bryant Station Bridge,1909,Buckholts (TX),USA,in use,metal,Buckholts,TX,Texas,64.8,18.2
+759,Buck O'Neil Bridge,1956,Kansas City (MO),USA,in use,metal,Kansas City,MO,Missouri,54.6,12.6
+760,Bull Run River Bridge,1894,Sandy (OR),USA,in use,metal,Sandy,OR,Oregon,51.4,10.8
+761,Bullman Bridge,1884,- Hamilton (TX),USA,in use,metal,Hamilton,TX,Texas,64.2,17.9
+762,Burlington and Missouri River Railroad Bridge,1902,Plattsmouth (NE),USA,in use,metal,Plattsmouth,NE,Nebraska,49.0,9.4
+763,Burlington Northern Railroad Bridge 5.1,1908,Portland (OR),USA,in use,metal,Portland,OR,Oregon,54.5,12.5
+764,Burlington-Bristol Bridge,1931,- Bristol (PA),USA,in use,metal,Bristol,PA,Pennsylvania,54.9,12.7
+765,Burnside Bridge,1926,Portland (OR),USA,in use,metal,Portland,OR,Oregon,54.5,12.5
+766,Burro Creek Bridge,1966,Wikieup (AZ),USA,in use,metal,Wikieup,AZ,Arizona,66.1,18.9
+767,Burro Creek Bridge,2006,Wikieup (AZ),USA,in use,metal,Wikieup,AZ,Arizona,66.1,18.9
+768,Butler Memorial Bridge,1948,Carter County (TN),USA,in use,metal,Carter County,TN,Tennessee,57.6,14.2
+769,Byram Bridge,1905,Byram (MS),USA,in use,metal,Byram,MS,Mississippi,63.4,17.4
+770,Byram Road Bridge,1877,Tinicum Township (PA),USA,in use,metal,Tinicum Township,PA,Pennsylvania,48.8,9.3
+771,C & NW Boom Island Bridge,1901,Minneapolis (MN),USA,in use,metal,Minneapolis,MN,Minnesota,46.3,7.9
+772,C & O Bridge,1889,Cincinnati (OH),USA,demolished,metal,Cincinnati,OH,Ohio,54.6,12.6
+773,C & O Bridge,1929,Cincinnati (OH),USA,in use,metal,Cincinnati,OH,Ohio,54.6,12.6
+774,C. B. and Q Railroad Bridge,1917,Metropolis (IL),USA,in use,metal,Metropolis,IL,Illinois,47.0,8.3
+775,C. L. Schmitt Bridge,1927,New Kensington (PA),USA,in use,metal,New Kensington,PA,Pennsylvania,48.8,9.3
+776,C&NW Illinois Channel Rail Bridge,1909,Clinton (IA),USA,in use,metal,Clinton,IA,Iowa,50.0,10.0
+777,C&NW Rail Bridge,1907,Clinton (IA),USA,in use,metal,Clinton,IA,Iowa,50.0,10.0
+778,Cache Creek Bridge II,1932,Yolo County (CA),USA,demolished,metal,Yolo County,CA,California,53.0,11.7
+779,Caddo Lake Drawbridge,1914,Mooringsport (LA),USA,in use,metal,Mooringsport,LA,Louisiana,65.4,18.6
+780,Caddo Lake LA 1 Bridge,1940,Mooringsport (LA),USA,in use,metal,Mooringsport,LA,Louisiana,65.4,18.6
+781,Cadman Creek Bridge,1937,Saratoga County (NY),USA,in use,metal,Saratoga County,NY,New York,45.4,7.4
+782,Cairo Bridge,1889,Cairo (IL),USA,demolished,metal,Cairo,IL,Illinois,51.8,11.0
+783,Cairo Bridge,1952,Cairo (IL),USA,in use,metal,Cairo,IL,Illinois,51.8,11.0
+784,Cairo I-57 Mississippi River Bridge,1978,Cairo (IL),USA,in use,metal,Cairo,IL,Illinois,51.8,11.0
+785,Cairo Mississippi River Bridge,1929,Cairo (IL),USA,in use,metal,Cairo,IL,Illinois,51.8,11.0
+786,Cairo Ohio River Bridge,1937,Cairo (IL),USA,in use,metal,Cairo,IL,Illinois,51.8,11.0
+787,Calcasieu River Bridge,1952,Lake Charles (LA),USA,in use,metal,Lake Charles,LA,Louisiana,68.2,20.1
+788,Calhoun Street Bridge,1884,Trenton (NJ),USA,in use,metal,Trenton,NJ,New Jersey,54.0,12.2
+789,California Avenue Bridge,1926,Chicago (IL),USA,in use,metal,Chicago,IL,Illinois,49.9,9.9
+790,Calumet Expressway Bridge,1949,Chicago (IL),USA,in use,metal,Chicago,IL,Illinois,49.9,9.9
+791,Cameron Avenue Bridge,2004,La Crosse (WI),USA,in use,metal,La Crosse,WI,Wisconsin,47.4,8.6
+792,Cameron Highway Bridge,1959,Cameron (AZ),USA,in use,metal,Cameron,AZ,Arizona,57.0,13.9
+793,Cameron Suspension Bridge,1911,Cameron (AZ),USA,in use,metal,Cameron,AZ,Arizona,57.0,13.9
+794,Canadian Pacific Bridge,1905,Minneapolis (MN),USA,in use,metal,Minneapolis,MN,Minnesota,46.3,7.9
+795,Canal Street Bridge,1948,Chicago (IL),USA,in use,metal,Chicago,IL,Illinois,49.9,9.9
+796,Canoe Pass Bridge,1935,Fidalgo Island (WA),USA,in use,metal,Fidalgo Island,WA,Washington,48.3,9.1
+797,Canyon Diablo Bridge,1947,Coconino County (AZ),USA,in use,metal,Coconino County,AZ,Arizona,60.3,15.7
+798,Cape Cod Canal Railroad Bridge,1935,Buzzard's Bay (MA),USA,in use,metal,Buzzard's Bay,MA,Massachusetts,47.9,8.8
+799,Cape Fear Memorial Bridge,1969,Wilmington (NC),USA,in use,metal,Wilmington,NC,North Carolina,64.0,17.8
+800,Cape Girardeau Bridge,1928,- East Cape Girardeau (IL),USA,demolished,metal,East Cape Girardeau,IL,Illinois,51.8,11.0
+801,"Captain William J. Hudson ""Steamboat Bill"" Memorial Bridge",1963,Decatur (AL),USA,in use,metal,Decatur,AL,Alabama,60.8,16.0
+802,Carl Perkins Bridge,1988,Portsmouth (OH),USA,in use,metal,Portsmouth,OH,Ohio,55.4,13.0
+803,Carlton Bridge,1927,Bath (ME),USA,in use,metal,Bath,ME,Maine,41.0,5.0
+804,Carns State Aid Bridge,1913,Bassett (NE),USA,in use,metal,Bassett,NE,Nebraska,48.8,9.3
+805,Caroll C. Cropper Bridge,1977,Greendale (IN),USA,in use,metal,Greendale,IN,Indiana,51.7,10.9
+806,Carquinez Bridge,1958,Vallejo (CA),USA,in use,metal,Vallejo,CA,California,58.5,14.7
+807,Carquinez Strait Bridge,1927,Vallejo (CA),USA,demolished,metal,Vallejo,CA,California,58.5,14.7
+808,Carroll Street Bridge,1889,New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+809,Cart Creek Bridge,1962,Daggett County (UT),USA,in use,metal,Daggett County,UT,Utah,48.6,9.2
+810,Carter Road Bridge,1940,Cleveland (OH),USA,in use,metal,Cleveland,OH,Ohio,51.4,10.8
+811,Cartersville Bridge,1884,Cartersville (VA),USA,in ruins,metal,Cartersville,VA,Virginia,56.3,13.5
+812,Caruthersville Bridge,1976,Caruthersville (MO),USA,in use,metal,Caruthersville,MO,Missouri,59.4,15.2
+813,Carver Bridge,1930,Carver (OR),USA,demolished,metal,Carver,OR,Oregon,48.4,9.1
+814,Cass Street Bridge,1939,La Crosse (WI),USA,in use,metal,La Crosse,WI,Wisconsin,47.4,8.6
+815,Cass Street Bridge,1932,Joliet (IL),USA,in use,metal,Joliet,IL,Illinois,49.4,9.7
+816,Cassidy Suspension Bridge,1997,Sierra National Forest (CA),USA,in use,metal,Sierra National Forest,CA,California,59.4,15.2
+817,Castleton Bridge,1959,Castleton-on-Hudson (NY),USA,in use,metal,Castleton-on-Hudson,NY,New York,45.4,7.4
+818,Cattaraugus Creek Bridge,1955,- Concord (NY),USA,demolished,metal,Concord,NY,New York,45.4,7.4
+819,Cazadero Bridge,1904,Estacada (OR),USA,in use,metal,Estacada,OR,Oregon,52.3,11.3
+820,Cedar Canyon Bridge,1937,Show Low (AZ),USA,in use,metal,Show Low,AZ,Arizona,53.2,11.8
+821,Cedar Street Bridge,1933,Peoria (IL),USA,in use,metal,Peoria,IL,Illinois,51.9,11.1
+822,Centennial Bridge,1955,Leavenworth (KS),USA,in use,metal,Leavenworth,KS,Kansas,54.3,12.4
+823,Centennial Bridge,1940,Rock Island (IL),USA,in use,metal,Rock Island,IL,Illinois,50.5,10.3
+824,Center Street Bridge,1901,Cleveland (OH),USA,in use,metal,Cleveland,OH,Ohio,51.4,10.8
+825,Center Street Bridge,2010,Des Moines (IA),USA,in use,metal,Des Moines,IA,Iowa,50.9,10.5
+826,Central Bridge,1890,Cincinnati (OH),USA,demolished,metal,Cincinnati,OH,Ohio,54.6,12.6
+827,Central Viaduct,1888,Cleveland (OH),USA,demolished,metal,Cleveland,OH,Ohio,51.4,10.8
+828,Centre Bridge-Stockton Bridge,1927,Stockton (NJ),USA,in use,metal,Stockton,NJ,New Jersey,52.7,11.5
+829,Cermak Road Bridge,1906,Chicago (IL),USA,in use,metal,Chicago,IL,Illinois,49.9,9.9
+830,Chain Bridge,1938,Washington,USA,in use,metal,Washingto,WA,Washington,48.3,9.1
+831,Chamberlain Bridge,1925,Chamberlain (SD),USA,in use,metal,Chamberlain,SD,South Dakota,48.2,9.0
+832,Champ Clark Bridge,1928,Louisiana (MO),USA,in use,metal,Louisiana,MO,Missouri,37.2,2.9
+833,Charles Anderson Bridge,1940,Pittsburgh (PA),USA,in use,metal,Pittsburgh,PA,Pennsylvania,51.4,10.8
+834,Charles J. Arrigoni Bridge,1938,- Middletown (CT),USA,in use,metal,Middletown,CT,Connecticut,49.0,9.4
+835,Charles M. Berry Bascule Bridge,1940,Lorain (OH),USA,in use,metal,Lorain,OH,Ohio,50.7,10.4
+836,"Charles M. Braga, Jr. Memorial Bridge",1966,Fall River (MA),USA,in use,metal,Fall River,MA,Massachusetts,50.2,10.1
+837,Charles R. Fenwick Bridge,1983,Washington,USA,in use,metal,Washingto,WA,Washington,48.3,9.1
+838,Charles Street Bridge,1894,Providence (RI),USA,in use,metal,Providence,RI,Rhode Island,50.9,10.5
+839,Charlton Memorial Bridge,1954,Mercer County (WV),USA,in use,metal,Mercer County,WV,West Virginia,51.8,11.0
+840,Charter Oak Bridge,1991,Hartford (CT),USA,demolished,metal,Hartford,CT,Connecticut,50.1,10.1
+841,Charter Oak Bridge,1991,Hartford (CT),USA,in use,metal,Hartford,CT,Connecticut,50.1,10.1
+842,Cheesequake Creek Bridge,1943,Sayreville (NJ),USA,in use,metal,Sayreville,NJ,New Jersey,52.7,11.5
+843,Chef Menteur Bridge,1929,New Orleans (LA),USA,in use,metal,New Orleans,LA,Louisiana,68.7,20.4
+844,Chehalis River Riverside Bridge,1939,Chehalis (WA),USA,in use,metal,Chehalis,WA,Washington,50.1,10.1
+845,Chelsea Street Bridge,2013,Boston (MA),USA,in use,metal,Boston,MA,Massachusetts,51.3,10.7
+846,Cherry Avenue Bridge,1902,Chicago (IL),USA,in use,metal,Chicago,IL,Illinois,49.9,9.9
+847,Chesapeake & Delaware Canal Lift Bridge,1966,New Castle County (DE),USA,in use,metal,New Castle County,DE,Delaware,55.3,12.9
+848,Chesapeake Bay Bridge,1973,Skidmore (MD),USA,in use,metal,Skidmore,MD,Maryland,54.2,12.3
+849,Chesapeake Bay Bridge,1952,Skidmore (MD),USA,in use,metal,Skidmore,MD,Maryland,54.2,12.3
+850,Chesapeake City Bridge,1949,Chesapeake City (MD),USA,in use,metal,Chesapeake City,MD,Maryland,54.2,12.3
+851,Chester Bridge,1897,Chester (WV),USA,demolished,metal,Chester,WV,West Virginia,51.8,11.0
+852,Christina and John Markey Memorial Pedestrian Bridge,2013,Revere (MA),USA,in use,metal,Revere,MA,Massachusetts,47.9,8.8
+853,Cicero Avenue Cal-Sag Bridge,1938,Crestwood (IL),USA,in use,metal,Crestwood,IL,Illinois,51.8,11.0
+854,Cincinnati Southern Bridge,1877,Cincinnati (OH),USA,in use,metal,Cincinnati,OH,Ohio,54.6,12.6
+855,Clackamas River Bridge,1970,Barton (OR),USA,in use,metal,Barton,OR,Oregon,48.4,9.1
+856,Claiborne Pell Bridge,1969,Newport (RI),USA,in use,metal,Newport,RI,Rhode Island,51.3,10.7
+857,Clark Memorial Bridge,1931,- Epperson (KY),USA,demolished,metal,Epperson,KY,Kentucky,55.6,13.1
+858,Clarks Summit Bridge,1957,Clarks Summit (PA),USA,in use,metal,Clarks Summit,PA,Pennsylvania,48.8,9.3
+859,Clay Wade Bailey Bridge,1974,Cincinnati (OH),USA,in use,metal,Cincinnati,OH,Ohio,54.6,12.6
+860,Clays Ferry Bridge,1945,Lexington (KY),USA,in use,metal,Lexington,KY,Kentucky,55.6,13.1
+861,Clement C. Clay Bridge,1965,Morgan County (AL),USA,in use,metal,Morgan County,AL,Alabama,62.8,17.1
+862,Cleves Bridge,1960,Cleves (OH),USA,in use,metal,Cleves,OH,Ohio,50.7,10.4
+863,Clinton Presidential Park Bridge,1899,Little Rock (AR),USA,in use,metal,Little Rock,AR,Arkansas,62.7,17.1
+864,Cold Spring Canyon Bridge,1963,Santa Barbara (CA),USA,in use,metal,Santa Barbara,CA,California,57.7,14.3
+865,Cold Springs Bridge,1884,Blaine County (ID),USA,in use,metal,Blaine County,ID,Idaho,44.4,6.9
+866,Colfax Avenue Bridge,1956,Los Angeles (CA),USA,in use,metal,Los Angeles,CA,California,64.9,18.3
+867,College Avenue Bridge,1959,Appleton (WI),USA,demolished,metal,Appleton,WI,Wisconsin,45.2,7.3
+868,College Avenue Bridge,1914,Greenville (PA),USA,demolished,metal,Greenville,PA,Pennsylvania,48.0,8.9
+869,Colorado River Bridge,1965,Garfield County (UT),USA,in use,metal,Garfield County,UT,Utah,53.7,12.1
+870,Colorado River Bridge,1923,Bastrop (TX),USA,in use,metal,Bastrop,TX,Texas,64.8,18.2
+871,Colorado River Bridge (US 191),1955,Moab (UT),USA,demolished,metal,Moab,UT,Utah,52.0,11.1
+872,Colorado Riverway Bridge,2008,Moab (UT),USA,in use,metal,Moab,UT,Utah,52.0,11.1
+873,Columbus Gateway Arch,1998,Columbus (IN),USA,in use,metal,Columbus,IN,Indiana,53.5,11.9
+874,Columbus Loup River Bridge,1933,Columbus (NE),USA,in use,metal,Columbus,NE,Nebraska,50.0,10.0
+875,Columbus State University Pedestrian Bridge,2001,Columbus (OH),USA,in use,metal,Columbus,OH,Ohio,53.4,11.9
+876,Combs-Hehl Bridge,1979,Cincinnati (OH),USA,in use,metal,Cincinnati,OH,Ohio,54.6,12.6
+877,Comer Bridge,1930,Scottsboro (AL),USA,in use,metal,Scottsboro,AL,Alabama,60.2,15.7
+878,Commodore Barry Bridge,1974,Chester (PA),USA,in use,metal,Chester,PA,Pennsylvania,48.8,9.3
+879,Commodore Isaac Hull Memorial Bridge,1951,Derby (CT),USA,in use,metal,Derby,CT,Connecticut,49.0,9.4
+880,Commodore Schuyler F. Heim Bridge,1947,Los Angeles (CA),USA,demolished,metal,Los Angeles,CA,California,64.9,18.3
+881,Conde B. McCullough Memorial Bridge,1936,North Bend (OR),USA,in use,metal,North Bend,OR,Oregon,52.0,11.1
+882,Confederate Avenue Steel Arch Bridge,1903,Vicksburg (MS),USA,in use,metal,Vicksburg,MS,Mississippi,64.7,18.2
+883,Congress Parkway Bridges,1956,Chicago (IL),USA,in use,metal,Chicago,IL,Illinois,49.9,9.9
+884,Congress Street Bridge,1931,Boston (MA),USA,in use,metal,Boston,MA,Massachusetts,51.3,10.7
+885,Congress Street Bridge,1970,Troy (NY),USA,in use,metal,Troy,NY,New York,48.6,9.2
+886,Congressman William L. Clay Sr. Bridge,1967,Saint Louis (MO),USA,in use,metal,Saint Louis,MO,Missouri,54.5,12.5
+887,Connecticut Avenue Bridge,1932,Washington,USA,in use,metal,Washingto,WA,Washington,48.3,9.1
+888,Connecticut Southern Railroad Bridge,1873,Hartford (CT),USA,in use,metal,Hartford,CT,Connecticut,50.1,10.1
+889,Conrad Lundy Jr. Bridge,1957,Carson (WA),USA,in use,metal,Carson,WA,Washington,48.0,8.9
+890,Consol Energy Wing Tip Bridge,2013,Piney View (WV),USA,in use,metal,Piney View,WV,West Virginia,51.8,11.0
+891,Continental Avenue Bridge,1930,Dallas (TX),USA,in use,metal,Dallas,TX,Texas,66.3,19.1
+892,Cooper's Tubular Arch Bridge,1886,Fayetteville (NY),USA,in use,metal,Fayetteville,NY,New York,45.4,7.4
+893,Copeland-Grove Highway Bridge,1939,Delaware County (OK),USA,demolished,metal,Delaware County,OK,Oklahoma,59.6,15.3
+894,Coquille River Bridge,1922,Coos County (OR),USA,demolished,metal,Coos County,OR,Oregon,48.4,9.1
+895,Coraopolis Bridge,1927,Coraopolis (PA),USA,demolished,metal,Coraopolis,PA,Pennsylvania,50.9,10.5
+896,Cordell Hull Highway 25 Bridge,1936,Carthage (TN),USA,in use,metal,Carthage,TN,Tennessee,59.1,15.1
+897,Corduroy Creek Bridge,1937,Show Low (AZ),USA,demolished,metal,Show Low,AZ,Arizona,53.2,11.8
+898,Corn Creek Bridge,1967,Lewis County (WA),USA,in use,metal,Lewis County,WA,Washington,48.3,9.1
+899,Corporal Joseph Thompson Footbridge,1956,Watertown (MA),USA,demolished,metal,Watertown,MA,Massachusetts,47.9,8.8
+900,Corporal Joseph Thompson Pedestrian Bridge,2018,Watertown (MA),USA,in use,metal,Watertown,MA,Massachusetts,47.9,8.8
+901,Corpus Christi Harbor Bridge,1959,Corpus Christi (TX),USA,in use,metal,Corpus Christi,TX,Texas,72.1,22.3
+902,Cortland Street Bridge,1902,Chicago (IL),USA,in use,metal,Chicago,IL,Illinois,49.9,9.9
+903,Cortright Creek Bridge,1983,Lewis County (WA),USA,in use,metal,Lewis County,WA,Washington,48.3,9.1
+904,Costilla Crossing Bridge,1892,Antonito (CO),USA,in use,metal,Antonito,CO,Colorado,33.0,0.6
+905,Cottonwood Slough Bridge,1932,Yolo County (CA),USA,in use,metal,Yolo County,CA,California,53.0,11.7
+906,Cowlitz River Bridge,1951,Kelso (WA),USA,in use,metal,Kelso,WA,Washington,51.0,10.6
+907,Cowlitz River Bridge,1948,Lewis County (WA),USA,in use,metal,Lewis County,WA,Washington,48.3,9.1
+908,Craig Bridge,1906,Craig (MT),USA,dismantled,metal,Craig,MT,Montana,42.7,5.9
+909,Crescent City Connection,1988,New Orleans (LA),USA,in use,metal,New Orleans,LA,Louisiana,68.7,20.4
+910,Crescent City Connection,1958,New Orleans (LA),USA,in use,metal,New Orleans,LA,Louisiana,68.7,20.4
+911,Crook Point Bascule Bridge,1908,Providence (RI),USA,in use,metal,Providence,RI,Rhode Island,50.9,10.5
+912,Crooked River Bridge,1926,Jefferson County (OR),USA,in use,metal,Jefferson County,OR,Oregon,48.4,9.1
+913,Crooked River Bridge,1911,Jefferson County (OR),USA,in use,metal,Jefferson County,OR,Oregon,48.4,9.1
+914,Cross Seminole Trail Overpass,2003,Lake Mary (FL),USA,in use,metal,Lake Mary,FL,Florida,70.7,21.5
+915,CSX Bridge over the Tennessee River Slough,1892,Bridgeport (AL),USA,demolished,metal,Bridgeport,AL,Alabama,59.0,15.0
+916,CSX Susquehanna River Bridge,1970,Havre de Grace (MD),USA,in use,metal,Havre de Grace,MD,Maryland,54.2,12.3
+917,Culver Viaduct,1933,New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+918,Cumberland Lake Bridge,2005,Burnside (KY),USA,in use,metal,Burnside,KY,Kentucky,56.7,13.7
+919,Cumberland Lake Bridge,1950,Burnside (KY),USA,demolished,metal,Burnside,KY,Kentucky,56.7,13.7
+920,Cuyahoga River Valley Bridge,1980,Ohio (OH),USA,in use,metal,Ohio,OH,Ohio,50.7,10.4
+921,Daggett Road Bridge,1902,Stockton (CA),USA,disused,metal,Stockton,CA,California,61.4,16.3
+922,Dale Creek Crossing,1869,Albany County (WY),USA,demolished,metal,Albany County,WY,Wyoming,42.0,5.6
+923,Damen Avenue Bridge,1999,Chicago (IL),USA,in use,metal,Chicago,IL,Illinois,49.9,9.9
+924,Daniel Carter Beard Bridge,1977,Cincinnati (OH),USA,in use,metal,Cincinnati,OH,Ohio,54.6,12.6
+925,Daniel Webster Hoan Memorial Bridge,1973,Milwaukee (WI),USA,in use,metal,Milwaukee,WI,Wisconsin,48.4,9.1
+926,David McCullough Bridge,1923,Pittsburgh (PA),USA,in use,metal,Pittsburgh,PA,Pennsylvania,51.4,10.8
+927,Dead Indian Canyon Bridge,1934,Coconino County (AZ),USA,out of service,metal,Coconino County,AZ,Arizona,60.3,15.7
+928,Dearborn River High Bridge,1897,Lewis and Clark County (MT),USA,in use,metal,Lewis and Clark County,MT,Montana,42.7,5.9
+929,Dearborn Street Bridge,1963,Chicago (IL),USA,in use,metal,Chicago,IL,Illinois,49.9,9.9
+930,Deception Pass Bridge,1935,Fidalgo Island (WA),USA,in use,metal,Fidalgo Island,WA,Washington,48.3,9.1
+931,Deer Isle Bridge,1939,Deer Isle (ME),USA,in use,metal,Deer Isle,ME,Maine,41.0,5.0
+932,Delaware Memorial Bridge,1951,- New Castle (DE),USA,in use,metal,New Castle,DE,Delaware,53.0,11.7
+933,Delaware Memorial Bridge,1968,- New Castle (DE),USA,in use,metal,New Castle,DE,Delaware,53.0,11.7
+934,Delaware River-Turnpike Toll Bridge,1956,- Florence (NJ),USA,in use,metal,Florence,NJ,New Jersey,52.7,11.5
+935,Delaware Water Gap Toll Bridge,1953,Delaware Water Gap (PA),USA,in use,metal,Delaware Water Gap,PA,Pennsylvania,48.8,9.3
+936,Delton Bridge,1930,Delton (WI),USA,demolished,metal,Delton,WI,Wisconsin,43.1,6.2
+937,Dent Bridge,1971,Orofino (ID),USA,in use,metal,Orofino,ID,Idaho,43.3,6.3
+938,Denver & Rio Grande Hanging Bridge,1879,Canon City (CO),USA,in use,metal,Canon City,CO,Colorado,54.0,12.2
+939,Denver Millennium Footbridge,2002,Denver (CO),USA,in use,metal,Denver,CO,Colorado,50.2,10.1
+940,Depot Street Bridge,1950,Rogue River (OR),USA,in use,metal,Rogue River,OR,Oregon,48.4,9.1
+941,Des Plaines River I-55 Bridge,1957,Channahon (IL),USA,in use,metal,Channahon,IL,Illinois,50.5,10.3
+942,Des Plaines River I-80 Bridge,1965,Joliet (IL),USA,in use,metal,Joliet,IL,Illinois,49.4,9.7
+943,DeSoto Bridge,1957,Saint Cloud (MN),USA,under demolition,metal,Saint Cloud,MN,Minnesota,41.2,5.1
+944,Detroit-Superior High Level Bridge,1917,Cleveland (OH),USA,in use,metal,Cleveland,OH,Ohio,51.4,10.8
+945,Dewey Bridge,1916,Cisco (UT),USA,in use,metal,Cisco,UT,Utah,47.3,8.5
+946,DeWitt Mill Bridge,1887,Gage County (NE),USA,in ruins,metal,Gage County,NE,Nebraska,48.8,9.3
+947,Dimmick Road Bridge,1941,Saratoga County (NY),USA,in use,metal,Saratoga County,NY,New York,45.4,7.4
+948,Dingmans Ferry Bridge,1900,Dingmans Ferry (PA),USA,in use,metal,Dingmans Ferry,PA,Pennsylvania,27.7,-2.4
+949,Discovery Bridge,1993,Saint Louis County (MO),USA,in use,metal,Saint Louis County,MO,Missouri,54.5,12.5
+950,Division Street Bridge,1964,Blue Island (IL),USA,in use,metal,Blue Island,IL,Illinois,51.8,11.0
+951,Division Street Bridge,1903,Chicago (IL),USA,demolished,metal,Chicago,IL,Illinois,49.9,9.9
+952,Dodge Street Pedestrian Overpass,1968,Omaha (NE),USA,in use,metal,Omaha,NE,Nebraska,51.1,10.6
+953,Don Burnett Bicycle-Pedestrian Bridge,2009,Cupertino (CA),USA,in use,metal,Cupertino,CA,California,39.3,4.1
+954,Don N. Holt Bridge,1992,Charleston (SC),USA,in use,metal,Charleston,SC,South Carolina,65.9,18.8
+955,Donald Goodkind Bridge,1974,New Brunswick (NJ),USA,in use,metal,New Brunswick,NJ,New Jersey,52.8,11.6
+956,Donald R. Lobaugh Bridge,1965,Freeport (PA),USA,in use,metal,Freeport,PA,Pennsylvania,40.7,4.8
+957,Donald W. Alden Memorial Bridge,1893,Folsom (CA),USA,in use,metal,Folsom,CA,California,61.0,16.1
+958,Doniphan Platte River Bridge,1924,Doniphan (NE),USA,in use,metal,Doniphan,NE,Nebraska,48.8,9.3
+959,Dorland J. Henderson Memorial Bridge,1958,Ocean County (NJ),USA,in use,metal,Ocean County,NJ,New Jersey,52.7,11.5
+960,"Dr. Martin Luther King, Jr. Bridge",1951,Saint Louis (MO),USA,in use,metal,Saint Louis,MO,Missouri,54.5,12.5
+961,Dresden Suspension Bridge,1914,Dresden (OH),USA,completed,metal,Dresden,OH,Ohio,50.7,10.4
+962,Dresden Suspension Bridge,1853,Dresden (OH),USA,demolished,metal,Dresden,OH,Ohio,50.7,10.4
+963,DRGW Elk Park Bridge,1884,San Juan County (CO),USA,out of service,metal,San Juan County,CO,Colorado,45.1,7.3
+964,Drift Bridge,2021,Fort Worth (TX),USA,in use,metal,Fort Worth,TX,Texas,64.7,18.2
+965,Driving Park Avenue Bridge,1890,Rochester (NY),USA,demolished,metal,Rochester,NY,New York,48.2,9.0
+966,Dubuque-Wisconsin Bridge,1982,Dubuque (IA),USA,in use,metal,Dubuque,IA,Iowa,47.3,8.5
+967,Duck Run Suspension Bridge,1922,Glenville (WV),USA,out of service,metal,Glenville,WV,West Virginia,54.0,12.2
+968,Dumbarton Bridge,1927,Menlo Park (CA),USA,demolished,metal,Menlo Park,CA,California,59.4,15.2
+969,Dump Road Bridge,1904,Walcott (MN),USA,demolished,metal,Walcott,MN,Minnesota,41.2,5.1
+970,Dunlap's Creek Bridge,1809,Brownsville (PA),USA,collapsed,metal,Brownsville,PA,Pennsylvania,48.8,9.3
+971,Dunlap's Creek Bridge,1839,Brownsville (PA),USA,in use,metal,Brownsville,PA,Pennsylvania,48.8,9.3
+972,Dunnings Creek Bridge,1940,Bedford (PA),USA,in use,metal,Bedford,PA,Pennsylvania,38.5,3.6
+973,Dupo Bridge,1954,Cahokia (IL),USA,demolished,metal,Cahokia,IL,Illinois,51.8,11.0
+974,E. H. Swindell Bridge,1930,Pittsburgh (PA),USA,in use,metal,Pittsburgh,PA,Pennsylvania,51.4,10.8
+975,E. L. Patton Yukon River Bridge,1975,Yukon-Koyukuk (AK),USA,in use,metal,Yukon-Koyukuk,AK,Alaska,26.6,-3.0
+976,Eads Bridge,1874,Saint Louis (MO),USA,in use,metal,Saint Louis,MO,Missouri,54.5,12.5
+977,Eagle Canyon Bridge,1965,Emery County (UT),USA,in use,metal,Emery County,UT,Utah,46.0,7.8
+978,Eagle Creek Bridge,1936,Multnomah County (OR),USA,demolished,metal,Multnomah County,OR,Oregon,48.4,9.1
+979,East Main Street Bridge,1898,Newark (OH),USA,in use,metal,Newark,OH,Ohio,51.4,10.8
+980,East Memorial Shoreway Footbridge,1952,Cleveland (OH),USA,in use,metal,Cleveland,OH,Ohio,51.4,10.8
+981,East Street Bridge,1907,Parkersburg (WV),USA,demolished,metal,Parkersburg,WV,West Virginia,54.8,12.7
+982,Easton-Phillipsburg Toll Bridge,1938,Easton (PA),USA,in use,metal,Easton,PA,Pennsylvania,51.5,10.8
+983,Ed Koch Queensboro Bridge,1909,New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+984,Edgewood Road Bridge,1970,Cedar Rapids (IA),USA,in use,metal,Cedar Rapids,IA,Iowa,48.2,9.0
+985,Edmund Pettus Bridge,1940,Selma (AL),USA,in use,metal,Selma,AL,Alabama,63.7,17.6
+986,Edwards Crossing Bridge,1904,Nevada County (CA),USA,in use,metal,Nevada County,CA,California,59.4,15.2
+987,Eggner's Ferry Bridge,1932,- Trigg County (KY),USA,in use,metal,Trigg County,KY,Kentucky,55.6,13.1
+988,Eleventh Street Bridge,1915,Montague (MA),USA,in use,metal,Montague,MA,Massachusetts,47.9,8.8
+989,Elkhorn River Bridge,1883,Clearwater (NE),USA,in use,metal,Clearwater,NE,Nebraska,26.0,-3.3
+990,Ellsworth Street Bridge,1925,Albany (OR),USA,in use,metal,Albany,OR,Oregon,51.0,10.6
+991,Elm Street Bridge,1870,Woodstock (VT),USA,in use,metal,Woodstock,VT,Vermont,43.5,6.4
+992,Elm Street Footbridges,2000,Cincinnati (OH),USA,in use,metal,Cincinnati,OH,Ohio,54.6,12.6
+993,Elwha River Bridge,1913,Clallam County (WA),USA,demolished,metal,Clallam County,WA,Washington,48.3,9.1
+994,Enfield-Suffield Veterans Bridge,1966,- Enfield (CT),USA,in use,metal,Enfield,CT,Connecticut,49.0,9.4
+995,English Center Suspension Bridge,1891,English Center (PA),USA,in use,metal,English Center,PA,Pennsylvania,48.8,9.3
+996,Erie Canal Bridge,1914,Albion (NY),USA,in use,metal,Albion,NY,New York,45.4,7.4
+997,Eugene A. Doran Memorial Bridge,1970,Hillsborough (CA),USA,in use,metal,Hillsborough,CA,California,59.4,15.2
+998,Eureka Bridge,1872,- Bloomfield (IA),USA,in use,metal,Bloomfield,IA,Iowa,51.2,10.7
+999,Ewing Avenue Bridge,1914,Chicago (IL),USA,in use,metal,Chicago,IL,Illinois,49.9,9.9
+1000,Fairfax Bridge,1934,- Riverside (MO),USA,demolished,metal,Riverside,MO,Missouri,54.5,12.5
+1001,Fairfax Bridge,1921,Pierce County (WA),USA,in use,metal,Pierce County,WA,Washington,48.3,9.1
+1002,Fairground Street Bridge,1895,Vicksburg (MS),USA,out of service,metal,Vicksburg,MS,Mississippi,64.7,18.2
+1003,Falling Rock Camp Bridge,1872,Licking County (OH),USA,out of service,metal,Licking County,OH,Ohio,50.7,10.4
+1004,Falls of Rough Bridge,1877,Falls of Rough (KY),USA,in use,metal,Falls of Rough,KY,Kentucky,55.6,13.1
+1005,Falls View Suspension Bridge,1889,Niagara Falls (NY),USA,demolished,metal,Niagara Falls,NY,New York,47.7,8.7
+1006,Fanning Springs Bridge,1934,Fanning Springs (FL),USA,demolished,metal,Fanning Springs,FL,Florida,70.7,21.5
+1007,Faust Street Bridge,1887,New Braunfels (TX),USA,in use,metal,New Braunfels,TX,Texas,68.5,20.3
+1008,Ferry Street Bridge,1950,Eugene (OR),USA,in use,metal,Eugene,OR,Oregon,52.5,11.4
+1009,Fessenden Street Bridge,1909,Portland (OR),USA,in use,metal,Portland,OR,Oregon,54.5,12.5
+1010,Fink Truss Bridge,1857,Hamden (NJ),USA,destroyed,metal,Hamden,NJ,New Jersey,52.7,11.5
+1011,Fire Island Inlet Bridge,1965,Suffolk County (NY),USA,in use,metal,Suffolk County,NY,New York,45.4,7.4
+1012,First Avenue Bridge,1931,San Diego (CA),USA,in use,metal,San Diego,CA,California,63.6,17.6
+1013,First Avenue Skyway,2002,Minneapolis (MN),USA,in use,metal,Minneapolis,MN,Minnesota,46.3,7.9
+1014,First Elk Creek Bridge,1931,Douglas County (OR),USA,in use,metal,Douglas County,OR,Oregon,48.4,9.1
+1015,Flaming Gorge Reservoir Pipeline Bridge,1962,McKinnon (WY),USA,in use,metal,McKinnon,WY,Wyoming,42.0,5.6
+1016,Fleming Park Bridge,1955,Neville Township (PA),USA,in use,metal,Neville Township,PA,Pennsylvania,48.8,9.3
+1017,Fleming Park Railroad Bridge,1894,Neville Township (PA),USA,in use,metal,Neville Township,PA,Pennsylvania,48.8,9.3
+1018,Florida Avenue Bridge,2004,New Orleans (LA),USA,in use,metal,New Orleans,LA,Louisiana,68.7,20.4
+1019,Fore River Bridge,1936,Quincy (MA),USA,demolished,metal,Quincy,MA,Massachusetts,47.9,8.8
+1020,Fort Benton Bridge,1888,Fort Benton (MT),USA,in use,metal,Fort Benton,MT,Montana,45.3,7.4
+1021,Fort Duquesne Bridge,1963,Pittsburgh (PA),USA,in use,metal,Pittsburgh,PA,Pennsylvania,51.4,10.8
+1022,Fort Henry Bridge,1955,Wheeling (WV),USA,in use,metal,Wheeling,WV,West Virginia,51.8,11.0
+1023,Fort Keogh Bridge,1902,Miles City (MT),USA,demolished,metal,Miles City,MT,Montana,46.0,7.8
+1024,Fort Laramie Bowstring Arch Truss Bridge,1875,Fort Laramie (WY),USA,in use,metal,Fort Laramie,WY,Wyoming,46.4,8.0
+1025,Fort Pike Bridge,1930,New Orleans (LA),USA,in use,metal,New Orleans,LA,Louisiana,68.7,20.4
+1026,Fort Pitt Bridge,1959,Pittsburgh (PA),USA,in use,metal,Pittsburgh,PA,Pennsylvania,51.4,10.8
+1027,Fort Sumner Railroad Bridge,1906,Fort Sumner (NM),USA,in use,metal,Fort Sumner,NM,New Mexico,59.3,15.2
+1028,Fort Wayne Railroad Bridge,1904,Pittsburgh (PA),USA,in use,metal,Pittsburgh,PA,Pennsylvania,51.4,10.8
+1029,Fosnaugh Truss-Leg Bedstead Bridge,1891,Fairfield County (OH),USA,demolished,metal,Fairfield County,OH,Ohio,53.9,12.2
+1030,Founders Bridge,1957,Hartford (CT),USA,in use,metal,Hartford,CT,Connecticut,50.1,10.1
+1031,Four Bears Bridge,1934,New Town (ND),USA,demolished,metal,New Town,ND,North Dakota,41.1,5.1
+1032,Four Bears Bridge,1955,New Town (ND),USA,demolished,metal,New Town,ND,North Dakota,41.1,5.1
+1033,Four Mile Bridge,1928,Hot Springs County (WY),USA,demolished,metal,Hot Springs County,WY,Wyoming,42.0,5.6
+1034,Fourth Elk Creek Crossing Bridge,1931,Douglas County (OR),USA,in use,metal,Douglas County,OR,Oregon,48.4,9.1
+1035,Foxburg Bridge,1908,Foxburg (PA),USA,demolished,metal,Foxburg,PA,Pennsylvania,48.8,9.3
+1036,Foxburg Bridge,1921,Foxburg (PA),USA,demolished,metal,Foxburg,PA,Pennsylvania,48.8,9.3
+1037,Foxfire Mountain Footbridge,2011,Sevier County (TN),USA,in use,metal,Sevier County,TN,Tennessee,57.6,14.2
+1038,Frances Appleton Bridge,2018,Boston (MA),USA,in use,metal,Boston,MA,Massachusetts,51.3,10.7
+1039,Francis Scott Key Bridge,1977,Baltimore (MD),USA,in use,metal,Baltimore,MD,Maryland,55.1,12.8
+1040,Francis Street Bridge,1894,Providence (RI),USA,demolished,metal,Providence,RI,Rhode Island,50.9,10.5
+1041,Francisco Avenue Bridge,1969,Chicago (IL),USA,in use,metal,Chicago,IL,Illinois,49.9,9.9
+1042,Franklin Bridge,1932,Franklin (NE),USA,in use,metal,Franklin,NE,Nebraska,51.0,10.6
+1043,Franklin D. Roosevelt Mid-Hudson Bridge,1930,Poughkeepsie (NY),USA,completed,metal,Poughkeepsie,NY,New York,50.0,10.0
+1044,Franklin Street Bascule Bridge,1920,Chicago (IL),USA,in use,metal,Chicago,IL,Illinois,49.9,9.9
+1045,Fred Schwengel Memorial Bridge,1966,Davenport (IA),USA,in use,metal,Davenport,IA,Iowa,50.0,10.0
+1046,Frederick Douglass Memorial Bridge,1949,Washington,USA,in use,metal,Washingto,WA,Washington,48.3,9.1
+1047,Frederick Douglass Memorial Bridge,2021,Washington,USA,under construction,metal,Washingto,WA,Washington,48.3,9.1
+1048,Frederick Douglass-Susan B. Anthony Memorial Bridge,2007,Rochester (NY),USA,in use,metal,Rochester,NY,New York,48.2,9.0
+1049,Freeport Bowstring Arch Truss Bridge,1878,Decorah (IA),USA,out of service,metal,Decorah,IA,Iowa,47.8,8.8
+1050,Freeport Rail Bridge,1950,Freeport (PA),USA,in use,metal,Freeport,PA,Pennsylvania,40.7,4.8
+1051,Fremont Bridge,1973,Portland (OR),USA,in use,metal,Portland,OR,Oregon,54.5,12.5
+1052,French King Bridge,1932,Erving (MA),USA,in use,metal,Erving,MA,Massachusetts,47.9,8.8
+1053,Frisco Bridge,1892,,USA,in use,metal,Memphis,TN,Tennessee,62.3,16.8
+1054,Fruita Bridge,1907,Fruita (CO),USA,out of service,metal,Fruita,CO,Colorado,52.8,11.6
+1055,Fruitvale Avenue Railroad Bridge,1951,Oakland (CA),USA,out of service,metal,Oakland,CA,California,59.4,15.2
+1056,Frying Pan Creek Bridge,1931,Pierce County (WA),USA,in use,metal,Pierce County,WA,Washington,48.3,9.1
+1057,Fulton Bridges,1968,Clearfield County (PA),USA,in use,metal,Clearfield County,PA,Pennsylvania,49.6,9.8
+1058,Gaines Basin Road Bridge,1912,Orleans County (NY),USA,in use,metal,Orleans County,NY,New York,45.4,7.4
+1059,Gale Bridge,1933,Gale (IL),USA,in use,metal,Gale,IL,Illinois,51.8,11.0
+1060,Gallman Road Bridge,1887,Newark (OH),USA,in use,metal,Newark,OH,Ohio,51.4,10.8
+1061,Galls Creek Bridge,1938,Jackson County (OR),USA,in use,metal,Jackson County,OR,Oregon,48.4,9.1
+1062,Gardner River Bridge,1939,Park County (WY),USA,in use,metal,Park County,WY,Wyoming,42.0,5.6
+1063,Gateway Boulevard Bridge,2003,Nashville (TN),USA,in use,metal,Nashville,TN,Tennessee,59.5,15.3
+1064,Gateway Bridge,2005,Detroit (MI),USA,in use,metal,Detroit,MI,Michigan,50.3,10.2
+1065,Gault Bridge,1996,Nevada City (CA),USA,in use,metal,Nevada City,CA,California,51.0,10.6
+1066,Gay Street Bridge,1898,Knoxville (TN),USA,in use,metal,Knoxville,TN,Tennessee,59.1,15.1
+1067,General James Longstreet Memorial Bridge,1957,Gainesville (GA),USA,in use,metal,Gainesville,GA,Georgia,59.7,15.4
+1068,General U.S. Grant Bridge,1927,Portsmouth (OH),USA,demolished,metal,Portsmouth,OH,Ohio,55.4,13.0
+1069,General U.S. Grant Bridge,2006,Portsmouth (OH),USA,in use,metal,Portsmouth,OH,Ohio,55.4,13.0
+1070,Genesee Arch Bridge,2017,Genesee Falls (NY),USA,in use,metal,Genesee Falls,NY,New York,45.4,7.4
+1071,Geneva Street Bridge,1938,Glendale (CA),USA,in use,metal,Glendale,CA,California,61.3,16.3
+1072,George D. Stuart Bridge,1952,Tarentum (PA),USA,in use,metal,Tarentum,PA,Pennsylvania,48.8,9.3
+1073,George E. Tryon Bridge,1948,Del Norte County (CA),USA,in use,metal,Del Norte County,CA,California,59.4,15.2
+1074,George P. Coleman Memorial Bridge,1952,Yorktown (VA),USA,demolished,metal,Yorktown,VA,Virginia,60.6,15.9
+1075,George P. Coleman Memorial Bridge,1995,Yorktown (VA),USA,in use,metal,Yorktown,VA,Virginia,60.6,15.9
+1076,George Rankin Jr. Memorial Bridge,1951,Whitaker (PA),USA,in use,metal,Whitaker,PA,Pennsylvania,48.8,9.3
+1077,George Rogers Clark Memorial Bridge,1929,Louisville (KY),USA,in use,metal,Louisville,KY,Kentucky,58.2,14.6
+1078,George Sellar Bridge,1950,Wenatchee (WA),USA,in use,metal,Wenatchee,WA,Washington,51.0,10.6
+1079,George V. Voinovich Bridges,2016,Cleveland (OH),USA,in use,metal,Cleveland,OH,Ohio,51.4,10.8
+1080,George Washington Bridge,1931,- New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+1081,George Washington Carver Bridge,2004,Des Moines (IA),USA,in use,metal,Des Moines,IA,Iowa,50.9,10.5
+1082,Georgetown Suspension Bridge,1808,Washington,USA,destroyed,metal,Washingto,WA,Washington,48.3,9.1
+1083,Gerald Desmond Bridge,1968,Los Angeles (CA),USA,in use,metal,Los Angeles,CA,California,64.9,18.3
+1084,Gerloff Road Bridge,1888,Lower Fredrick Township (PA),USA,in use,metal,Lower Fredrick Township,PA,Pennsylvania,48.8,9.3
+1085,Gianella Bridge,1911,Hamilton City (CA),USA,demolished,metal,Hamilton City,CA,California,19.4,-7.0
+1086,Gill-Montague Bridge,1938,- Montague (MA),USA,in use,metal,Montague,MA,Massachusetts,47.9,8.8
+1087,Gillespie Dam Bridge,1927,Gila Bend (AZ),USA,in use,metal,Gila Bend,AZ,Arizona,72.4,22.4
+1088,Gimbel's Bridge,1925,New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+1089,Gimlet Bridge,1894,Blaine County (ID),USA,out of service,metal,Blaine County,ID,Idaho,44.4,6.9
+1090,Girard Point Bridge,1973,Philadelphia (PA),USA,in use,metal,Philadelphia,PA,Pennsylvania,55.9,13.3
+1091,Glen Canyon Bridge,1959,Page (AZ),USA,in use,metal,Page,AZ,Arizona,58.0,14.4
+1092,Glen Falls Bridge,1886,Plainfield (CT),USA,in use,metal,Plainfield,CT,Connecticut,49.0,9.4
+1093,Glenoaks Boulevard Bridge,1938,Glendale (CA),USA,in use,metal,Glendale,CA,California,61.3,16.3
+1094,Glenwood Avenue Bridge,1914,Medina (NY),USA,in use,metal,Medina,NY,New York,45.4,7.4
+1095,Glenwood Baltimore & Ohio Railroad Bridge,1884,Pittsburgh (PA),USA,in use,metal,Pittsburgh,PA,Pennsylvania,51.4,10.8
+1096,Glenwood Bridge,1966,Pittsburgh (PA),USA,in use,metal,Pittsburgh,PA,Pennsylvania,51.4,10.8
+1097,Glover H. Cary Bridge,1940,Owensboro (KY),USA,in use,metal,Owensboro,KY,Kentucky,57.0,13.9
+1098,Goethals Bridge,1928,- New York (NY),USA,demolished,metal,New York,NY,New York,55.5,13.1
+1099,Goff Bridge,1999,Idaho County (ID),USA,in use,metal,Idaho County,ID,Idaho,44.4,6.9
+1100,Gold Star Memorial Bridge,1943,New London (CT),USA,in use,metal,New London,CT,Connecticut,50.2,10.1
+1101,Golden Gate Bridge,1937,San Francisco (CA),USA,in use,metal,San Francisco,CA,California,57.3,14.1
+1102,Gorge Inn Suspension Bridge,1969,Newhalem (WA),USA,in use,metal,Newhalem,WA,Washington,49.6,9.8
+1103,Goshen Land Company Bridge,1890,Goshen (VA),USA,in use,metal,Goshen,VA,Virginia,53.0,11.7
+1104,Gothic Arch #28 Bridge,1864,New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+1105,Governor Harry W. Nice Bridge,1940,Newburg (MD),USA,in use,metal,Newburg,MD,Maryland,54.2,12.3
+1106,Governor Thomas Johnson Bridge,1978,Solomons Island (MD),USA,in use,metal,Solomons Island,MD,Maryland,57.6,14.2
+1107,Governors Landing Bridge,1965,Val Verde County (TX),USA,in use,metal,Val Verde County,TX,Texas,64.8,18.2
+1108,Grand Avenue Bridge,1913,Chicago (IL),USA,in use,metal,Chicago,IL,Illinois,49.9,9.9
+1109,Grand Canyon Skywalk,2007,Mohave County (AZ),USA,in use,metal,Mohave County,AZ,Arizona,60.3,15.7
+1110,Grand Coulee Bridge,1936,Grand Coulee (WA),USA,in use,metal,Grand Coulee,WA,Washington,48.3,9.1
+1111,Grand Detour Bridge,1947,Grand Detour (IL),USA,demolished,metal,Grand Detour,IL,Illinois,51.8,11.0
+1112,Grande Ronde River Bridge,1941,Asotin County (WA),USA,in use,metal,Asotin County,WA,Washington,15.4,-9.2
+1113,Great Western Bridge,1913,Saint Paul (MN),USA,in use,metal,Saint Paul,MN,Minnesota,47.1,8.4
+1114,Green Bridge,1967,New Orleans (LA),USA,in use,metal,New Orleans,LA,Louisiana,68.7,20.4
+1115,Green River Bridge,1932,King County (WA),USA,in use,metal,King County,WA,Washington,48.3,9.1
+1116,Gross State Aid Bridge,1918,Verdigre (NE),USA,in use,metal,Verdigre,NE,Nebraska,48.8,9.3
+1117,Groth Road Bridge,1911,Orleans County (NY),USA,in use,metal,Orleans County,NY,New York,45.4,7.4
+1118,Guy West Bridge,1968,Sacramento (CA),USA,in use,metal,Sacramento,CA,California,61.0,16.1
+1119,Hackensack Run Bridge,1952,Hackensack (NJ),USA,in use,metal,Hackensack,NJ,New Jersey,52.7,11.5
+1120,Hal W. Adams Bridge,1947,Mayo (FL),USA,in use,metal,Mayo,FL,Florida,68.2,20.1
+1121,Hale Boggs Memorial Bridge,1983,- Luling (LA),USA,in use,metal,Luling,LA,Louisiana,66.4,19.1
+1122,Hallandale Beach Bascule Bridge,2002,Hallandale Beach (FL),USA,in use,metal,Hallandale Beach,FL,Florida,70.7,21.5
+1123,Hallville Mill Bridge,1890,Preston (CT),USA,out of service,metal,Preston,CT,Connecticut,49.0,9.4
+1124,Hamilton Avenue Bridge,1942,New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+1125,Hamilton Avenue Bridge,2008,New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+1126,Hamilton Fish Newburgh-Beacon Bridge,1980,- Beacon (NY),USA,in use,metal,Beacon,NY,New York,50.0,10.0
+1127,Hamilton Fish Newburgh-Beacon Bridge,1963,Newburgh (NY),USA,in use,metal,Newburgh,NY,New York,49.2,9.6
+1128,Hampton Road Overpass,1957,Dallas (TX),USA,in use,metal,Dallas,TX,Texas,66.3,19.1
+1129,Hanalei River Bridge,2003,Kapaa (HI),USA,in use,metal,Kapaa,HI,Hawaii,24.4,-4.2
+1130,Hannibal Bridge,1917,Kansas City (MO),USA,in use,metal,Kansas City,MO,Missouri,54.6,12.6
+1131,Hansen Bridge,1919,- Hansen (ID),USA,demolished,metal,Hansen,ID,Idaho,44.4,6.9
+1132,Harahan Bridge,1916,Memphis (TN),USA,in use,metal,Memphis,TN,Tennessee,62.3,16.8
+1133,Harbor Swing Bridge,1903,Baltimore (MD),USA,out of service,metal,Baltimore,MD,Maryland,55.1,12.8
+1134,Hare's Hill Road Bridge,1869,Phoenixville (PA),USA,in use,metal,Phoenixville,PA,Pennsylvania,48.8,9.3
+1135,Harlem Avenue Cal-Sag Bridge,1964,Palos Heights (IL),USA,in use,metal,Palos Heights,IL,Illinois,51.8,11.0
+1136,Harpers Ferry Bollman Bridge,1852,Harpers Ferry (WV),USA,destroyed,metal,Harpers Ferry,WV,West Virginia,37.0,2.8
+1137,Harry S. Truman Bridge,1945,Jackson County (MO),USA,in use,metal,Jackson County,MO,Missouri,54.5,12.5
+1138,Harvard Bridge,1891,Cambridge (MA),USA,in use,metal,Cambridge,MA,Massachusetts,47.9,8.8
+1139,Hastings Bridge,2013,Hastings (MN),USA,in use,metal,Hastings,MN,Minnesota,45.6,7.6
+1140,Hastings Bridge,1951,Hastings (MN),USA,demolished,metal,Hastings,MN,Minnesota,45.6,7.6
+1141,Hawkins Creek Bridge,1965,Shasta County (CA),USA,in use,metal,Shasta County,CA,California,60.8,16.0
+1142,Hawthorne Bridge,1910,Portland (OR),USA,in use,metal,Portland,OR,Oregon,54.5,12.5
+1143,Healdsburg Avenue Bridge,1921,Healdsburg (CA),USA,in use,metal,Healdsburg,CA,California,59.6,15.3
+1144,Heart of America Bridge,1987,Kansas City (MO),USA,in use,metal,Kansas City,MO,Missouri,54.6,12.6
+1145,Helen Madere Memorial Bridge,1944,Rio Vista (CA),USA,in use,metal,Rio Vista,CA,California,66.1,18.9
+1146,Helena Bridge,1961,Helena-West Helena (AR),USA,in use,metal,Helena-West Helena,AR,Arkansas,60.4,15.8
+1147,Hell Gate Bridge,1916,New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+1148,Hell Gate Bridge Bronx Kill Span,1916,New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+1149,Hellroaring Suspension Bridge,1935,Mammoth Hot Springs (WY),USA,in use,metal,Mammoth Hot Springs,WY,Wyoming,39.0,3.9
+1150,Henderson-Point Pleasant Railroad Bridge,1946,- Henderson (WV),USA,in use,metal,Henderson,WV,West Virginia,55.2,12.9
+1151,Henry Hudson Bridge,1936,New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+1152,Henszey's Wrought-Iron Arch Bridge,1869,Summerdale (PA),USA,in use,metal,Summerdale,PA,Pennsylvania,48.8,9.3
+1153,Hernando de Soto Bridge,1973,Memphis (TN),USA,in use,metal,Memphis,TN,Tennessee,62.3,16.8
+1154,Hi Carpenter Memorial Bridge,1977,Saint Marys (WV),USA,in use,metal,Saint Marys,WV,West Virginia,51.8,11.0
+1155,High Bridge,1848,New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+1156,High Bridge,1876,High Bridge (KY),USA,demolished,metal,High Bridge,KY,Kentucky,55.6,13.1
+1157,High Bridge,1911,High Bridge (KY),USA,in use,metal,High Bridge,KY,Kentucky,55.6,13.1
+1158,High Falls Aqueduct Bridge,1850,Ulster County (NY),USA,demolished,metal,Ulster County,NY,New York,45.4,7.4
+1159,High Level Bridge,1949,Akron (OH),USA,in use,metal,Akron,OH,Ohio,49.9,9.9
+1160,High Line,1933,New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+1161,High Steel Bridge,1929,Shelton (WA),USA,in use,metal,Shelton,WA,Washington,51.0,10.6
+1162,High Street Bridge,1939,Alameda (CA),USA,in use,metal,Alameda,CA,California,60.3,15.7
+1163,Highgate Falls Bridge,1887,Highgate (VT),USA,in use,metal,Highgate,VT,Vermont,42.9,6.1
+1164,Highland Bridge,2006,Denver (CO),USA,in use,metal,Denver,CO,Colorado,50.2,10.1
+1165,Highland Park Bridge,1939,Pittsburgh (PA),USA,in use,metal,Pittsburgh,PA,Pennsylvania,51.4,10.8
+1166,Highway 90 Bridge,1932,Columbus (TX),USA,in use,metal,Columbus,TX,Texas,67.9,19.9
+1167,Hindsburg Road Bridge,1911,Orleans County (NY),USA,out of service,metal,Orleans County,NY,New York,45.4,7.4
+1168,Hoffstadt Creek Bridge,1994,Cowlitz County (WA),USA,in use,metal,Cowlitz County,WA,Washington,48.3,9.1
+1169,Holmes Street Pedestrian Bridge,1927,Shakopee (MN),USA,in use,metal,Shakopee,MN,Minnesota,41.2,5.1
+1170,Homestead High Level Bridge,1936,Pittsburgh (PA),USA,in use,metal,Pittsburgh,PA,Pennsylvania,51.4,10.8
+1171,Honeymoon Bridge,1898,Niagara Falls (NY),USA,demolished,metal,Niagara Falls,NY,New York,47.7,8.7
+1172,Hoover Dam,1955,Blendon Township (OH),USA,in use,metal,Blendon Township,OH,Ohio,50.7,10.4
+1173,Horace Wilkinson Bridge,1968,Baton Rouge (LA),USA,in use,metal,Baton Rouge,LA,Louisiana,67.9,19.9
+1174,Horan Road Bridge,1914,Medina (NY),USA,in use,metal,Medina,NY,New York,45.4,7.4
+1175,Howard Bridge,1874,Howard (OH),USA,demolished,metal,Howard,OH,Ohio,49.2,9.6
+1176,Howard Street Bridge,1939,Baltimore (MD),USA,in use,metal,Baltimore,MD,Maryland,55.1,12.8
+1177,Hoyt Street Bridge,1870,Beatrice (NE),USA,out of service,metal,Beatrice,NE,Nebraska,51.3,10.7
+1178,Huasna River Bridge,1959,San Luis Obispo County (CA),USA,in use,metal,San Luis Obispo County,CA,California,59.4,15.2
+1179,Hudson River Bridge,1932,Hadley (NY),USA,demolished,metal,Hadley,NY,New York,45.2,7.3
+1180,Huey P. Long Bridge,1940,Baton Rouge (LA),USA,in use,metal,New Orleans,LA,Louisiana,68.7,20.4
+1181,Huey P. Long Bridge,1935,,USA,in use,metal,New Orleans,LA,Louisiana,68.7,20.4
+1182,Hulberton Road Bridge,1913,Orleans County (NY),USA,in use,metal,Orleans County,NY,New York,45.4,7.4
+1183,Hungry Hollow Bridge,1883,Mankato (MN),USA,dismantled,metal,Mankato,MN,Minnesota,48.0,8.9
+1184,Hurricane Deck Bridge,1936,Camden County (MO),USA,demolished,metal,Camden County,MO,Missouri,54.5,12.5
+1185,Hurricane Gulch Bridge,1921,Matanuska-Susitna (AK),USA,in use,metal,Matanuska-Susitna,AK,Alaska,26.6,-3.0
+1186,Hurricane Gulch Bridge,1971,Matanuska-Susitna (AK),USA,in use,metal,Matanuska-Susitna,AK,Alaska,26.6,-3.0
+1187,HX Draw,1911,Secaucus (NJ),USA,in use,metal,Secaucus,NJ,New Jersey,52.7,11.5
+1188,I-205 Clackamas River Bridges,1962,- Gladstone (OR),USA,in use,metal,Gladstone,OR,Oregon,54.4,12.4
+1189,I-35W Minnesota River Bridge,1960,- Bloomington (MN),USA,in use,metal,Bloomington,MN,Minnesota,41.2,5.1
+1190,I-35W Mississippi River Bridge,1967,Minneapolis (MN),USA,collapsed,metal,Minneapolis,MN,Minnesota,46.3,7.9
+1191,I-5 Cowlitz River Bridges,1953,Lewis County (WA),USA,in use,metal,Lewis County,WA,Washington,48.3,9.1
+1192,I-5 North Fork Lewis River Bridge,1940,Woodland (WA),USA,in use,metal,Woodland,WA,Washington,53.4,11.9
+1193,I-5 North Fork Lewis River Bridge,1968,Woodland (WA),USA,in use,metal,Woodland,WA,Washington,53.4,11.9
+1194,I-5 Skagit River Bridge,1956,Mount Vernon (WA),USA,in use/under construction,metal,Mount Vernon,WA,Washington,50.5,10.3
+1195,I-5 Toutle River Bridges,1969,Cowlitz County (WA),USA,in use,metal,Cowlitz County,WA,Washington,48.3,9.1
+1196,I-694 Bridge,1988,Brooklyn Center (MN),USA,in use,metal,Brooklyn Center,MN,Minnesota,45.7,7.6
+1197,I-74 Bridge,2021,Moline (IL),USA,in use,metal,Moline,IL,Illinois,50.7,10.4
+1198,I-79 Neville Island Bridge,1976,- Glenfield (PA),USA,in use,metal,Glenfield,PA,Pennsylvania,52.1,11.2
+1199,I-82 Naches River Bridge,1932,Yakima (WA),USA,in use,metal,Yakima,WA,Washington,49.7,9.8
+1200,I-82 Naches River Bridge,1960,Yakima (WA),USA,in use,metal,Yakima,WA,Washington,49.7,9.8
+1201,I-82 Yakima River Bridge,1960,Yakima (WA),USA,in use,metal,Yakima,WA,Washington,49.7,9.8
+1202,I-87 Walkill River Bridge,1954,Rosendale (NY),USA,in use,metal,Rosendale,NY,New York,45.4,7.4
+1203,I. B. Perrine Bridge,1927,Twin Falls (ID),USA,demolished,metal,Twin Falls,ID,Idaho,49.9,9.9
+1204,I. B. Perrine Bridge,1976,Twin Falls (ID),USA,in use,metal,Twin Falls,ID,Idaho,49.9,9.9
+1205,Illinois Central Terminal Rail Bridge,1893,Omaha (NE),USA,in use,metal,Omaha,NE,Nebraska,51.1,10.6
+1206,Independence Bridge,1976,Bay City (MI),USA,in use,metal,Bay City,MI,Michigan,47.4,8.6
+1207,India Point Railroad Bridge,1903,Providence (RI),USA,demolished,metal,Providence,RI,Rhode Island,50.9,10.5
+1208,Indian River Inlet Bridge,1965,Bethany Beach (DE),USA,in use,metal,Bethany Beach,DE,Delaware,55.3,12.9
+1209,Indiana Avenue Bridge,1915,Chicago (IL),USA,in use,metal,Chicago,IL,Illinois,49.9,9.9
+1210,Industrial Flats Lift Bridge,1953,Cleveland (OH),USA,in use,metal,Cleveland,OH,Ohio,51.4,10.8
+1211,Ingersoll Street Bridge,1911,Albion (NY),USA,in use,metal,Albion,NY,New York,45.4,7.4
+1212,Innerbelt Bridge,1959,Cleveland (OH),USA,demolished,metal,Cleveland,OH,Ohio,51.4,10.8
+1213,Interstate 24 Bridge,1973,Paducah (KY),USA,in use,metal,Paducah,KY,Kentucky,57.4,14.1
+1214,Interstate Highway Bridge,1939,Clarkston (WA),USA,in use,metal,Clarkston,WA,Washington,49.7,9.8
+1215,Iowa-Illinois Memorial Bridge,1959,Moline (IL),USA,to be demolished,metal,Moline,IL,Illinois,50.7,10.4
+1216,Iowa-Illinois Memorial Bridge,1934,Moline (IL),USA,to be demolished,metal,Moline,IL,Illinois,50.7,10.4
+1217,Irene Hixon Whitney Bridge,1988,Minneapolis (MN),USA,in use,metal,Minneapolis,MN,Minnesota,46.3,7.9
+1218,Ironton-Russell Bridge,1922,- Russell (KY),USA,demolished,metal,Russell,KY,Kentucky,55.6,13.1
+1219,Irvin S. Cobb Bridge,1929,Paducah (KY),USA,in use,metal,Paducah,KY,Kentucky,57.4,14.1
+1220,Isaiah David Hart Bridge,1967,Jacksonville (FL),USA,in use,metal,Jacksonville,FL,Florida,68.6,20.3
+1221,Isleton Bridge,1923,Isleton (CA),USA,in use,metal,Isleton,CA,California,58.6,14.8
+1222,Israel LaFleur Bridge,1962,Lake Charles (LA),USA,in use,metal,Lake Charles,LA,Louisiana,68.2,20.1
+1223,Jackson Boulevard Bridge,1916,Chicago (IL),USA,in use,metal,Chicago,IL,Illinois,49.9,9.9
+1224,Jackson Park Lagoon Bridge,1891,Chicago (IL),USA,in use,metal,Chicago,IL,Illinois,49.9,9.9
+1225,Jackson Street Bridge,1903,- Harrison (NJ),USA,in use,metal,Harrison,NJ,New Jersey,52.7,11.5
+1226,Jackson Street Bridge,1932,Joliet (IL),USA,in use,metal,Joliet,IL,Illinois,49.4,9.7
+1227,James River Bridge,1983,Newport News (VA),USA,in use,metal,Newport News,VA,Virginia,60.0,15.6
+1228,Jamestown Bridge,1940,Jamestown (RI),USA,demolished,metal,Jamestown,RI,Rhode Island,50.1,10.1
+1229,Janice Peaslee Bridge,1893,Stratford (NH),USA,in use,metal,Stratford,NH,New Hampshire,43.8,6.6
+1230,Jefferson Barracks Bridge,1983,- Columbia (IL),USA,in use,metal,Columbia,IL,Illinois,51.8,11.0
+1231,Jefferson Barracks Bridge,1992,- Columbia (IL),USA,in use,metal,Columbia,IL,Illinois,51.8,11.0
+1232,Jefferson City Bridge,1955,Jefferson City (MO),USA,in use,metal,Jefferson City,MO,Missouri,55.0,12.8
+1233,Jennings Randolph Bridge,1977,- Chester (WV),USA,in use,metal,Chester,WV,West Virginia,51.8,11.0
+1234,John A. Blatnik Bridge,1961,Duluth (MN),USA,in use,metal,Duluth,MN,Minnesota,40.3,4.6
+1235,John A. Roebling Suspension Bridge,1867,Cincinnati (OH),USA,in use,metal,Cincinnati,OH,Ohio,54.6,12.6
+1236,John Day River Bridge,1975,Wasco County (OR),USA,in use,metal,Wasco County,OR,Oregon,50.6,10.3
+1237,John E. Mathews Bridge,1953,Jacksonville (FL),USA,in use,metal,Jacksonville,FL,Florida,68.6,20.3
+1238,John F. Kennedy Boulevard Bridge,1959,Philadelphia (PA),USA,in use,metal,Philadelphia,PA,Pennsylvania,55.9,13.3
+1239,John F. Kennedy Memorial Bridge,1963,Louisville (KY),USA,in use,metal,Louisville,KY,Kentucky,58.2,14.6
+1240,John Greenleaf Whittier Bridge,1951,- Amesbury (MA),USA,demolished,metal,Amesbury,MA,Massachusetts,47.9,8.8
+1241,John McLoughlin Memorial Bridge,1933,Oregon City (OR),USA,in use,metal,Oregon City,OR,Oregon,54.7,12.6
+1242,John P. Grace Memorial Bridge,1929,Charleston (SC),USA,demolished,metal,Charleston,SC,South Carolina,65.9,18.8
+1243,John Philip Sousa Bridge,1940,Washington,USA,in use,metal,Washingto,WA,Washington,48.3,9.1
+1244,John Seigenthaler Pedestrian Bridge,1909,Nashville (TN),USA,in use,metal,Nashville,TN,Tennessee,59.5,15.3
+1245,John T. Alsop Bridge,1941,Jacksonville (FL),USA,in use,metal,Jacksonville,FL,Florida,68.6,20.3
+1246,John T. Cunningham Memorial Bridge,1925,Clarksville (TN),USA,demolished,metal,Clarksville,TN,Tennessee,57.9,14.4
+1247,Jonathon Hulton Bridge,1908,Harmar (PA),USA,in use,metal,Harmar,PA,Pennsylvania,48.8,9.3
+1248,Jose P. Rizal Bridge,1911,Seattle (WA),USA,in use,metal,Seattle,WA,Washington,52.6,11.4
+1249,Joso High Bridge,1912,- Franklin County (WA),USA,in use,metal,Franklin County,WA,Washington,48.3,9.1
+1250,Judge William Seeber Bridge,1957,New Orleans (LA),USA,in use,metal,New Orleans,LA,Louisiana,68.7,20.4
+1251,Judsonia Bridge,1924,Judsonia (AR),USA,in use,metal,Judsonia,AR,Arkansas,60.4,15.8
+1252,Julia Butler Hansen Bridge,1939,Cathlamet (WA),USA,in use,metal,Cathlamet,WA,Washington,47.6,8.7
+1253,Julien Dubuque Bridge,1943,Dubuque (IA),USA,in use,metal,Dubuque,IA,Iowa,47.3,8.5
+1254,Juneau-Douglas Bridge,1935,Juneau (AK),USA,demolished,metal,Juneau,AK,Alaska,42.1,5.6
+1255,Justice Harlan Fiske Stone Bridge,1937,Brattleboro (VT),USA,out of service,metal,Brattleboro,VT,Vermont,42.9,6.1
+1256,Kaibab Trail Suspension Bridge,1928,Grand Canyon Village (AZ),USA,in use,metal,Grand Canyon Village,AZ,Arizona,60.3,15.7
+1257,Kaiser Springs Bridge,1951,Wikieup (AZ),USA,in use,metal,Wikieup,AZ,Arizona,66.1,18.9
+1258,Keddie Wye Trestle,1912,Plumas County (CA),USA,in use,metal,Plumas County,CA,California,59.4,15.2
+1259,Keitel Road Bridge,1912,Orleans County (NY),USA,in use,metal,Orleans County,NY,New York,45.4,7.4
+1260,Kendeda Canopy Walk,2010,Atlanta (GA),USA,in use,metal,Atlanta,GA,Georgia,62.6,17.0
+1261,Kenilworth Avenue Bridge,1936,Glendale (CA),USA,in use,metal,Glendale,CA,California,61.3,16.3
+1262,Kenneth F. Burns Memorial Bridge,2015,Worcester (MA),USA,in use,metal,Worcester,MA,Massachusetts,48.1,8.9
+1263,Kentucky & Indiana Terminal Railroad Bridge,1912,Louisville (KY),USA,in use,metal,Louisville,KY,Kentucky,58.2,14.6
+1264,Kentucky River Suspension Bridge,1810,Frankfort (KY),USA,demolished,metal,Frankfort,KY,Kentucky,55.5,13.1
+1265,Kern Bridge,1873,Mankato (MN),USA,out of service,metal,Mankato,MN,Minnesota,48.0,8.9
+1266,Kern River Bridge,1996,Bakersfield (CA),USA,in use,metal,Bakersfield,CA,California,65.2,18.4
+1267,Kettle Falls Rail Bridge,1941,Kettle Falls (WA),USA,in use,metal,Kettle Falls,WA,Washington,48.3,9.1
+1268,Kettle Falls Road Bridge,1941,Kettle Falls (WA),USA,in use,metal,Kettle Falls,WA,Washington,48.3,9.1
+1269,Kilgore Bridge,1915,Kearney (NE),USA,in use,metal,Kearney,NE,Nebraska,50.0,10.0
+1270,Kingery Highway S&S Bridge,1934,Lemont (IL),USA,in use,metal,Lemont,IL,Illinois,51.8,11.0
+1271,Kingston-Port Ewen Suspension Bridge,1921,Kingston (NY),USA,in use,metal,Kingston,NY,New York,45.1,7.3
+1272,Kingston-Rhinecliff Bridge,1957,East Kingston (NY),USA,in use,metal,East Kingston,NY,New York,45.4,7.4
+1273,Kinzie Street Bridge,1908,Chicago (IL),USA,in use,metal,Chicago,IL,Illinois,49.9,9.9
+1274,Kinzua Viaduct,1882,Kushequa (PA),USA,demolished,metal,Kushequa,PA,Pennsylvania,48.8,9.3
+1275,Kinzua Viaduct,1900,Kushequa (PA),USA,collapsed,metal,Kushequa,PA,Pennsylvania,48.8,9.3
+1276,Kline's Bridge,1902,Allentown (PA),USA,demolished,metal,Allentown,PA,Pennsylvania,51.2,10.7
+1277,Knapps Narrows Bridge,1998,Tilghman Island (MD),USA,in use,metal,Tilghman Island,MD,Maryland,54.2,12.3
+1278,Knight's Key Bridge,1912,Marathon (FL),USA,out of service,metal,Marathon,FL,Florida,78.5,25.8
+1279,Knights Landing Bascule Bridge,1933,- Knights Landing (CA),USA,in use,metal,Knights Landing,CA,California,16.6,-8.6
+1280,Knowlesville Road Bridge,1910,Orleans County (NY),USA,in use,metal,Orleans County,NY,New York,45.4,7.4
+1281,Kolekole Park Bridge,1950,Hawaii County (HI),USA,in use,metal,Hawaii County,HI,Hawaii,70.0,21.1
+1282,Koocanusa Bridge,1970,Lincoln County (MT),USA,in use,metal,Lincoln County,MT,Montana,38.7,3.7
+1283,Kosciuszko Bridge,2019,- New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+1284,Krotz Springs Bridge,1934,Krotz Springs (LA),USA,demolished,metal,Krotz Springs,LA,Louisiana,66.4,19.1
+1285,Kuskalana Bridge,1910,Chitina (AK),USA,in use,metal,Chitina,AK,Alaska,29.2,-1.6
+1286,L & N Bridge,1897,Cincinnati (OH),USA,in use,metal,Cincinnati,OH,Ohio,54.6,12.6
+1287,La Crosse Railroad Bridge,1876,La Crosse (WI),USA,in use,metal,La Crosse,WI,Wisconsin,47.4,8.6
+1288,La Grange Road Bridge,1967,Cook County (IL),USA,in use,metal,Cook County,IL,Illinois,51.8,11.0
+1289,Lafayette Avenue Bridge (East),1938,Bay City (MI),USA,in use,metal,Bay City,MI,Michigan,47.4,8.6
+1290,Lafayette Bridge,1968,Saint Paul (MN),USA,in use,metal,Saint Paul,MN,Minnesota,47.1,8.4
+1291,Lagoon Bridge,1869,Boston (MA),USA,in use,metal,Boston,MA,Massachusetts,51.3,10.7
+1292,Lake Champlain Bridge,1929,Crown Point (NY),USA,demolished,metal,Crown Point,NY,New York,45.4,7.4
+1293,Lake Champlain Bridge,2011,Crown Point (NY),USA,in use,metal,Crown Point,NY,New York,45.4,7.4
+1294,Lake Oswego Railroad Bridge,1907,Lake Oswego (OR),USA,in use,metal,Lake Oswego,OR,Oregon,48.4,9.1
+1295,Lake Street Bridge,1916,Chicago (IL),USA,in use,metal,Chicago,IL,Illinois,49.9,9.9
+1296,Lakefront Road Viaduct,1940,Cleveland (OH),USA,in use,metal,Cleveland,OH,Ohio,51.4,10.8
+1297,Lakeside Road Bridge,1894,Orleans County (NY),USA,in use,metal,Orleans County,NY,New York,45.4,7.4
+1298,Lamar River Bridge,1939,Park County (WY),USA,demolished,metal,Park County,WY,Wyoming,42.0,5.6
+1299,Lamb-Fish Bridge,1905,Charleston (MS),USA,in use,metal,Charleston,MS,Mississippi,62.3,16.8
+1300,Landenberg Road Bridge,1871,New Garden Township (PA),USA,demolished,metal,New Garden Township,PA,Pennsylvania,48.8,9.3
+1301,Lattins Farm Drive Bridge,1911,Orleans County (NY),USA,in use,metal,Orleans County,NY,New York,45.4,7.4
+1302,Laughery Creek Bridge,1878,Aurora (IN),USA,in use,metal,Aurora,IN,Indiana,51.7,10.9
+1303,Leaburg Dam and Bridge,1929,Lane County (OR),USA,in use,metal,Lane County,OR,Oregon,48.4,9.1
+1304,Lewis and Clark Bridge,1930,Longview (WA),USA,in use,metal,Longview,WA,Washington,48.3,9.1
+1305,Lewiston & Concord Bridge,1899,Clarkston (WA),USA,demolished,metal,Clarkston,WA,Washington,49.7,9.8
+1306,Lewiston-Queenston Bridge,1962,Lewiston (NY),USA,in use,metal,Lewiston,NY,New York,44.3,6.8
+1307,Lewiston-Queenston Suspension Bridge,1899,Lewiston (NY),USA,demolished,metal,Lewiston,NY,New York,44.3,6.8
+1308,Liberty Bend Bridge,1996,Jackson County (MO),USA,in use,metal,Jackson County,MO,Missouri,54.5,12.5
+1309,Liberty Bridge,1986,Bay City (MI),USA,in use,metal,Bay City,MI,Michigan,47.4,8.6
+1310,Liberty Bridge,1928,Pittsburgh (PA),USA,in use,metal,Pittsburgh,PA,Pennsylvania,51.4,10.8
+1311,Liberty Falls Creek Bridge,1963,Valdez-Cordova (AK),USA,in use,metal,Valdez-Cordova,AK,Alaska,26.6,-3.0
+1312,Liberty Memorial Bridge,1922,Bismarck (ND),USA,demolished,metal,Bismarck,ND,North Dakota,43.0,6.1
+1313,Lincoln Highway Passaic River Bridge,1941,Newark (NJ),USA,in use,metal,Newark,NJ,New Jersey,54.9,12.7
+1314,Lincoln Park Passerelle,1940,Chicago (IL),USA,in use,metal,Chicago,IL,Illinois,49.9,9.9
+1315,Linden Avenue Bridge,1909,Wilmette (IL),USA,in use,metal,Wilmette,IL,Illinois,51.8,11.0
+1316,Lisco State Aid Bridge,1928,Lisco (NE),USA,in use,metal,Lisco,NE,Nebraska,48.2,9.0
+1317,Little Bear Creek Bridge,1936,Franklin County (AL),USA,in use,metal,Franklin County,AL,Alabama,62.8,17.1
+1318,Little Calumet River Halsted Street Bridge,1931,Chicago (IL),USA,in use,metal,Chicago,IL,Illinois,49.9,9.9
+1319,Little Chute-Kimberly Combined Locks Bridge,1954,Little Chute (WI),USA,in use,metal,Little Chute,WI,Wisconsin,43.1,6.2
+1320,Little Hell Gate Bridge,1937,New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+1321,Livingston Avenue Bridge,1901,Albany (NY),USA,in use,metal,Albany,NY,New York,49.4,9.7
+1322,Long Beach Bridge,1956,Long Beach (NY),USA,in use,metal,Long Beach,NY,New York,45.4,7.4
+1323,Long Bridge,1943,Washington,USA,in use,metal,Washingto,WA,Washington,48.3,9.1
+1324,Long Island Viaduct,1951,Boston (MA),USA,demolished,metal,Boston,MA,Massachusetts,51.3,10.7
+1325,Long-Allen Bridge,1933,Shreveport (LA),USA,in use,metal,Shreveport,LA,Louisiana,65.7,18.7
+1326,Longfellow Bridge,1906,Cambridge (MA),USA,in use,metal,Cambridge,MA,Massachusetts,47.9,8.8
+1327,Loomis Street Bridge,1904,Chicago (IL),USA,in use,metal,Chicago,IL,Illinois,49.9,9.9
+1328,Loosveldt Bridge,1888,Rushville (NE),USA,in use,metal,Rushville,NE,Nebraska,46.4,8.0
+1329,Lorain-Carnegie Bridge,1932,Cleveland (OH),USA,in use,metal,Cleveland,OH,Ohio,51.4,10.8
+1330,Lordville Suspension Bridge,1904,Hancock (NY),USA,demolished,metal,Hancock,NY,New York,45.2,7.3
+1331,Louie Morris Memorial Bridge,1958,- Hartwell (GA),USA,in use,metal,Hartwell,GA,Georgia,62.0,16.7
+1332,Lovers Leap Bridge,1895,New Milford (CT),USA,out of service,metal,New Milford,CT,Connecticut,46.2,7.9
+1333,Lower Hack Lift,1928,Jersey City (NJ),USA,in use,metal,Jersey City,NJ,New Jersey,52.6,11.4
+1334,Lower Trenton Bridge,1928,Trenton (NJ),USA,in use,metal,Trenton,NJ,New Jersey,54.0,12.2
+1335,Lowry Avenue Bridge,1958,Minneapolis (MN),USA,demolished,metal,Minneapolis,MN,Minnesota,46.3,7.9
+1336,Lullwater Bridge,1889,New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+1337,Lumberville Pedestrian Bridge,1947,Lumberville (PA),USA,in use,metal,Lumberville,PA,Pennsylvania,48.8,9.3
+1338,Lusted Road Bridge,1894,Sandy (OR),USA,in use,metal,Sandy,OR,Oregon,51.4,10.8
+1339,Lyman Viaduct,1873,Colchester (CT),USA,buried,metal,Colchester,CT,Connecticut,48.7,9.3
+1340,Lyons Ferry Bridge,1927,Starbuck (WA),USA,in use,metal,Starbuck,WA,Washington,50.1,10.1
+1341,M. Harvey Taylor Memorial Bridge,1952,Harrisburg (PA),USA,in use,metal,Harrisburg,PA,Pennsylvania,53.2,11.8
+1342,Mac Hoke Road Bridge,1950,Umatilla County (OR),USA,in use,metal,Umatilla County,OR,Oregon,54.1,12.3
+1343,MacArthur Bridge,1917,Saint Louis (MO),USA,in use,metal,Saint Louis,MO,Missouri,54.5,12.5
+1344,Mackinac Bridge,1957,Mackinaw City (MI),USA,in use,metal,Mackinaw City,MI,Michigan,42.2,5.7
+1345,Macombs Dam Bridge,1895,New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+1346,Madison Avenue Bridge,1910,New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+1347,Madison Street Bridge,1922,Chicago (IL),USA,in use,metal,Chicago,IL,Illinois,49.9,9.9
+1348,Madison-Monroe Street Bridge,1957,Two Rivers (WI),USA,in use,metal,Two Rivers,WI,Wisconsin,44.3,6.8
+1349,Main Avenue (Harold H. Burton Memorial) Bridge,1939,Cleveland (OH),USA,in use,metal,Cleveland,OH,Ohio,51.4,10.8
+1350,Main Street Bridge,1888,Stamford (CT),USA,in use,metal,Stamford,CT,Connecticut,51.1,10.6
+1351,Main Street Bridge,2010,Columbus (OH),USA,in use,metal,Columbus,OH,Ohio,53.4,11.9
+1352,Main Street Bridge,1870,Clinton (NJ),USA,in use,metal,Clinton,NJ,New Jersey,50.0,10.0
+1353,Main Street Footbridges,2000,Cincinnati (OH),USA,in use,metal,Cincinnati,OH,Ohio,54.6,12.6
+1354,Manchester Bridge,1915,Pittsburgh (PA),USA,demolished,metal,Pittsburgh,PA,Pennsylvania,51.4,10.8
+1355,Manhattan Bridge,1912,New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+1356,Mansion Truss Bridge,1903,Altavista (VA),USA,demolished,metal,Altavista,VA,Virginia,55.1,12.8
+1357,Maple Street Bridge,1958,Spokane (WA),USA,in use,metal,Spokane,WA,Washington,48.2,9.0
+1358,Margaret Hunt Hill Bridge,2012,Dallas (TX),USA,in use,metal,Dallas,TX,Texas,66.3,19.1
+1359,Marietta-Williamstown Interstate Bridge,1967,Marietta (OH),USA,in use,metal,Marietta,OH,Ohio,53.7,12.1
+1360,Marine Parkway Gil Hodges Memorial Bridge,1937,New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+1361,Marion Street Bridge,1953,Salem (OR),USA,in use,metal,Salem,OR,Oregon,53.0,11.7
+1362,Mark Twain Memorial Bridge,1936,Hannibal (MO),USA,demolished,metal,Hannibal,MO,Missouri,53.0,11.7
+1363,Mark Twain Memorial Bridge,2000,Hannibal (MO),USA,in use,metal,Hannibal,MO,Missouri,53.0,11.7
+1364,Market Street Bridge,1940,Cambridge (MD),USA,in use,metal,Cambridge,MD,Maryland,56.7,13.7
+1365,Market Street Bridge,1917,Chattanooga (TN),USA,in use,metal,Chattanooga,TN,Tennessee,60.9,16.1
+1366,Maroon Creek Trestle,1888,Aspen (CO),USA,in use,metal,Aspen,CO,Colorado,40.8,4.9
+1367,Marquam Bridge,1966,Portland (OR),USA,in use,metal,Portland,OR,Oregon,54.5,12.5
+1368,Marquette-Jolliet Bridge,1975,Prairie du Chien (WI),USA,in use,metal,Prairie du Chien,WI,Wisconsin,43.1,6.2
+1369,Marshall Road Bridge,1909,Orleans County (NY),USA,in use,metal,Orleans County,NY,New York,45.4,7.4
+1370,Matthew E. Welsh Bridge,1966,Brandenburg (KY),USA,in use,metal,Brandenburg,KY,Kentucky,55.6,13.1
+1371,Maupin Bridge,1929,Wasco County (OR),USA,in use,metal,Wasco County,OR,Oregon,50.6,10.3
+1372,Maury River Bridges,1978,Rockbridge County (VA),USA,in use,metal,Rockbridge County,VA,Virginia,55.1,12.8
+1373,Maxwell Bridge,1949,Napa (CA),USA,in use,metal,Napa,CA,California,56.7,13.7
+1374,McClugage Bridge,1948,Peoria (IL),USA,in use,metal,Peoria,IL,Illinois,51.9,11.1
+1375,McClugage Bridge,1982,Peoria (IL),USA,in use,metal,Peoria,IL,Illinois,51.9,11.1
+1376,McConnelsville Bridge,1913,McConnelsville (OH),USA,in use,metal,McConnelsville,OH,Ohio,52.2,11.2
+1377,McDonald Bridge,1914,Saint Helens (OR),USA,dismantled,metal,Saint Helens,OR,Oregon,48.4,9.1
+1378,McKees Rocks Bridge,1931,Pittsburgh (PA),USA,in use,metal,Pittsburgh,PA,Pennsylvania,51.4,10.8
+1379,McKinley Bridge,1910,Saint Louis (MO),USA,in use,metal,Saint Louis,MO,Missouri,54.5,12.5
+1380,McLoughlin Boulevard Pedestrian Bridge,2006,Portland (OR),USA,in use,metal,Portland,OR,Oregon,54.5,12.5
+1381,McPhaul Bridge,1929,Dome (AZ),USA,out of service,metal,Dome,AZ,Arizona,60.3,15.7
+1382,Melrose Road Bridge,1888,East Windsor (CT),USA,out of service,metal,East Windsor,CT,Connecticut,49.0,9.4
+1383,Melville Bridge,1929,- Melville (LA),USA,in use,metal,Melville,LA,Louisiana,66.4,19.1
+1384,Memorial Bridge,1949,Augusta (ME),USA,in use,metal,Augusta,ME,Maine,45.0,7.2
+1385,Memorial Drive Bridge,1940,Cambridge (MA),USA,in use,metal,Cambridge,MA,Massachusetts,47.9,8.8
+1386,Memphis-Arkansas Bridge,1949,Memphis (TN),USA,in use,metal,Memphis,TN,Tennessee,62.3,16.8
+1387,Meramec River Bridge (MO 21),1941,Saint Louis County (MO),USA,in use,metal,Saint Louis County,MO,Missouri,54.5,12.5
+1388,Meridian Highway Bridge,1924,Yankton (SD),USA,in use,metal,Yankton,SD,South Dakota,47.0,8.3
+1389,Meridian Sacramento River Bridge,1977,Meridian (CA),USA,in use,metal,Meridian,CA,California,59.4,15.2
+1390,Merriam Street Bridge,1887,Minneapolis (MN),USA,in use,metal,Minneapolis,MN,Minnesota,46.3,7.9
+1391,Metaline Falls Bridge,1952,Metaline Falls (WA),USA,in use,metal,Metaline Falls,WA,Washington,45.1,7.3
+1392,Michigan Avenue Bridge,1920,Chicago (IL),USA,in use,metal,Chicago,IL,Illinois,49.9,9.9
+1393,Michigan Central Railway Bridge,1925,Niagara Falls (NY),USA,out of service,metal,Niagara Falls,NY,New York,47.7,8.7
+1394,Middle Fork Nooksack River Bridge,1951,Whatcom County (WA),USA,in use,metal,Whatcom County,WA,Washington,48.3,9.1
+1395,Middle Fork of Flathead River Bridge,1938,Flathead County (MT),USA,in use,metal,Flathead County,MT,Montana,42.7,5.9
+1396,Midland Fredericktown Road Bridge,1893,Fredericktown (OH),USA,in use,metal,Fredericktown,OH,Ohio,50.7,10.4
+1397,Milford-Montague Toll Bridge,1953,- Montague (NJ),USA,in use,metal,Montague,NJ,New Jersey,46.4,8.0
+1398,Mill Creek Bridge,2001,Tioga (PA),USA,in use,metal,Tioga,PA,Pennsylvania,48.8,9.3
+1399,Miller Creek Bridge,1933,Thebes (IL),USA,in use,metal,Thebes,IL,Illinois,51.8,11.0
+1400,Million Dollar Bridge,1911,Cordova (AK),USA,in use,metal,Cordova,AK,Alaska,39.7,4.3
+1401,Milton Madison Bridge,2014,Madison (IN),USA,in use,metal,Madison,IN,Indiana,53.0,11.7
+1402,Milton Madison Bridge,1929,Madison (IN),USA,in use,metal,Madison,IN,Indiana,53.0,11.7
+1403,Milwaukee Road Bridge,1981,Hastings (MN),USA,in use,metal,Hastings,MN,Minnesota,45.6,7.6
+1404,Minneapolis & Saint Louis Bridge,1917,Carver (MN),USA,demolished,metal,Carver,MN,Minnesota,41.2,5.1
+1405,Minortown Road Bridge,1890,Woodbury (CT),USA,in use,metal,Woodbury,CT,Connecticut,50.0,10.0
+1406,Mississippi River Bridge #15,1916,Saint Paul (MN),USA,in use,metal,Saint Paul,MN,Minnesota,47.1,8.4
+1407,Mississippi River Pipeline Bridge,1955,Grand Tower (IL),USA,in use,metal,Grand Tower,IL,Illinois,57.8,14.3
+1408,Missouri-Kansas-Texas Bridge,1932,Boonville (MO),USA,out of service,metal,Boonville,MO,Missouri,54.3,12.4
+1409,Modrow Road Bridge,1958,Cowlitz County (WA),USA,in use,metal,Cowlitz County,WA,Washington,48.3,9.1
+1410,Mohawk River Bridge,1959,Albany County (NY),USA,in use,metal,Albany County,NY,New York,49.4,9.7
+1411,Mohawk River Bridge,1891,Albany County (NY),USA,in use,metal,Albany County,NY,New York,49.4,9.7
+1412,Molalla River Bridge,1936,Clackamas County (OR),USA,in use,metal,Clackamas County,OR,Oregon,48.4,9.1
+1413,Moline-Arsenal Bridge,1982,Moline (IL),USA,in use,metal,Moline,IL,Illinois,50.7,10.4
+1414,Monaca-East Rochester Bridge,1959,- East Rochester (PA),USA,in use,metal,East Rochester,PA,Pennsylvania,48.8,9.3
+1415,Monaca-Rochester Suspension Bridge,1896,Monaca (PA),USA,demolished,metal,Monaca,PA,Pennsylvania,48.8,9.3
+1416,Monongahela Connecting Railroad Bridge,1887,Pittsburgh (PA),USA,in use,metal,Pittsburgh,PA,Pennsylvania,51.4,10.8
+1417,Monroe Street Bridge,1890,Spokane (WA),USA,demolished,metal,Spokane,WA,Washington,48.2,9.0
+1418,Monroe Street Bridge,1919,Chicago (IL),USA,in use,metal,Chicago,IL,Illinois,49.9,9.9
+1419,Montopolis Bridge,1938,Austin (TX),USA,in use,metal,Austin,TX,Texas,68.5,20.3
+1420,Moody Pedestrian Bridge,2016,Austin (TX),USA,in use,metal,Austin,TX,Texas,68.5,20.3
+1421,Mores Creek Bridge,1953,Ada County (ID),USA,,metal,Ada County,ID,Idaho,44.4,6.9
+1422,Moseley Wrought Iron Arch Bridge,1864,North Andover (MA),USA,in use,metal,North Andover,MA,Massachusetts,49.2,9.6
+1423,Moser Channel Bridge,1912,Marathon (FL),USA,out of service,metal,Marathon,FL,Florida,78.5,25.8
+1424,Mount Hope Bridge,1929,Portsmouth (RI),USA,in use,metal,Portsmouth,RI,Rhode Island,50.1,10.1
+1425,Moyie River Canyon Bridge,1964,Moyie Springs (ID),USA,in use,metal,Moyie Springs,ID,Idaho,44.4,6.9
+1426,Murray Baker Bridge,1958,Peoria (IL),USA,in use,metal,Peoria,IL,Illinois,51.9,11.1
+1427,Murray Morgan Bridge,1913,Tacoma (WA),USA,in use,metal,Tacoma,WA,Washington,53.5,11.9
+1428,Musconetcong Bridge,1868,New Hampton (NJ),USA,out of service,metal,New Hampton,NJ,New Jersey,52.7,11.5
+1429,Muskingum River Conveyor Bridge,1956,Center Township (OH),USA,demolished,metal,Center Township,OH,Ohio,50.7,10.4
+1430,Mystic Bascule Bridge,1920,Mystic (CT),USA,in use,metal,Mystic,CT,Connecticut,49.0,9.4
+1431,Naches River Railroad Bridge,1895,Yakima (WA),USA,in use,metal,Yakima,WA,Washington,49.7,9.8
+1432,Natchez-Vidalia Bridge,1940,- Natchez (MS),USA,in use,metal,Natchez,MS,Mississippi,66.4,19.1
+1433,Natchez-Vidalia Bridge,1988,Vidalia (LA),USA,in use,metal,Vidalia,LA,Louisiana,59.0,15.0
+1434,Navajo Arch Bridge,1929,Lee's Ferry (AZ),USA,in use,metal,Lee's Ferry,AZ,Arizona,60.3,15.7
+1435,Navajo Bridge,1997,Lee's Ferry (AZ),USA,in use,metal,Lee's Ferry,AZ,Arizona,60.3,15.7
+1436,Navarro Street Bridge,1922,San Antonio (TX),USA,in use,metal,San Antonio,TX,Texas,69.1,20.6
+1437,Necarney Creek Bridge,1937,Neahkahnie Beach (OR),USA,in use,metal,Neahkahnie Beach,OR,Oregon,48.4,9.1
+1438,Neches River Bridge,1952,Beaumont (TX),USA,in use,metal,Beaumont,TX,Texas,68.3,20.2
+1439,Neches River Lift Bridge,1941,Beaumont (TX),USA,in use,metal,Beaumont,TX,Texas,68.3,20.2
+1440,Neligh Mill Bridge,1910,Neligh (NE),USA,in use,metal,Neligh,NE,Nebraska,47.3,8.5
+1441,Neshanic Station Lenticular Truss Bridge,1896,Neshanic Station (NJ),USA,in use,metal,Neshanic Station,NJ,New Jersey,52.7,11.5
+1442,Netherland Bridge,2005,Jackson County (OR),USA,in use,metal,Jackson County,OR,Oregon,48.4,9.1
+1443,New BNSF Plattsmouth Rail Bridge,2013,Plattsmouth (NE),USA,in use,metal,Plattsmouth,NE,Nebraska,49.0,9.4
+1444,New Chain of Rocks Bridge,1966,Madison County (IL),USA,in use,metal,Madison County,IL,Illinois,51.8,11.0
+1445,New Harmony Bridge,1930,New Harmony (IN),USA,out of service,metal,New Harmony,IN,Indiana,49.9,9.9
+1446,New Hope-Lambertville Bridge,1904,- New Hope (PA),USA,in use,metal,New Hope,PA,Pennsylvania,48.8,9.3
+1447,New Johnsonville Railroad Bridge,1945,- New Johnsonville (TN),USA,in use,metal,New Johnsonville,TN,Tennessee,59.1,15.1
+1448,New Richmond Swing Bridge,1879,Manlius Township (MI),USA,in use,metal,Manlius Township,MI,Michigan,44.4,6.9
+1449,New River Gorge Bridge,1977,Fayetteville (WV),USA,in use,metal,Fayetteville,WV,West Virginia,51.8,11.0
+1450,New Stanton Viaduct,1999,New Stanton (PA),USA,in use,metal,New Stanton,PA,Pennsylvania,50.4,10.2
+1451,New Tacoma Narrows Bridge,2007,Tacoma (WA),USA,in use,metal,Tacoma,WA,Washington,53.5,11.9
+1452,Newark Bay Bridge,1956,- Newark (NJ),USA,in use,metal,Newark,NJ,New Jersey,54.9,12.7
+1453,Newberg Bridge,1958,Newberg (OR),USA,in use,metal,Newberg,OR,Oregon,48.2,9.0
+1454,Newell Toll Bridge,1905,Newell (WV),USA,in use,metal,Newell,WV,West Virginia,51.8,11.0
+1455,Niagara Clifton Bridge,1869,Niagara Falls (NY),USA,destroyed,metal,Niagara Falls,NY,New York,47.7,8.7
+1456,Niagara Falls Suspension Bridge,1855,Niagara Falls (NY),USA,demolished,metal,Niagara Falls,NY,New York,47.7,8.7
+1457,Nichols Bridgeway,2009,Chicago (IL),USA,in use,metal,Chicago,IL,Illinois,49.9,9.9
+1458,Nicholson Township Lenticular Bridge,1878,Nicholson (PA),USA,dismantled,metal,Nicholson,PA,Pennsylvania,48.8,9.3
+1459,Nine Bridges Road Bridge,1913,Doniphan (NE),USA,in use,metal,Doniphan,NE,Nebraska,48.8,9.3
+1460,Nokesville Pratt Truss Bridge,1882,Nokesville (VA),USA,in use,metal,Nokesville,VA,Virginia,55.1,12.8
+1461,Norfolk Southern Tennessee River Bridge,1903,Knoxville (TN),USA,in use,metal,Knoxville,TN,Tennessee,59.1,15.1
+1462,North Bank Bridge,2012,Cambridge (MA),USA,in use,metal,Cambridge,MA,Massachusetts,47.9,8.8
+1463,North Channel Bridges,1965,Northampton County (VA),USA,in use,metal,Northampton County,VA,Virginia,55.1,12.8
+1464,North Creek Bridge,1930,Johnsburg (NY),USA,in use,metal,Johnsburg,NY,New York,45.4,7.4
+1465,North Fork Feather River Bridge,1932,Butte County (CA),USA,in use,metal,Butte County,CA,California,59.4,15.2
+1466,North Fork Feather River Bridge IV,1934,Plumas County (CA),USA,in use,metal,Plumas County,CA,California,59.4,15.2
+1467,North Fork Quartz Creek Bridge,1939,Clatsop County (OR),USA,in use,metal,Clatsop County,OR,Oregon,48.4,9.1
+1468,North Fork Stillaguamish River Bridge,1967,Snohomish County (WA),USA,in use,metal,Snohomish County,WA,Washington,48.3,9.1
+1469,North Grand Island Bridge,1935,- Grand Island (NY),USA,in use,metal,Grand Island,NY,New York,45.4,7.4
+1470,North Halsted Street Bridge,1909,Chicago (IL),USA,demolished,metal,Chicago,IL,Illinois,49.9,9.9
+1471,North Loup Bridge,1913,North Loup (NE),USA,in use,metal,North Loup,NE,Nebraska,49.4,9.7
+1472,North Queen Anne Drive Bridge,1936,Seattle (WA),USA,in use,metal,Seattle,WA,Washington,52.6,11.4
+1473,North Washington Street Bridge,1900,Boston (MA),USA,in use,metal,Boston,MA,Massachusetts,51.3,10.7
+1474,North Yamhill River Bridge,1921,Yamhill County (OR),USA,in use,metal,Yamhill County,OR,Oregon,75.0,23.9
+1475,Northampton Lattice Truss Bridge,1887,Northampton (MA),USA,in use,metal,Northampton,MA,Massachusetts,47.9,8.8
+1476,Northern Avenue Bridge,1908,Boston (MA),USA,to be demolished,metal,Boston,MA,Massachusetts,51.3,10.7
+1477,Northern Pacific Bridge,1884,Minneapolis (MN),USA,in use,metal,Minneapolis,MN,Minnesota,46.3,7.9
+1478,Northern Pacific Bridge #9,1924,Minneapolis (MN),USA,in use,metal,Minneapolis,MN,Minnesota,46.3,7.9
+1479,Northport Bridge,1949,Northport (WA),USA,in use,metal,Northport,WA,Washington,47.6,8.7
+1480,Northumberland Bridge,1917,- Northumberland (NY),USA,in use,metal,Northumberland,NY,New York,45.4,7.4
+1481,Norwalk River Railroad Bridge,1896,Norwalk (CT),USA,in use,metal,Norwalk,CT,Connecticut,50.7,10.4
+1482,Novelty Bridge,2000,King County (WA),USA,in use,metal,King County,WA,Washington,48.3,9.1
+1483,NS (DLW) - Susquehanna River Bridge,1900,Johnson City (NY),USA,in use,metal,Johnson City,NY,New York,46.1,7.8
+1484,Nutty Narrows Bridge,1963,Longview (WA),USA,in use,metal,Longview,WA,Washington,48.3,9.1
+1485,O Street Viaduct,1885,Omaha (NE),USA,demolished,metal,Omaha,NE,Nebraska,51.1,10.6
+1486,O'Neal Bridge,1939,Muscle Shoals (AL),USA,in use,metal,Muscle Shoals,AL,Alabama,61.6,16.4
+1487,Oak Orchard Creek Bridge,1936,Orleans County (NY),USA,in use,metal,Orleans County,NY,New York,45.4,7.4
+1488,Oakland Bridge,1925,Douglas County (OR),USA,in use,metal,Douglas County,OR,Oregon,48.4,9.1
+1489,Ocean Avenue Bridge,1937,Belmar (NJ),USA,in use,metal,Belmar,NJ,New Jersey,52.7,11.5
+1490,Ocean to Ocean Bridge,1915,Yuma (AZ),USA,in use,metal,Yuma,AZ,Arizona,71.6,22.0
+1491,Oceanic Bridge,1940,Monmouth County (NJ),USA,in use,metal,Monmouth County,NJ,New Jersey,52.7,11.5
+1492,Ogdensburg Prescott International Bridge,1960,Ogdensburg (NY),USA,in use,metal,Ogdensburg,NY,New York,45.0,7.2
+1493,Ohio Turnpike Cuyahoga River Bridge,1955,Boston Township (OH),USA,demolished,metal,Boston Township,OH,Ohio,50.7,10.4
+1494,Old Brownsville Bridge,1912,Brownsville (PA),USA,in use,metal,Brownsville,PA,Pennsylvania,48.8,9.3
+1495,Old Chain of Rocks Canal Highway Bridge,1949,Madison County (IL),USA,in use,metal,Madison County,IL,Illinois,51.8,11.0
+1496,Old Downing Mill Bridge,1930,Choccolocco (AL),USA,in use,metal,Choccolocco,AL,Alabama,62.8,17.1
+1497,Old Glenn Road Bridge,1952,Anchorage (AK),USA,in use,metal,Anchorage,AK,Alaska,37.1,2.8
+1498,Old Hill Place Bridge,1920,Fayette (MS),USA,in ruins,metal,Fayette,MS,Mississippi,63.4,17.4
+1499,Old Lake Marion Bridge,1968,Clarendon County (SC),USA,out of service,metal,Clarendon County,SC,South Carolina,62.4,16.9
+1500,Old Mill Road Bridge,1882,Rocky Ridge (MD),USA,in use,metal,Rocky Ridge,MD,Maryland,54.2,12.3
+1501,Old Mill Road Bridge,1870,Hellertown (PA),USA,in use,metal,Hellertown,PA,Pennsylvania,51.3,10.7
+1502,Old Rhinehart Bridge,1922,Union County (OR),USA,out of service,metal,Union County,OR,Oregon,46.0,7.8
+1503,Old River Bridge,1889,Benton (AR),USA,dismantled,metal,Benton,AR,Arkansas,62.2,16.8
+1504,Old Saint Charles Bridge,1904,- Saint Charles (MO),USA,demolished,metal,Saint Charles,MO,Missouri,54.5,12.5
+1505,Old Shawneetown Bridge,1955,Old Shawneetown (IL),USA,in use,metal,Old Shawneetown,IL,Illinois,51.8,11.0
+1506,Old Vicksburg Bridge,1930,Vicksburg (MS),USA,in use,metal,Vicksburg,MS,Mississippi,64.7,18.2
+1507,Old Wenatchee Bridge,1908,Wenatchee (WA),USA,in use,metal,Wenatchee,WA,Washington,51.0,10.6
+1508,Old Youngs Bay Bridge,1921,Astoria (OR),USA,in use,metal,Astoria,OR,Oregon,51.3,10.7
+1509,Olive Branch Bridge,1897,Sprague (NE),USA,demolished,metal,Sprague,NE,Nebraska,28.6,-1.9
+1510,Omega Bridge,1951,Los Alamos (NM),USA,in use,metal,Los Alamos,NM,New Mexico,48.0,8.9
+1511,Oneida and Western Railroad Big South Fork Bridge,1885,Oneida (TN),USA,in use,metal,Oneida,TN,Tennessee,57.6,14.2
+1512,Onion Creek Bridge,1911,Coffeyville (KS),USA,in use,metal,Coffeyville,KS,Kansas,58.1,14.5
+1513,Opaekaa Truss Bridge,1895,Kapaa (HI),USA,in use,metal,Kapaa,HI,Hawaii,24.4,-4.2
+1514,Oregon City Bridge,1922,Oregon City (OR),USA,in use,metal,Oregon City,OR,Oregon,54.7,12.6
+1515,Oregon Trunk Rail Bridge,1912,Celilo Village (OR),USA,in use,metal,Celilo Village,OR,Oregon,48.4,9.1
+1516,Orleans Suspension Bridge,1940,Orleans (CA),USA,destroyed,metal,Orleans,CA,California,57.7,14.3
+1517,Orleans Suspension Bridge,1966,Orleans (CA),USA,in use,metal,Orleans,CA,California,57.7,14.3
+1518,Oscar K. Allen Bridge,1936,Alexandria (LA),USA,demolished,metal,Alexandria,LA,Louisiana,65.3,18.5
+1519,Osceola Bridge,1955,Osceola (WI),USA,in use,metal,Osceola,WI,Wisconsin,43.1,6.2
+1520,Oso Valley Road Bridge,1987,San Luis Obispo (CA),USA,in use,metal,San Luis Obispo,CA,California,59.3,15.2
+1521,Outer Drive Bridge,1937,Chicago (IL),USA,in use,metal,Chicago,IL,Illinois,49.9,9.9
+1522,Outerbridge Crossing,1928,- New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+1523,Ozark Bridge,1930,Ozark (AR),USA,in use,metal,Ozark,AR,Arkansas,59.0,15.0
+1524,P. J. McArdle Roadway Viaduct No. 1,1935,Pittsburgh (PA),USA,in use,metal,Pittsburgh,PA,Pennsylvania,51.4,10.8
+1525,P. R. Olgiati Bridge,1959,Chattanooga (TN),USA,in use,metal,Chattanooga,TN,Tennessee,60.9,16.1
+1526,Panhandle Bridge,1903,Pittsburgh (PA),USA,in use,metal,Pittsburgh,PA,Pennsylvania,51.4,10.8
+1527,Panther Hollow Bridge,1896,Pittsburgh (PA),USA,in use,metal,Pittsburgh,PA,Pennsylvania,51.4,10.8
+1528,Paper Mill Road Bridge,2000,Baltimore County (MD),USA,in use,metal,Baltimore County,MD,Maryland,55.1,12.8
+1529,Paper Mill Road Bridge,1922,Baltimore County (MD),USA,out of service,metal,Baltimore County,MD,Maryland,55.1,12.8
+1530,Park Avenue Railroad Bridge,1956,New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+1531,Park Place Bridge,1921,Oregon City (OR),USA,out of service,metal,Oregon City,OR,Oregon,54.7,12.6
+1532,Parkersburg Baltimore & Ohio Railroad Bridge,1905,Parkersburg (WV),USA,in use,metal,Parkersburg,WV,West Virginia,54.8,12.7
+1533,Parkersburg Suspension Bridge,1916,Parkersburg (WV),USA,demolished,metal,Parkersburg,WV,West Virginia,54.8,12.7
+1534,Parks Highway Bridge,1969,Matanuska-Susitna (AK),USA,in use,metal,Matanuska-Susitna,AK,Alaska,26.6,-3.0
+1535,Pasco-Kennewick Bridge,1922,Pasco (WA),USA,demolished,metal,Pasco,WA,Washington,53.2,11.8
+1536,Paseo Bridge,1954,Kansas City (MO),USA,demolished,metal,Kansas City,MO,Missouri,54.6,12.6
+1537,Passaic River Bridge,1949,Rutherford (NJ),USA,demolished,metal,Rutherford,NJ,New Jersey,52.7,11.5
+1538,Passaic River Bridge,1935,Newark (NJ),USA,in use,metal,Newark,NJ,New Jersey,54.9,12.7
+1539,PATH Lift Bridge,1900,- Kearny (NJ),USA,in use,metal,Kearny,NJ,New Jersey,52.7,11.5
+1540,Paw Paw Creek Bridge,1874,Miami County (IN),USA,dismantled,metal,Miami County,IN,Indiana,51.7,10.9
+1541,Peace Bridge,1927,Buffalo (NY),USA,in use,metal,Buffalo,NY,New York,48.3,9.1
+1542,Pearl Harbor Memorial Bridge,1958,New Haven (CT),USA,demolished,metal,New Haven,CT,Connecticut,53.6,12.0
+1543,Pearl Street Bridge,1886,Grand Rapids (MI),USA,demolished,metal,Grand Rapids,MI,Michigan,49.1,9.5
+1544,Pecos River Bridge,1959,Langtry (TX),USA,in use,metal,Langtry,TX,Texas,69.2,20.7
+1545,Pecos River High Bridge,1944,Langtry (TX),USA,in use,metal,Langtry,TX,Texas,69.2,20.7
+1546,Pecos Viaduct,1892,Langtry (TX),USA,demolished,metal,Langtry,TX,Texas,69.2,20.7
+1547,Pekin Bridge,1982,Pekin (IL),USA,in use,metal,Pekin,IL,Illinois,51.3,10.7
+1548,Pelham Road Railroad Overpass,1941,- Allen Park (MI),USA,in use,metal,Allen Park,MI,Michigan,44.4,6.9
+1549,Pelican Island Causeway,1957,Galveston (TX),USA,in use,metal,Galveston,TX,Texas,71.3,21.8
+1550,Penn Lincoln Parkway East Viaduct,1956,Pittsburgh (PA),USA,in use,metal,Pittsburgh,PA,Pennsylvania,51.4,10.8
+1551,Pennsylvania Railroad Bridge,1868,Louisville (KY),USA,in use,metal,Louisville,KY,Kentucky,58.2,14.6
+1552,Pennsylvania Railroad Lift Bridge,1966,New Castle County (DE),USA,in use,metal,New Castle County,DE,Delaware,55.3,12.9
+1553,Pennsylvania Turnpike Allegheny River Bridge,1951,Harmar (PA),USA,demolished,metal,Harmar,PA,Pennsylvania,48.8,9.3
+1554,Penobscot Bridge,1911,Bangor (ME),USA,demolished,metal,Bangor,ME,Maine,44.3,6.8
+1555,Pepacton Reservoir Bridge,1999,Andes (NY),USA,in use,metal,Andes,NY,New York,45.5,7.5
+1556,Percy V. Pennybacker Jr. Bridge,1982,Austin (TX),USA,in use,metal,Austin,TX,Texas,68.5,20.3
+1558,Phil G. McDonald Bridge,1988,Beckley (WV),USA,in use,metal,Beckley,WV,West Virginia,51.4,10.8
+1559,Philadelphia & Reading Railroad Pedestrian Overpass,1887,Reading (PA),USA,demolished,metal,Reading,PA,Pennsylvania,50.9,10.5
+1560,Philip Murray Bridge,1931,Pittsburgh (PA),USA,in use,metal,Pittsburgh,PA,Pennsylvania,51.4,10.8
+1561,Phoenix Bridge,1887,Eagle Rock (VA),USA,in use,metal,Eagle Rock,VA,Virginia,55.1,12.8
+1562,Phyllis J. Tilley Memorial Bridge,2012,Fort Worth (TX),USA,in use,metal,Fort Worth,TX,Texas,64.7,18.2
+1563,Pier 3 / Pier 4 Pedestrian Bridge,1998,Baltimore (MD),USA,in use,metal,Baltimore,MD,Maryland,55.1,12.8
+1564,Pigeon Key Bridge,1912,Marathon (FL),USA,in use,metal,Marathon,FL,Florida,78.5,25.8
+1565,Pinebank Arch Bridge,1861,New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+1566,Pinto Creek Bridge,1949,Miami (AZ),USA,to be demolished,metal,Miami,AZ,Arizona,62.0,16.7
+1567,Piscataqua River I-95 Bridge,1971,- Kittery (ME),USA,in use,metal,Kittery,ME,Maine,41.0,5.0
+1568,Pittsburgh & Lake Erie Railroad Ohio River Bridge,1910,Beaver (PA),USA,in use,metal,Beaver,PA,Pennsylvania,51.9,11.1
+1569,Platte Purchase Bridge,1957,Kansas City (KS),USA,demolished,metal,Kansas City,KS,Kansas,56.7,13.7
+1570,Plattsmouth Bridge,1929,Plattsmouth (NE),USA,in use,metal,Plattsmouth,NE,Nebraska,49.0,9.4
+1571,Plattsmouth Pipeline Bridge,1956,Plattsmouth (NE),USA,in use,metal,Plattsmouth,NE,Nebraska,49.0,9.4
+1572,Plattsmouth Rail Bridge,1880,Plattsmouth (NE),USA,demolished,metal,Plattsmouth,NE,Nebraska,49.0,9.4
+1573,Poffenberger Road Bridge,1878,Middletown (MD),USA,in use,metal,Middletown,MD,Maryland,54.2,12.3
+1574,Point Bridge,1877,Pittsburgh (PA),USA,demolished,metal,Pittsburgh,PA,Pennsylvania,51.4,10.8
+1575,Point Bridge,1927,Pittsburgh (PA),USA,demolished,metal,Pittsburgh,PA,Pennsylvania,51.4,10.8
+1576,Point Marion Bridge,1999,Point Marion (PA),USA,in use,metal,Point Marion,PA,Pennsylvania,51.4,10.8
+1577,Point Marion Bridge,1908,Point Marion (PA),USA,demolished,metal,Point Marion,PA,Pennsylvania,51.4,10.8
+1578,Point Pleasant Railroad Bridge,1919,Point Pleasant (WV),USA,in use,metal,Point Pleasant,WV,West Virginia,55.9,13.3
+1579,Pomeroy-Mason Bridge,1928,Mason (WV),USA,demolished,metal,Mason,WV,West Virginia,51.8,11.0
+1580,Ponakin Road Bridge,1871,Lancaster (MA),USA,out of service,metal,Lancaster,MA,Massachusetts,47.9,8.8
+1581,Pond Eddy Bridge,1904,- Lumberland (NY),USA,in use,metal,Lumberland,NY,New York,45.4,7.4
+1582,Popolopen Creek Bridge (US 9),1937,Fort Montgomery (NY),USA,in use,metal,Fort Montgomery,NY,New York,45.4,7.4
+1583,Poquonock Bridge,1869,Windsor (CT),USA,demolished,metal,Windsor,CT,Connecticut,49.0,9.4
+1584,Porcupine Bridge,1969,Haines (AK),USA,in use,metal,Haines,AK,Alaska,41.1,5.1
+1585,Porcupine Crossing Bridge,1969,Haines (AK),USA,in use,metal,Haines,AK,Alaska,41.1,5.1
+1586,Port Washington Narrows Bridge,1958,Bremerton (WA),USA,in use,metal,Bremerton,WA,Washington,51.6,10.9
+1587,Portage Canal Bridge,1951,Jefferson County (WA),USA,in use,metal,Jefferson County,WA,Washington,48.3,9.1
+1588,Portage Viaduct,1875,Genesee Falls (NY),USA,demolished,metal,Genesee Falls,NY,New York,45.4,7.4
+1589,Portland Traction - Clackamas River Bridge,1908,- Gladstone (OR),USA,demolished,metal,Gladstone,OR,Oregon,54.4,12.4
+1590,Portland-Columbia Toll Bridge,1953,Portland (PA),USA,in use,metal,Portland,PA,Pennsylvania,48.8,9.3
+1591,Portland-Columbia Toll Supported Pedestrian Bridge,1958,Portland (PA),USA,in use,metal,Portland,PA,Pennsylvania,48.8,9.3
+1592,Poughkeepsie Railroad Bridge,1889,Poughkeepsie (NY),USA,in use,metal,Poughkeepsie,NY,New York,50.0,10.0
+1593,Pratt Half Hip Pony Truss,1911,Hamilton (TX),USA,in use,metal,Hamilton,TX,Texas,64.2,17.9
+1594,Presbyterian Road Bridge,1909,Orleans County (NY),USA,in use,metal,Orleans County,NY,New York,45.4,7.4
+1595,Prescott Bridge,1922,Prescott (WI),USA,demolished,metal,Prescott,WI,Wisconsin,43.1,6.2
+1596,Prescott Bridge,1990,Prescott (WI),USA,in use,metal,Prescott,WI,Wisconsin,43.1,6.2
+1597,Prickett Trail Bridge,1932,Calhoun County (AL),USA,in use,metal,Calhoun County,AL,Alabama,62.8,17.1
+1598,Prospect Avenue Bridge,1914,Medina (NY),USA,in use,metal,Medina,NY,New York,45.4,7.4
+1599,Prospect Bridge,1913,Prospect (OH),USA,demolished,metal,Prospect,OH,Ohio,53.5,11.9
+1600,Providence River Bridge,2007,Providence (RI),USA,in use,metal,Providence,RI,Rhode Island,50.9,10.5
+1601,Provo River Railroad Bridge,1884,Orem (UT),USA,in use,metal,Orem,UT,Utah,52.5,11.4
+1602,Pudding River Bridge,1947,Clackamas County (OR),USA,in use,metal,Clackamas County,OR,Oregon,48.4,9.1
+1603,Puente Histórico de Trujillo Alto,1941,Trujillo Alto (US-PR),USA,in use,metal,Trujillo Alto,US-PR,Puerto Rico,78.5,25.8
+1604,Pulaski Bridge,1954,New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+1605,Pulaski Skyway,1932,- Jersey City (NJ),USA,in use,metal,Jersey City,NJ,New Jersey,52.6,11.4
+1606,Purdon Crossing Bridge,1889,Nevada City (CA),USA,in use,metal,Nevada City,CA,California,51.0,10.6
+1607,Purple Heart Memorial Bridge,1998,Alexandria (LA),USA,in use,metal,Alexandria,LA,Louisiana,65.3,18.5
+1608,Putnam Street Bridge,1914,Marietta (OH),USA,demolished,metal,Marietta,OH,Ohio,53.7,12.1
+1609,Putnam Street Bridge,1884,Marietta (OH),USA,demolished,metal,Marietta,OH,Ohio,53.7,12.1
+1610,Puyallup Avenue Bridge,1925,Tacoma (WA),USA,in use,metal,Tacoma,WA,Washington,53.5,11.9
+1611,Queens Zoo Aviary Footbridge,1968,New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+1612,Queensway Twin Bridges,1970,Long Beach (CA),USA,in use,metal,Long Beach,CA,California,64.5,18.1
+1613,Rachel Carson Bridge,1928,Pittsburgh (PA),USA,in use,metal,Pittsburgh,PA,Pennsylvania,51.4,10.8
+1614,Rainbow Bridge,1941,Niagara Falls (NY),USA,in use,metal,Niagara Falls,NY,New York,47.7,8.7
+1615,Rainbow Bridge,1938,Bridge City (TX),USA,in use,metal,Bridge City,TX,Texas,64.8,18.2
+1616,Rainbow Bridge,1957,La Conner (WA),USA,in use,metal,La Conner,WA,Washington,48.3,9.1
+1617,Ralston Arkansas River Bridge,1935,Ralston (OK),USA,demolished,metal,Ralston,OK,Oklahoma,59.6,15.3
+1618,Randolph Bridge,1962,- Riley County (KS),USA,in use,metal,Riley County,KS,Kansas,52.9,11.6
+1619,Randolph Street Bridge,1984,Chicago (IL),USA,in use,metal,Chicago,IL,Illinois,49.9,9.9
+1620,Raritan Bay Bridge,1908,Perth Amboy (NJ),USA,in use,metal,Perth Amboy,NJ,New Jersey,52.7,11.5
+1621,Raritan Bay Bridge,2026,Perth Amboy (NJ),USA,under construction,metal,Perth Amboy,NJ,New Jersey,52.7,11.5
+1622,Ravenna Park Bridge,1912,Seattle (WA),USA,in use,metal,Seattle,WA,Washington,52.6,11.4
+1623,Raymond E. Baldwin Bridge,1948,- Old Lyme (CT),USA,demolished,metal,Old Lyme,CT,Connecticut,49.0,9.4
+1624,Reading-Halls Station Bridge,1846,Muncy (PA),USA,in use,metal,Muncy,PA,Pennsylvania,48.8,9.3
+1625,Rector Street Bridge,2002,New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+1626,Red Bridge,1891,Meriden (CT),USA,out of service,metal,Meriden,CT,Connecticut,51.7,10.9
+1627,Red Cliff Bridge,1940,Red Cliff (CO),USA,in use,metal,Red Cliff,CO,Colorado,45.1,7.3
+1628,Red Cloud Bridge,1935,Red Cloud (NE),USA,in use,metal,Red Cloud,NE,Nebraska,51.7,10.9
+1629,Red Rock Bridge,1890,Topock (AZ),USA,demolished,metal,Topock,AZ,Arizona,73.6,23.1
+1630,Reedy Point Bridge,1968,Delaware City (DE),USA,in use,metal,Delaware City,DE,Delaware,55.3,12.9
+1631,Reservoir Bridge Southwest,1864,New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+1632,Rhythm City Skybridge,2005,Davenport (IA),USA,in use,metal,Davenport,IA,Iowa,50.0,10.0
+1633,Richard V. Woods Memorial Bridge,1959,Beaufort (SC),USA,in use,metal,Beaufort,SC,South Carolina,66.7,19.3
+1634,Richardson Bridge,1912,Eugene (OR),USA,in use,metal,Eugene,OR,Oregon,52.5,11.4
+1635,Richmond-San Rafael Bridge,1956,Richmond (CA),USA,completed,metal,Richmond,CA,California,58.4,14.7
+1636,Rio Grande Gorge Bridge,1965,- Pilar (NM),USA,in use,metal,Pilar,NM,New Mexico,53.4,11.9
+1637,Rip van Winkle Bridge,1935,Catskill (NY),USA,in use,metal,Catskill,NY,New York,45.4,7.4
+1638,Riparius Bridge,2003,Johnsburg (NY),USA,in use,metal,Johnsburg,NY,New York,45.4,7.4
+1639,River Street Bridge,1906,Plainfield (CT),USA,demolished,metal,Plainfield,CT,Connecticut,49.0,9.4
+1640,Riverton-Belvidere Bridge,1904,Riverton (PA),USA,in use,metal,Riverton,PA,Pennsylvania,48.8,9.3
+1641,Robert C. Byrd Bridge,1994,Huntington (WV),USA,in use,metal,Huntington,WV,West Virginia,55.3,12.9
+1642,Robert Craig Memorial Bridge,1957,Toledo (OH),USA,demolished,metal,Toledo,OH,Ohio,50.3,10.2
+1643,Robert F. Kennedy Bridge,1936,- New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+1644,Robert F. Kennedy Bridge Bronx Kill Span,1936,- New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+1645,Robert F. Kennedy Bridge Harlem River Lift Span,1936,- New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+1646,Robert O. Norris Bridge,1957,Lancaster County (VA),USA,in use,metal,Lancaster County,VA,Virginia,55.1,12.8
+1647,Robert R. Shoemaker Bridge,1959,Long Beach (CA),USA,in use,metal,Long Beach,CA,California,64.5,18.1
+1648,Roberto Clemente Bridge,1928,Pittsburgh (PA),USA,in use,metal,Pittsburgh,PA,Pennsylvania,51.4,10.8
+1649,Rochester-Monaca Bridge,1986,- Rochester (PA),USA,in use,metal,Rochester,PA,Pennsylvania,48.8,9.3
+1650,Rock Creek Bridge,1924,Sapulpa (OK),USA,out of service,metal,Sapulpa,OK,Oklahoma,65.0,18.3
+1651,Rock Island Bridge,1892,Rock Island (WA),USA,in use,metal,Rock Island,WA,Washington,50.0,10.0
+1652,Rock Island Bridge,1895,- Saint Paul Park (MN),USA,partially demolished,metal,Saint Paul Park,MN,Minnesota,41.2,5.1
+1653,Rock Island Government Bridge,1896,Rock Island (IL),USA,in use,metal,Rock Island,IL,Illinois,50.5,10.3
+1654,Rockpile Road Bridge,1978,Healdsburg (CA),USA,in use,metal,Healdsburg,CA,California,59.6,15.3
+1655,Rocks Village Bridge,1883,Haverhill (MA),USA,in use,metal,Haverhill,MA,Massachusetts,49.7,9.8
+1656,Rodrick Bridge,1872,Newark (OH),USA,in use,metal,Newark,OH,Ohio,51.4,10.8
+1657,Roeliff Jansen Kill Bridge,1932,Columbia County (NY),USA,in use,metal,Columbia County,NY,New York,45.4,7.4
+1658,Roosevelt Island Bridge,1955,New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+1659,Roosevelt Lake Bridge,1990,Roosevelt (AZ),USA,in use,metal,Roosevelt,AZ,Arizona,67.0,19.4
+1660,Roosevelt Road Bridge,1928,Chicago (IL),USA,in use,metal,Chicago,IL,Illinois,49.9,9.9
+1661,Ross Island Bridge,1926,Portland (OR),USA,in use,metal,Portland,OR,Oregon,54.5,12.5
+1662,Route 35 Victory Bridge,1926,- Sayreville (NJ),USA,demolished,metal,Sayreville,NJ,New Jersey,52.7,11.5
+1663,Roy Inks Bridge,1935,Llano (TX),USA,in use,metal,Llano,TX,Texas,66.5,19.2
+1664,Royal Gorge Bridge,1929,Canon City (CO),USA,in use,metal,Canon City,CO,Colorado,54.0,12.2
+1665,Ruby Street Bridge,1935,Joliet (IL),USA,in use,metal,Joliet,IL,Illinois,49.4,9.7
+1666,Rulo Bridge,1939,Rulo (NE),USA,in use,metal,Rulo,NE,Nebraska,52.1,11.2
+1667,Rush's Mill Bridge,1869,Reading (PA),USA,in use,metal,Reading,PA,Pennsylvania,50.9,10.5
+1668,Ryder Park Bridge,2006,San Mateo (CA),USA,in use,metal,San Mateo,CA,California,57.3,14.1
+1669,Sacandaga Reservoir Bridge,1930,Saratoga County (NY),USA,in use,metal,Saratoga County,NY,New York,45.4,7.4
+1670,Sacramento River Trail Pedestrian Bridge,1990,Redding (CA),USA,in use,metal,Redding,CA,California,62.3,16.8
+1671,Sagamore Bridge,1935,Sagamore (MA),USA,in use,metal,Sagamore,MA,Massachusetts,47.9,8.8
+1672,Saint Andrews Bay Bridge,1960,Panama City (FL),USA,in use,metal,Panama City,FL,Florida,69.0,20.6
+1673,Saint Charles Air Line Bridge,1930,Chicago (IL),USA,in use,metal,Chicago,IL,Illinois,49.9,9.9
+1674,Saint Claude Avenue Bridge,1919,New Orleans (LA),USA,in use,metal,New Orleans,LA,Louisiana,68.7,20.4
+1675,Saint Georges Bridge,1942,Saint Georges (DE),USA,in use,metal,Saint Georges,DE,Delaware,55.3,12.9
+1676,Saint Johns Bridge,1931,Portland (OR),USA,in use,metal,Portland,OR,Oregon,54.5,12.5
+1677,Saint Paul Avenue Bridge,1966,Milwaukee (WI),USA,in use,metal,Milwaukee,WI,Wisconsin,48.4,9.1
+1678,Saint Peter Bridge,1931,Saint Peter (MN),USA,in use,metal,Saint Peter,MN,Minnesota,41.2,5.1
+1679,Sakonnet River Bridge,1956,Portsmouth (RI),USA,in use,metal,Portsmouth,RI,Rhode Island,50.1,10.1
+1680,Salmon River Bridge at Wooley Creek,1970,Somes Bar (CA),USA,in use,metal,Somes Bar,CA,California,55.3,12.9
+1681,Sam Hill Memorial Bridge,1962,Biggs Junction (OR),USA,in use,metal,Biggs Junction,OR,Oregon,48.4,9.1
+1682,San Diego Central Courthouse Skyway,2017,San Diego (CA),USA,in use,metal,San Diego,CA,California,63.6,17.6
+1683,San Diego-Coronado Bay Bridge,1969,San Diego (CA),USA,in use,metal,San Diego,CA,California,63.6,17.6
+1684,San Francisco-Oakland Bay Bridge (East),1936,- Oakland (CA),USA,to be demolished,metal,Oakland,CA,California,59.4,15.2
+1685,San Francisco-Oakland Bay Bridge (East),2013,- Oakland (CA),USA,in use,metal,Oakland,CA,California,59.4,15.2
+1686,San Francisco-Oakland Bay Bridge (West),1936,- Oakland (CA),USA,in use,metal,Oakland,CA,California,59.4,15.2
+1687,San Juan River Bridge,1953,Mexican Hat (UT),USA,in use,metal,Mexican Hat,UT,Utah,56.2,13.4
+1688,San Luis Rey River Bridge,1929,Oceanside (CA),USA,in use,metal,Oceanside,CA,California,61.9,16.6
+1689,San Marcos River Bridge,1902,Gonzales (TX),USA,in use,metal,Gonzales,TX,Texas,68.3,20.2
+1690,San Mateo-Hayward Bridge,1967,- Hayward (CA),USA,in use,metal,Hayward,CA,California,61.2,16.2
+1691,Sand Island Park Bridge,1867,Bethlehem (PA),USA,in use,metal,Bethlehem,PA,Pennsylvania,51.4,10.8
+1692,Sarah Mildred Long Bridge,1940,Portsmouth (NH),USA,in use,metal,Portsmouth,NH,New Hampshire,46.0,7.8
+1693,Saratoga Lake Bridge,1923,Saratoga County (NY),USA,demolished,metal,Saratoga County,NY,New York,45.4,7.4
+1694,Sargent Bridge,1908,Sargent (NE),USA,destroyed,metal,Sargent,NE,Nebraska,24.2,-4.3
+1695,Satsop River Bridges,1967,Satsop (WA),USA,in use,metal,Satsop,WA,Washington,48.3,9.1
+1696,Sault Sainte Marie International Bridge,1962,Sault Sainte Marie (MI),USA,in use,metal,Sault Sainte Marie,MI,Michigan,44.4,6.9
+1697,Sauvie Island Bridge,2008,Multnomah County (OR),USA,in use,metal,Multnomah County,OR,Oregon,48.4,9.1
+1698,Savanna-Sabula Bridge,1932,Savanna (IL),USA,in use,metal,Savanna,IL,Illinois,51.8,11.0
+1699,Scarlet's Mill Bridge,1881,Scarlet's Mill (PA),USA,in use,metal,Scarlet's Mill,PA,Pennsylvania,48.8,9.3
+1700,Schaeffer's Ford Bridge,1889,Berks County (PA),USA,in use,metal,Berks County,PA,Pennsylvania,48.8,9.3
+1701,Schell Memorial Bridge,1903,Northfield (MA),USA,out of service,metal,Northfield,MA,Massachusetts,47.9,8.8
+1702,Schoharie Creek Arch Bridge,2002,Gilboa (NY),USA,in use,metal,Gilboa,NY,New York,43.8,6.6
+1703,School Street Bridge,1870,Glen Gardner (NJ),USA,in use,metal,Glen Gardner,NJ,New Jersey,52.7,11.5
+1704,Sciotoville Bridge,1916,- Portsmouth (OH),USA,in use,metal,Portsmouth,OH,Ohio,55.4,13.0
+1705,Scott Fitzhugh Bridge,1927,Dover (TN),USA,demolished,metal,Dover,TN,Tennessee,58.3,14.6
+1706,Scott Wike Lucas Bridge,1936,- Havana (IL),USA,in use,metal,Havana,IL,Illinois,53.0,11.7
+1707,Scottsburg Bridge,1929,Douglas County (OR),USA,in use,metal,Douglas County,OR,Oregon,48.4,9.1
+1708,Seattle-Tacoma Airport Skybridge,2019,SeaTac (WA),USA,project phase,metal,SeaTac,WA,Washington,48.3,9.1
+1709,Second Avenue Bridge,1939,Alpena (MI),USA,in use,metal,Alpena,MI,Michigan,43.6,6.4
+1710,Second Beebe Bridge,1962,Chelan County (WA),USA,in use,metal,Chelan County,WA,Washington,49.9,9.9
+1711,Second Blue Water Bridge,1997,- Port Huron (MI),USA,in use,metal,Port Huron,MI,Michigan,46.0,7.8
+1712,Second Street Bridge,1886,Allegan (MI),USA,in use,metal,Allegan,MI,Michigan,48.4,9.1
+1713,Sellwood Bridge,2016,Portland (OR),USA,in use,metal,Portland,OR,Oregon,54.5,12.5
+1714,Sellwood Bridge,1925,Portland (OR),USA,out of service,metal,Portland,OR,Oregon,54.5,12.5
+1715,"Senator John E. Reilly, Sr. Bridge",1927,Wilmington (DE),USA,in use,metal,Wilmington,DE,Delaware,54.4,12.4
+1716,Senator Robert D. Fleming Bridge,1962,Pittsburgh (PA),USA,in use,metal,Pittsburgh,PA,Pennsylvania,51.4,10.8
+1717,Seventh Street Bridge,1893,Richmond (VA),USA,demolished,metal,Richmond,VA,Virginia,58.9,14.9
+1718,Sewall's Bridge,1934,York (ME),USA,in use,metal,York,ME,Maine,41.0,5.0
+1719,Sewickley Bridge,1981,Sewickley (PA),USA,in use,metal,Sewickley,PA,Pennsylvania,48.8,9.3
+1720,Sewickley Bridge,1911,Sewickley (PA),USA,demolished,metal,Sewickley,PA,Pennsylvania,48.8,9.3
+1721,Shadle Bridge,1931,Point Pleasant (WV),USA,demolished,metal,Point Pleasant,WV,West Virginia,55.9,13.3
+1722,Shark River Bridge,1933,Belmar (NJ),USA,in use,metal,Belmar,NJ,New Jersey,52.7,11.5
+1723,Shaw Bridge,1870,Claverack (NY),USA,out of service,metal,Claverack,NY,New York,45.4,7.4
+1724,Sheffield Street Bridge,1884,Waterbury (CT),USA,in ruins,metal,Waterbury,CT,Connecticut,47.4,8.6
+1725,Shelburne Falls Bridge,1890,Shelburne Falls (MA),USA,in use,metal,Shelburne Falls,MA,Massachusetts,46.1,7.8
+1726,Sherman Minton Bridge,1962,Louisville (KY),USA,in use,metal,Louisville,KY,Kentucky,58.2,14.6
+1727,Shively Slough Bridge,1955,Buffalo County (WI),USA,in use,metal,Buffalo County,WI,Wisconsin,43.1,6.2
+1728,Short Line Bridge,1880,Minneapolis (MN),USA,out of service,metal,Minneapolis,MN,Minnesota,46.3,7.9
+1729,Sidaway Avenue Footbridge,1930,Cleveland (OH),USA,out of service,metal,Cleveland,OH,Ohio,51.4,10.8
+1730,Sideling Hill Service Plaza Access Bridge,1997,Bedford County (PA),USA,in use,metal,Bedford County,PA,Pennsylvania,38.5,3.6
+1731,Sidney Lanier Bridge,1956,Brunswick (GA),USA,demolished,metal,Brunswick,GA,Georgia,67.0,19.4
+1732,Sidney Sherman Bridge,1973,Houston (TX),USA,in use,metal,Houston,TX,Texas,69.9,21.1
+1733,Sikorsky Bridge,1939,Stratford (CT),USA,demolished,metal,Stratford,CT,Connecticut,52.0,11.1
+1734,Silas N. Pearman Bridge,1966,- Mount Pleasant (SC),USA,demolished,metal,Mount Pleasant,SC,South Carolina,64.0,17.8
+1735,Silver Bridge,1928,Point Pleasant (WV),USA,destroyed,metal,Point Pleasant,WV,West Virginia,55.9,13.3
+1736,Silver Memorial Bridge,1969,Kanauga (OH),USA,in use,metal,Kanauga,OH,Ohio,50.7,10.4
+1737,Simeon Willis Memorial Bridge,1985,Ashland (KY),USA,in use,metal,Ashland,KY,Kentucky,55.0,12.8
+1738,Simon Kenton Bridge,1931,Maysville (KY),USA,in use,metal,Maysville,KY,Kentucky,55.6,13.1
+1739,Sioux City Rail Bridge,1981,Sioux City (IA),USA,in use,metal,Sioux City,IA,Iowa,48.6,9.2
+1740,Siouxland Veterans Memorial Bridge,1981,Sioux City (IA),USA,in use,metal,Sioux City,IA,Iowa,48.6,9.2
+1741,Siuslaw River Bridge,1936,Florence (OR),USA,in use,metal,Florence,OR,Oregon,80.0,26.7
+1742,Sixth Street Los Angeles River Bridge,1932,Los Angeles (CA),USA,in use,metal,Los Angeles,CA,California,64.9,18.3
+1743,Sky Ride,1933,Chicago (IL),USA,demolished,metal,Chicago,IL,Illinois,49.9,9.9
+1744,SkyDance Bridge,2012,Oklahoma City (OK),USA,in use,metal,Oklahoma City,OK,Oklahoma,60.2,15.7
+1745,Slade Creek Bridge,1957,Saratoga County (NY),USA,in use,metal,Saratoga County,NY,New York,45.4,7.4
+1746,Smith Avenue High Bridge,1889,Saint Paul (MN),USA,demolished,metal,Saint Paul,MN,Minnesota,47.1,8.4
+1747,Smith Point Bridge,1959,Mastic Beach (NY),USA,in use,metal,Mastic Beach,NY,New York,45.4,7.4
+1748,Smithfield Street Bridge,1883,Pittsburgh (PA),USA,in use,metal,Pittsburgh,PA,Pennsylvania,51.4,10.8
+1749,Snow-Reed Swing Bridge,1925,Fort Lauderdale (FL),USA,in use,metal,Fort Lauderdale,FL,Florida,76.1,24.5
+1750,Snowden Lift Bridge,1913,Snowden (MT),USA,in use,metal,Snowden,MT,Montana,42.7,5.9
+1751,Soldiers Home Bridge,1908,Minneapolis (MN),USA,in use,metal,Minneapolis,MN,Minnesota,46.3,7.9
+1752,Sougahatchee Creek Bridge,1950,Lee County (AL),USA,out of service,metal,Lee County,AL,Alabama,62.8,17.1
+1753,South Cicero Avenue Bridge,1927,Chicago (IL),USA,in use,metal,Chicago,IL,Illinois,49.9,9.9
+1754,South Omaha Veterans Memorial Bridge,1935,Omaha (NE),USA,in use,metal,Omaha,NE,Nebraska,51.1,10.6
+1755,South Park Bridge,1931,Seattle (WA),USA,demolished,metal,Seattle,WA,Washington,52.6,11.4
+1756,South Side Bridge,1936,Charleston (WV),USA,in use,metal,Charleston,WV,West Virginia,55.3,12.9
+1757,South Washington Street Bridge,1886,Binghamton (NY),USA,in use,metal,Binghamton,NY,New York,48.5,9.2
+1758,Southwest Fifth Street Bridge,1898,Des Moines (IA),USA,out of service,metal,Des Moines,IA,Iowa,50.9,10.5
+1759,Speer Boulevard Little Raven Street Bridge,1990,Denver (CO),USA,in use,metal,Denver,CO,Colorado,50.2,10.1
+1760,Speer Boulevard Platte River Bridge,1999,Denver (CO),USA,in use,metal,Denver,CO,Colorado,50.2,10.1
+1761,Sprague Bridge,1913,Armenia (WI),USA,out of service,metal,Armenia,WI,Wisconsin,43.1,6.2
+1762,Spring Valley Bridge,1934,- Spring Valley (IL),USA,in use,metal,Spring Valley,IL,Illinois,51.8,11.0
+1763,Springfield Bridge,1929,Springfield (OR),USA,in use,metal,Springfield,OR,Oregon,51.0,10.6
+1764,Springfield Bridge,1874,Springfield (AR),USA,in use,metal,Springfield,AR,Arkansas,60.4,15.8
+1765,Spruce Street Suspension Bridge,1912,San Diego (CA),USA,in use,metal,San Diego,CA,California,63.6,17.6
+1766,Squire Valleevue Farm Footbridge,2002,Hunting Valley (OH),USA,in use,metal,Hunting Valley,OH,Ohio,50.7,10.4
+1767,Stanley Bender Bridge,1954,Kanawha County (WV),USA,demolished,metal,Kanawha County,WV,West Virginia,51.8,11.0
+1768,State Street Bridge,1949,Chicago (IL),USA,in use,metal,Chicago,IL,Illinois,49.9,9.9
+1769,Steamboat Slough Bridge,1924,Sacramento County (CA),USA,in use,metal,Sacramento County,CA,California,61.0,16.1
+1770,Steel Bridge,1912,Portland (OR),USA,in use,metal,Portland,OR,Oregon,54.5,12.5
+1771,Stillaguamish River-Haller Bridge,1999,Arlington (WA),USA,in use,metal,Arlington,WA,Washington,50.3,10.2
+1772,Stillwater Bridge,1930,Saratoga County (NY),USA,in use,metal,Saratoga County,NY,New York,45.4,7.4
+1773,Stillwater Bridge (Minnesota),1931,- Houlton (WI),USA,in use,metal,Houlton,WI,Wisconsin,43.1,6.2
+1774,Stono River SC 700 Bridge,1929,Charleston County (SC),USA,demolished,metal,Charleston County,SC,South Carolina,65.9,18.8
+1775,Sullivan-Hutsonville Bridge,1939,Hutsonville (IL),USA,demolished,metal,Hutsonville,IL,Illinois,55.2,12.9
+1776,Summer Street Bridge,1900,Boston (MA),USA,in use,metal,Boston,MA,Massachusetts,51.3,10.7
+1777,Summit Bridge,1960,Dover (DE),USA,in use,metal,Dover,DE,Delaware,56.1,13.4
+1778,Sunshine Bridge,1964,Sorrento (LA),USA,in use,metal,Sorrento,LA,Louisiana,66.4,19.1
+1779,Sunshine Skyway,1954,Saint Petersburg (FL),USA,demolished,metal,Saint Petersburg,FL,Florida,70.7,21.5
+1780,Sunshine Skyway,1971,Saint Petersburg (FL),USA,collapsed,metal,Saint Petersburg,FL,Florida,70.7,21.5
+1781,Susquehanna River Bridge,1950,- Highspire (PA),USA,demolished,metal,Highspire,PA,Pennsylvania,51.0,10.6
+1782,Sweetwater Mill Bridge,1909,Sweetwater (NE),USA,in use,metal,Sweetwater,NE,Nebraska,48.8,9.3
+1783,Sylvan Island Bridge,1901,Rock Island (IL),USA,demolished,metal,Rock Island,IL,Illinois,50.5,10.3
+1784,Sylvan Island Railroad Bridge,1891,Moline (IL),USA,out of service,metal,Moline,IL,Illinois,50.7,10.4
+1785,Sylvan Slough Railroad Bridge,1924,Rock Island (IL),USA,in use,metal,Rock Island,IL,Illinois,50.5,10.3
+1786,T. Evans Wyckoff Memorial Bridge,2008,Seattle (WA),USA,in use,metal,Seattle,WA,Washington,52.6,11.4
+1787,Tacoma Narrows Bridge,1940,Tacoma (WA),USA,collapsed,metal,Tacoma,WA,Washington,53.5,11.9
+1788,Tacoma Narrows Bridge,1950,Tacoma (WA),USA,in use,metal,Tacoma,WA,Washington,53.5,11.9
+1789,Tacony-Palmyra Bridge,1929,Palmyra (NJ),USA,in use,metal,Palmyra,NJ,New Jersey,52.7,11.5
+1790,Talcottville Main Street Bridge,1891,Vernon (CT),USA,in use,metal,Vernon,CT,Connecticut,49.0,9.4
+1791,Tappan Zee Bridge,1955,Greenburgh (NY),USA,demolished,metal,Greenburgh,NY,New York,45.4,7.4
+1792,Tavernor Road Bridge,1981,Sacramento County (CA),USA,in use,metal,Sacramento County,CA,California,61.0,16.1
+1793,Taylor Street Bridge,1929,Montpelier (VT),USA,in use,metal,Montpelier,VT,Vermont,42.5,5.8
+1794,Taylor-Southgate Bridge,1995,Cincinnati (OH),USA,in use,metal,Cincinnati,OH,Ohio,54.6,12.6
+1795,Telegraph Road Bridge,1911,Orleans County (NY),USA,in use,metal,Orleans County,NY,New York,45.4,7.4
+1796,Tempe Railroad Bridge,1912,Tempe (AZ),USA,damaged,metal,Tempe,AZ,Arizona,68.8,20.4
+1797,Tenbridge,1920,Chattanooga (TN),USA,in use,metal,Chattanooga,TN,Tennessee,60.9,16.1
+1798,Tenth Street Bridge,1958,Port Huron (MI),USA,in use,metal,Port Huron,MI,Michigan,46.0,7.8
+1799,Thaddeus Kosciusko Bridge,1959,Colonie (NY),USA,in use,metal,Colonie,NY,New York,45.4,7.4
+1800,The Dalles Bridge,1953,The Dalles (OR),USA,in use,metal,The Dalles,OR,Oregon,54.2,12.3
+1801,The Link,1988,Kansas City (MO),USA,in use,metal,Kansas City,MO,Missouri,54.6,12.6
+1802,Thebes Railroad Bridge,1905,Thebes (IL),USA,in use,metal,Thebes,IL,Illinois,51.8,11.0
+1803,Theodore Roosevelt Bridge,1964,Washington,USA,in use,metal,Washingto,WA,Washington,48.3,9.1
+1804,Third Avenue Bridge,2004,New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+1805,Third Avenue Bridge,1898,New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+1806,Third Elk Creek Crossing Bridge,1931,Douglas County (OR),USA,in use,metal,Douglas County,OR,Oregon,48.4,9.1
+1807,Third Street Bridge,1910,Cannon Falls (MN),USA,in use,metal,Cannon Falls,MN,Minnesota,41.2,5.1
+1808,Third Street Bridge,1903,New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+1809,Thomas Alva Edison Memorial Bridge,1940,Woodbridge (NJ),USA,in use,metal,Woodbridge,NJ,New Jersey,52.7,11.5
+1810,Thomas Creek Bridge,1961,- Brookings (OR),USA,in use,metal,Brookings,OR,Oregon,48.4,9.1
+1811,Thomas J. Hatem Memorial Bridge,1940,Havre de Grace (MD),USA,in use,metal,Havre de Grace,MD,Maryland,54.2,12.3
+1812,Thompson Bridge,1956,Gainesville (GA),USA,in use,metal,Gainesville,GA,Georgia,59.7,15.4
+1813,Throgs Neck Bridge,1961,New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+1814,Thurman Station Bridge,1941,Thurman (NY),USA,in use,metal,Thurman,NY,New York,45.4,7.4
+1815,Ticonic Footbridge,1904,Waterville (ME),USA,in use,metal,Waterville,ME,Maine,45.0,7.2
+1816,Tilton Island Park Bridge,1881,Tilton (NH),USA,in use,metal,Tilton,NH,New Hampshire,43.8,6.6
+1817,Tinkers Creek Aqueduct,1905,Valley View (OH),USA,dismantled,metal,Valley View,OH,Ohio,50.7,10.4
+1818,Tobin Memorial Bridge,1950,Boston (MA),USA,in use,metal,Boston,MA,Massachusetts,51.3,10.7
+1819,Toledo District Willamette Bridge,1921,Albany (OR),USA,in use,metal,Albany,OR,Oregon,51.0,10.6
+1820,Tomlinson Lift Bridge,2002,New Haven (CT),USA,in use,metal,New Haven,CT,Connecticut,53.6,12.0
+1821,Tompkins Street Bridge,1965,Binghamton (NY),USA,in use,metal,Binghamton,NY,New York,48.5,9.2
+1822,Topock BNSF Rail Bridge,1945,- Needles (CA),USA,in use,metal,Needles,CA,California,72.0,22.2
+1823,Topock Pipeline Bridge I,1957,Topock (AZ),USA,in use,metal,Topock,AZ,Arizona,73.6,23.1
+1824,Toppenish-Zillah Bridge,1947,Toppenish (WA),USA,in use,metal,Toppenish,WA,Washington,48.3,9.1
+1825,Torrence Avenue Bridge,1938,Chicago (IL),USA,in use,metal,Chicago,IL,Illinois,49.9,9.9
+1826,Tower Bridge,1935,Sacramento (CA),USA,in use,metal,Sacramento,CA,California,61.0,16.1
+1827,Town Bridge,1895,Canton (CT),USA,in use,metal,Canton,CT,Connecticut,49.0,9.4
+1828,Town Creek Truss-leg Bedstead Bridge,1894,Van Wert (OH),USA,in use,metal,Van Wert,OH,Ohio,50.9,10.5
+1829,Tracy Boulevard Bridge,1959,San Joaquin County (CA),USA,in use,metal,San Joaquin County,CA,California,59.4,15.2
+1830,Trails Arch Bridge,1916,Topock (AZ),USA,in use,metal,Topock,AZ,Arizona,73.6,23.1
+1831,Transit Road Bridge,1911,Orleans County (NY),USA,out of service,metal,Orleans County,NY,New York,45.4,7.4
+1832,Tribeca Bridge,1992,New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+1833,Troup Howell Bridge,1955,Rochester (NY),USA,demolished,metal,Rochester,NY,New York,48.2,9.0
+1834,Troy-Menands Bridge,1959,Troy (NY),USA,in use,metal,Troy,NY,New York,48.6,9.2
+1835,Troy-Waterford Bridge,1909,- Waterford (NY),USA,in use,metal,Waterford,NY,New York,45.4,7.4
+1836,TRRA Bridge,1889,Saint Louis (MO),USA,in use,metal,Saint Louis,MO,Missouri,54.5,12.5
+1837,Turkey River Bridge,1873,Festina (IA),USA,demolished,metal,Festina,IA,Iowa,47.8,8.8
+1838,Turn of River Bridge,1893,Stamford (CT),USA,out of service,metal,Stamford,CT,Connecticut,51.1,10.6
+1839,Turtle Bay Sundial Bridge,2004,Redding (CA),USA,in use,metal,Redding,CA,California,62.3,16.8
+1840,Tuthilltown Bridge,1938,Gardiner (NY),USA,in use,metal,Gardiner,NY,New York,45.4,7.4
+1841,Twin Bridge,1900,Brownlee (NE),USA,in use,metal,Brownlee,NE,Nebraska,48.8,9.3
+1842,Twin Bridges,1960,Philadelphia (PA),USA,in use,metal,Philadelphia,PA,Pennsylvania,55.9,13.3
+1843,Twin Suspension Bridges,1932,Prairie du Chien (WI),USA,demolished,metal,Prairie du Chien,WI,Wisconsin,43.1,6.2
+1844,Two Medicine River Bridge,1900,East Glacier (MT),USA,in use,metal,East Glacier,MT,Montana,42.7,5.9
+1845,TX 71 Business Colorado River Bridge,1941,La Grange (TX),USA,in use,metal,La Grange,TX,Texas,69.1,20.6
+1846,Tyngsborough Bridge,1930,Tyngsborough (MA),USA,in use,metal,Tyngsborough,MA,Massachusetts,47.9,8.8
+1847,U.S. 165 Business Bridge,1985,Alexandria (LA),USA,in use,metal,Alexandria,LA,Louisiana,65.3,18.5
+1848,U.S. 190 Atchafalaya River Bridge,1973,Krotz Springs (LA),USA,in use,metal,Krotz Springs,LA,Louisiana,66.4,19.1
+1849,U.S. 20 Iowa River Bridge,2003,Steamboat Rock (IA),USA,in use,metal,Steamboat Rock,IA,Iowa,34.4,1.3
+1850,U.S. 62 Arkansas River Bridge,1969,Muskogee (OK),USA,in use,metal,Muskogee,OK,Oklahoma,60.4,15.8
+1851,U.S. Route 30 Bridge,1909,Portland (OR),USA,in use,metal,Portland,OR,Oregon,54.5,12.5
+1852,U.S. Route 6 Maumee River Bridge,1969,Napoleon (OH),USA,in use,metal,Napoleon,OH,Ohio,50.0,10.0
+1853,Uhlerstown-Frenchtown Bridge,1931,Uhlerstown (PA),USA,in use,metal,Uhlerstown,PA,Pennsylvania,48.8,9.3
+1854,Umpqua River Bridge,1936,Reedsport (OR),USA,in use,metal,Reedsport,OR,Oregon,52.2,11.2
+1855,Union Pacific Colorado River Bridge,1902,Austin (TX),USA,in use,metal,Austin,TX,Texas,68.5,20.3
+1856,Union Pacific Kaskaskia River Bridge,1976,Randolph County (IL),USA,in use,metal,Randolph County,IL,Illinois,51.8,11.0
+1857,Union Pacific Railway Bridge,1923,- Burbank (WA),USA,in use,metal,Burbank,WA,Washington,53.9,12.2
+1858,Union Pacific Swing Bridge,1913,Hudson (WI),USA,in use,metal,Hudson,WI,Wisconsin,43.1,6.2
+1859,Union Street Bridge,1905,New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+1860,United States Navy Seabees Bridge,2003,- Chesterfield (NH),USA,in use,metal,Chesterfield,NH,New Hampshire,43.8,6.6
+1861,University Heights Bridge,1908,New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+1862,UP - Trinity River Bridge,1930,Dallas (TX),USA,in use,metal,Dallas,TX,Texas,66.3,19.1
+1863,Upper Black Eddy-Milford Bridge,1933,Upper Black Eddy (PA),USA,in use,metal,Upper Black Eddy,PA,Pennsylvania,48.8,9.3
+1864,Upper Bridge,1878,Keeseville (NY),USA,in use,metal,Keeseville,NY,New York,45.4,7.4
+1865,Upper Suspension Bridge,1878,Montague (MA),USA,demolished,metal,Montague,MA,Massachusetts,47.9,8.8
+1866,US 12 Naches River Bridge,1958,Yakima (WA),USA,in use,metal,Yakima,WA,Washington,49.7,9.8
+1867,US 12 Naches River Bridge,1966,Yakima (WA),USA,in use,metal,Yakima,WA,Washington,49.7,9.8
+1868,US-291 Colorado River Bridge,1937,Marble Falls (TX),USA,demolished,metal,Marble Falls,TX,Texas,64.8,18.2
+1869,US-8 Saint Croix River Bridge,1955,Taylors Falls (MN),USA,in use,metal,Taylors Falls,MN,Minnesota,41.2,5.1
+1870,Valley River Foot Bridge,1939,Murphy (NC),USA,in use,metal,Murphy,NC,North Carolina,59.0,15.0
+1871,Van Buren Street Bridge,1913,Corvallis (OR),USA,in use,metal,Corvallis,OR,Oregon,52.1,11.2
+1872,Van Buren Street Bridge,1956,Chicago (IL),USA,in use,metal,Chicago,IL,Illinois,49.9,9.9
+1873,Vance Creek Bridge,1929,Shelton (WA),USA,out of service,metal,Shelton,WA,Washington,51.0,10.6
+1874,Vernita Bridge,1965,Benton County (WA),USA,in use,metal,Benton County,WA,Washington,48.3,9.1
+1875,Verrazzano-Narrows Bridge,1964,New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+1876,Veterans Administration Skybridge,1993,Portland (OR),USA,in use,metal,Portland,OR,Oregon,54.5,12.5
+1877,Veterans Bridge,1987,Pittsburgh (PA),USA,in use,metal,Pittsburgh,PA,Pennsylvania,51.4,10.8
+1878,Veterans Memorial Bridge,1995,Gramercy (LA),USA,in use,metal,Gramercy,LA,Louisiana,66.4,19.1
+1879,Veterans Memorial Bridge,2003,Saint Louis County (MO),USA,in use,metal,Saint Louis County,MO,Missouri,54.5,12.5
+1880,Veterans Memorial Bridge,1957,Bay City (MI),USA,in use,metal,Bay City,MI,Michigan,47.4,8.6
+1881,Veterans Memorial Bridge,2003,- Maryland Heights (MO),USA,in use,metal,Maryland Heights,MO,Missouri,54.5,12.5
+1882,Veterans Memorial Bridge,1984,Chattanooga (TN),USA,in use,metal,Chattanooga,TN,Tennessee,60.9,16.1
+1883,Veterans Memorial Bridge,1966,- Hansen (ID),USA,in use,metal,Hansen,ID,Idaho,44.4,6.9
+1884,Vicksburg Bridge,1973,Vicksburg (MS),USA,in use,metal,Vicksburg,MS,Mississippi,64.7,18.2
+1885,Vincent Thomas Bridge,1963,Los Angeles (CA),USA,in use,metal,Los Angeles,CA,California,64.9,18.3
+1886,W. D. Mansfield Memorial Bridge,1951,Dravosburg (PA),USA,in use,metal,Dravosburg,PA,Pennsylvania,48.8,9.3
+1887,WA 131 Cowlitz River Bridge,1949,Randle (WA),USA,in use,metal,Randle,WA,Washington,49.7,9.8
+1888,Wabash Avenue Bridge,1930,Chicago (IL),USA,in use,metal,Chicago,IL,Illinois,49.9,9.9
+1889,Wabash Bridge,1936,- Saint Charles (MO),USA,in use,metal,Saint Charles,MO,Missouri,54.5,12.5
+1890,Wabash Bridge,1948,Pittsburgh (PA),USA,demolished,metal,Pittsburgh,PA,Pennsylvania,51.4,10.8
+1891,Wabash Memorial Bridge,1956,Mount Vernon (IN),USA,in use,metal,Mount Vernon,IN,Indiana,56.3,13.5
+1892,Wabasha-Nelson Bridge,1988,Wabasha (MN),USA,in use,metal,Wabasha,MN,Minnesota,36.6,2.6
+1893,Waco Suspension Bridge,1869,Waco (TX),USA,in use,metal,Waco,TX,Texas,67.6,19.8
+1894,WACR Winooski River Bridge (West),1903,Montpelier (VT),USA,out of service,metal,Montpelier,VT,Vermont,42.5,5.8
+1895,"Waddell ""A"" Truss Bridge",1898,- Trimble (MO),USA,in use,metal,Trimble,MO,Missouri,54.5,12.5
+1896,Wakota Bridge,1959,Saint Paul Park (MN),USA,demolished,metal,Saint Paul Park,MN,Minnesota,41.2,5.1
+1897,Waldo-Hancock Bridge,1931,Verona Island (ME),USA,demolished,metal,Verona Island,ME,Maine,41.0,5.0
+1898,Walker Road Bridge,1998,Siskiyou County (CA),USA,in use,metal,Siskiyou County,CA,California,59.4,15.2
+1899,Walnut Street Bridge,1890,Harrisburg (PA),USA,in use,metal,Harrisburg,PA,Pennsylvania,53.2,11.8
+1900,Walnut Street Bridge,1891,Chattanooga (TN),USA,in use,metal,Chattanooga,TN,Tennessee,60.9,16.1
+1901,Walnut Street Bridge,1860,Hellertown (PA),USA,out of service,metal,Hellertown,PA,Pennsylvania,51.3,10.7
+1902,Walnut Street Toll Bridge,1913,Hudson (WI),USA,demolished,metal,Hudson,WI,Wisconsin,43.1,6.2
+1903,Walt Whitman Bridge,1957,Philadelphia (PA),USA,in use,metal,Philadelphia,PA,Pennsylvania,55.9,13.3
+1904,War Eagle Bridge,1907,War Eagle (AR),USA,in use,metal,War Eagle,AR,Arkansas,60.4,15.8
+1905,War Mothers Memorial Bridge,1938,Frankfort (KY),USA,in use,metal,Frankfort,KY,Kentucky,55.5,13.1
+1906,Wards Island Bridge,1951,New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+1907,Warm Springs Footbridge,2000,Boise (ID),USA,in use,metal,Boise,ID,Idaho,52.5,11.4
+1908,Warsaw Middle Bridge,1913,Warsaw (MO),USA,demolished,metal,Warsaw,MO,Missouri,55.0,12.8
+1909,Washington Bridge,1889,New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+1910,Washington Crossing Bridge,1924,Pittsburgh (PA),USA,in use,metal,Pittsburgh,PA,Pennsylvania,51.4,10.8
+1911,Washington Crossing Bridge,1904,Titusville (NJ),USA,in use,metal,Titusville,NJ,New Jersey,52.7,11.5
+1912,Washington Street Bridge,1913,Chicago (IL),USA,in use,metal,Chicago,IL,Illinois,49.9,9.9
+1913,Waterford Truss Bridge,1889,Waterford (VA),USA,in use,metal,Waterford,VA,Virginia,55.1,12.8
+1914,Waterville Bridge,1890,Green Point (PA),USA,in use,metal,Green Point,PA,Pennsylvania,48.8,9.3
+1915,Waverly Bridge,1914,West Point (MS),USA,out of service,metal,West Point,MS,Mississippi,63.4,17.4
+1916,Wax Lake Outlet Highway Bridge,1941,Patterson (LA),USA,demolished,metal,Patterson,LA,Louisiana,66.4,19.1
+1917,Wax Lake Outlet Pipeline Bridge,1980,Patterson (LA),USA,in use,metal,Patterson,LA,Louisiana,66.4,19.1
+1918,Wax Lake Outlet Pipeline Bridge,1975,Patterson (LA),USA,demolished,metal,Patterson,LA,Louisiana,66.4,19.1
+1919,Wax Lake Outlet Pipeline Bridge,1976,Patterson (LA),USA,in use,metal,Patterson,LA,Louisiana,66.4,19.1
+1920,Wax Lake Outlet Pipeline Bridge,1976,Patterson (LA),USA,in use,metal,Patterson,LA,Louisiana,66.4,19.1
+1921,Wax Lake Outlet Pipeline Bridge,1980,Patterson (LA),USA,in use,metal,Patterson,LA,Louisiana,66.4,19.1
+1922,Wax Lake Outlet Pipeline Suspension Bridge,1980,Patterson (LA),USA,in use,metal,Patterson,LA,Louisiana,66.4,19.1
+1923,Wax Lake Outlet Railroad Bridge,1941,Patterson (LA),USA,in use,metal,Patterson,LA,Louisiana,66.4,19.1
+1924,Wayside Drive Bridge,1956,Houston (TX),USA,in use,metal,Houston,TX,Texas,69.9,21.1
+1925,Wellesley Island Suspension Bridge,1938,Omar (NY),USA,in use,metal,Omar,NY,New York,45.4,7.4
+1926,Wells Street Bridge,1922,Chicago (IL),USA,in use,metal,Chicago,IL,Illinois,49.9,9.9
+1927,Wenatchee Avenue Bridge,1933,Sunnyslope (WA),USA,in use,metal,Sunnyslope,WA,Washington,48.3,9.1
+1928,Wenatchee Avenue Bridge,1955,Sunnyslope (WA),USA,in use,metal,Sunnyslope,WA,Washington,48.3,9.1
+1929,West End Bridge,1932,Pittsburgh (PA),USA,in use,metal,Pittsburgh,PA,Pennsylvania,51.4,10.8
+1930,West End Bridge,1970,Huntington (WV),USA,in use,metal,Huntington,WV,West Virginia,55.3,12.9
+1931,West Monitor Bridge,1907,Chelan County (WA),USA,in use,metal,Chelan County,WA,Washington,49.9,9.9
+1932,West Thames Street Bridge,2019,New York (NY),USA,under construction,metal,New York,NY,New York,55.5,13.1
+1933,Western Avenue Bridge,1940,Blue Island (IL),USA,in use,metal,Blue Island,IL,Illinois,51.8,11.0
+1934,Westerville Bridge,1888,Franklin County (OH),USA,in use,metal,Franklin County,OH,Ohio,52.1,11.2
+1935,Wheeling Suspension Bridge,1849,Wheeling (WV),USA,in use,metal,Wheeling,WV,West Virginia,51.8,11.0
+1936,Whipple Cast & Wrought Iron Bowstring Truss Bridge,1867,Normans Kill (NY),USA,in use,metal,Normans Kill,NY,New York,45.4,7.4
+1937,Whirlpool Rapids Bridge,1897,Niagara Falls (NY),USA,in use,metal,Niagara Falls,NY,New York,47.7,8.7
+1938,White Bowstring Arch Truss Bridge,1877,Poland (OH),USA,in use,metal,Poland,OH,Ohio,50.7,10.4
+1939,White Canyon Bridge,1966,San Juan County (UT),USA,in use,metal,San Juan County,UT,Utah,48.6,9.2
+1940,White Pass & Yukon Railroad Bridge,1901,Skagway (AK),USA,out of service,metal,Skagway,AK,Alaska,41.5,5.3
+1941,White River Bridge,1963,Benton County (AR),USA,in use,metal,Benton County,AR,Arkansas,62.2,16.8
+1942,Wiley's Bridge,1883,Ontelaunee Township (PA),USA,out of service,metal,Ontelaunee Township,PA,Pennsylvania,48.8,9.3
+1943,Wilkes T. Thrasher Bridge,1955,Chattanooga (TN),USA,in use,metal,Chattanooga,TN,Tennessee,60.9,16.1
+1944,Willamette Boulevard Bridge,1909,Portland (OR),USA,in use,metal,Portland,OR,Oregon,54.5,12.5
+1945,William A. Stickel Memorial Bridge,1949,Newark (NJ),USA,in use,metal,Newark,NJ,New Jersey,54.9,12.7
+1946,William H. Murray Bridge,1933,El Reno (OK),USA,in use,metal,El Reno,OK,Oklahoma,60.0,15.6
+1947,William Raymond Prom Memorial Bridge,1928,Pittsburgh (PA),USA,in use,metal,Pittsburgh,PA,Pennsylvania,51.4,10.8
+1948,William S. Ritchie Bridge,1981,Ravenswood (WV),USA,in use,metal,Ravenswood,WV,West Virginia,54.9,12.7
+1949,Williamsburg Bridge,1903,New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+1950,Willis Avenue Bridge,2010,New York (NY),USA,in use,metal,New York,NY,New York,55.5,13.1
+1951,Willis Avenue Bridge,1901,New York (NY),USA,demolished,metal,New York,NY,New York,55.5,13.1
+1952,Wills Creek Bollman Bridge,1871,Somerset County (PA),USA,in use,metal,Somerset County,PA,Pennsylvania,47.8,8.8
+1953,Wilson Canyon Bridge,1938,Coconino County (AZ),USA,in use,metal,Coconino County,AZ,Arizona,60.3,15.7
+1954,Wind River Suspension Bridge,1998,Carson (WA),USA,in use,metal,Carson,WA,Washington,48.0,8.9
+1955,Winona Bridge,1924,Winona (AZ),USA,in use,metal,Winona,AZ,Arizona,60.3,15.7
+1956,Winona Main Channel Bridge,1941,Winona (MN),USA,in use,metal,Winona,MN,Minnesota,46.9,8.3
+1957,Winona Railroad Bridge,1891,Winona (MN),USA,demolished,metal,Winona,MN,Minnesota,46.9,8.3
+1958,Winston Bridge,1934,Douglas County (OR),USA,in use,metal,Douglas County,OR,Oregon,48.4,9.1
+1959,Wittpenn Bridge,2021,Jersey City (NJ),USA,under construction,metal,Jersey City,NJ,New Jersey,52.6,11.4
+1960,Wittpenn Bridge,1930,Jersey City (NJ),USA,in use,metal,Jersey City,NJ,New Jersey,52.6,11.4
+1961,Wolf Point Bridge,1930,Wolf Point (MT),USA,out of service,metal,Wolf Point,MT,Montana,44.0,6.7
+1962,World War I Memorial Bridge,2013,Portsmouth (NH),USA,in use,metal,Portsmouth,NH,New Hampshire,46.0,7.8
+1963,Wyoming Bridge,1878,Dunbar (NE),USA,demolished,metal,Dunbar,NE,Nebraska,48.8,9.3
+1964,Yale Bridge,1932,Yale (WA),USA,in use,metal,Yale,WA,Washington,48.3,9.1
+1965,Yancopin Bridge,1903,Arkansas County (AR),USA,out of service,metal,Arkansas County,AR,Arkansas,60.4,15.8
+1966,Yaquina Bay Bridge,1936,Newport (OR),USA,in use,metal,Newport,OR,Oregon,51.0,10.6
+1967,Yardley-Wilburtha Bridge,1903,Ewing (NJ),USA,destroyed,metal,Ewing,NJ,New Jersey,52.7,11.5
+1968,Yazoo River Bridge,1950,Redwood (MS),USA,demolished,metal,Redwood,MS,Mississippi,63.4,17.4
+1969,Yellowstone River Bridge,1930,Gardiner (MT),USA,in use,metal,Gardiner,MT,Montana,36.0,2.2
+1970,Yuma Crossing Railroad Bridge,1923,Yuma (AZ),USA,in use,metal,Yuma,AZ,Arizona,71.6,22.0
+1971,Zablocki Drive Bridge,1960,Milwaukee (WI),USA,in use,metal,Milwaukee,WI,Wisconsin,48.4,9.1
+1972,Zieglers Ford Bridge,1904,Decoria Township (MN),USA,demolished,metal,Decoria Township,MN,Minnesota,41.2,5.1
+1973,Zoarville Station Bridge,1868,Zoarville (OH),USA,in use,metal,Zoarville,OH,Ohio,47.4,8.6
